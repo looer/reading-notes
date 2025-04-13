@@ -1,24 +1,73 @@
 <!-- pages/book/[id].vue -->
 <template>
   <div v-if="book" class="max-w-4xl mx-auto">
-    <header class="mb-8">
-      <h1 class="text-3xl font-bold mb-2">{{ book.title }}</h1>
-      <p class="text-xl opacity-75">by {{ book.author }}</p>
+    <header class="mb-20">
+      <h1 class="text-3xl font-bold mb-2 text-center font-serif">
+        {{ book.title }}
+      </h1>
+      <p class="text-xl opacity-75 text-center">by {{ book.author }}</p>
     </header>
 
-    <div class="space-y-8">
+    <div class="space-y-12">
       <div
         v-for="annotation in book.annotations"
         :key="annotation.identifier"
-        class="card bg-base-100 shadow-xl hover:shadow-2xl transition-all"
+        class="card bg-base-100 shadow-xl hover:shadow-2xl transition-all group"
       >
         <div class="card-body">
           <blockquote class="text-2xl font-serif leading-relaxed">
-            "{{ annotation.text }}"
+            <IconsQuote class="w-8 h-8 opacity-50 sm:m-6" />
+            <p class="mx-auto py-6 sm:px-12 whitespace-pre-line text-pretty">
+              {{ annotation.text }}
+            </p>
+            <IconsQuote
+              class="w-8 h-8 opacity-50 ml-auto sm:mr-6 sm:mb-6 rotate-180"
+            />
           </blockquote>
-          <div class="card-actions justify-end">
-            <div class="badge badge-neutral">
-              {{ new Date(annotation.date).toLocaleDateString() }}
+
+          <div class="card-actions justify-between items-center opacity-50">
+            <div class="pl-12">
+              {{ new Date(annotation.date).toLocaleString() }}
+            </div>
+
+            <div class="">
+              <button
+                class="btn btn-ghost sm:opacity-0 group-hover:opacity-100 transition-opacity"
+                @click="copyAnnotation(annotation, book)"
+              >
+                <div class="tooltip" data-tip="Copy">
+                  <span class="sr-only">Copy</span>
+                  <IconsCopy class="w-6 h-6" />
+                </div>
+              </button>
+              <button
+                class="btn btn-ghost sm:opacity-0 group-hover:opacity-100 transition-opacity"
+                @click="tweetAnnotation(annotation, book)"
+              >
+                <div class="tooltip" data-tip="Tweet">
+                  <span class="sr-only">Tweet</span>
+                  <IconsXLogo class="w-6 h-6" />
+                </div>
+              </button>
+              <button
+                class="btn btn-ghost"
+                @click="favoriteAnnotation(annotation, book)"
+              >
+                <div
+                  v-if="isFavorite"
+                  class="tooltip"
+                  data-tip="Mark as favorite"
+                >
+                  <span class="sr-only">Mark as favorite</span>
+                  <IconsStarFavorite
+                    class="w-6 h-6 sm:opacity-0 group-hover:opacity-100 transition-opacity"
+                  />
+                </div>
+                <div v-else class="tooltip" data-tip="Unmark as favorite">
+                  <span class="sr-only">Unmark as favorite</span>
+                  <IconsStar class="w-6 h-6 opacity-100" />
+                </div>
+              </button>
             </div>
           </div>
         </div>
@@ -56,18 +105,24 @@ const book = computed(() =>
   books.value?.find((b) => b.fileName === route.params.id)
 )
 
+const isFavorite = ref(false) // TODO: get from local storage
+
 const tweetAnnotation = (annotation: Annotation, book: Book) => {
   const url = new URL("https://twitter.com/intent/tweet")
-  const tweetText = `${annotation.text}\n\n- ${book.author}, ${book.title}`
+  const tweetText = formatAnnotation(annotation, book)
   url.searchParams.set("text", tweetText)
   window.open(url.toString(), "_blank")
-  //   <a class="twitter-share-button"
-  //   href="https://twitter.com/intent/tweet?text=Hello%20world"
-  //   data-size="large">
-  // Tweet</a>
 }
 
-const copyAnnotation = (annotation: Annotation) => {
-  navigator.clipboard.writeText(annotation.text)
+const copyAnnotation = (annotation: Annotation, book: Book) => {
+  navigator.clipboard.writeText(formatAnnotation(annotation, book))
+}
+
+const favoriteAnnotation = (annotation: Annotation, book: Book) => {
+  isFavorite.value = !isFavorite.value
+}
+
+const formatAnnotation = (annotation: Annotation, book: Book) => {
+  return `${annotation.text}\n\n- ${book.author}, ${book.title}`
 }
 </script>

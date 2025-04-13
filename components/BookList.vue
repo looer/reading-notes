@@ -35,9 +35,8 @@
             <kbd class="kbd kbd-sm">K</kbd>
           </label>
         </div>
-        <div class="flex gap-2">
+        <div class="flex gap-2 mb-3">
           <fieldset class="fieldset w-full">
-            <!-- <legend class="fieldset-legend">Sort by:</legend> -->
             <select id="sort" v-model="sortBy" class="select select-bordered">
               <option value="annotations">Sort by annotations</option>
               <option value="title">Sort by title</option>
@@ -58,9 +57,7 @@
         <div class="card-body">
           <h3 class="card-title text-base">{{ book.title }}</h3>
           <p class="text-sm opacity-75">{{ book.author }}</p>
-          <p class="text-xs opacity-60 badge badge-neutral">
-            {{ book.annotations.length }} annotations
-          </p>
+          <p class="text-xs badge">{{ book.annotations.length }} annotations</p>
         </div>
       </NuxtLink>
     </template>
