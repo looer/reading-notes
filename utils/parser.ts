@@ -34,7 +34,7 @@ export async function parseAnnotationFile(filePath: string): Promise<Book> {
             identifier: annotation['dc:identifier'][0],
             date: new Date(annotation['dc:date'][0]).toISOString(),
             text: annotation.target[0].fragment[0].text[0]
-        })).sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+        })).sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime());
     }
 
     return book;
