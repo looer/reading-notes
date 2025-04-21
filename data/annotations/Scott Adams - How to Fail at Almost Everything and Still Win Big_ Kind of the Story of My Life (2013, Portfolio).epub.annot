@@ -1,0 +1,322 @@
+
+<annotationSet xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://ns.adobe.com/digitaleditions/annotations">
+    <publication>
+        <dc:identifier>9780241968703</dc:identifier>
+        <dc:title>How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life</dc:title>
+        <dc:creator>Adams, Scott</dc:creator>
+        <dc:language>en</dc:language>
+    </publication>
+    <annotation>
+        <dc:identifier>urn:uuid:7dabd26d-3ec8-4c09-8045-b5ab9e73f436</dc:identifier>
+        <dc:date>2022-12-07T01:25:10Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0007_split_001.html#point(/1/4/2/2/28/1:125)" end="text/part0007_split_001.html#point(/1/4/2/2/32:0)" progress="0.0734824">
+                <text>over the years I have cultivated a unique relationship with failure. I invite it. I survive it. I appreciate it. And then I mug the shit out of it.
+ Failure always brings something valuable with it. I don’t let it leave until I extract that value. I have a long history of profiting from failure. My cartooning career, for example, is a direct result of failing to succeed in the corporate environment.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:8a323a94-e49c-45b8-b877-2f6a9d8d5bb1</dc:identifier>
+        <dc:date>2022-12-07T08:30:08Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0008_split_001.html#point(/1/4/2/2/24/5:40)" end="text/part0008_split_001.html#point(/1/4/2/2/26:0)" progress="0.0894569">
+                <text>Success caused passion more than passion caused success.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:5ee54f4f-980c-468c-a2bb-2a963fac4294</dc:identifier>
+        <dc:date>2022-12-07T01:26:35Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0008_split_001.html#point(/1/4/2/2/8/1:102)" end="text/part0008_split_001.html#point(/1/4/2/2/8/1:142)" progress="0.0830671">
+                <text>my boss taught us that you should never </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:d56e36ba-2026-42a5-8dde-77fdab5aa384</dc:identifier>
+        <dc:date>2022-12-07T17:28:54Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0009_split_001.html#point(/1/4/2/2/6/2:261)" end="text/part0009_split_001.html#point(/1/4/2/2/8:0)" progress="0.0958466">
+                <text>that’s exactly where you want to be: steeped to your eyebrows in failure. It’s a good place to be because failure is where success likes to hide in plain sight. Everything you want out of life is in that huge, bubbling vat of failure. The trick is to get the good stuff out.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:cd628b6a-ca87-4ef8-8c66-c47eeb6bb560</dc:identifier>
+        <dc:date>2022-12-07T20:07:32Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0009_split_001.html#point(/1/4/2/2/18/42/1:324)" end="text/part0009_split_001.html#point(/1/4/2/2/18/44:0)" progress="0.111821">
+                <text>The company struggled for a few years and then shut down. YouTube got the timing right. This was about the time I started to understand that timing is often the biggest component of success. And since timing is often hard to get right unless you are psychic, it makes sense to try different things until you get the timing right by luck.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:6b6ae5ff-f84f-42f0-8596-73fb5fcdf30b</dc:identifier>
+        <dc:date>2022-12-07T20:51:32Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0011_split_001.html#point(/1/4/2/2/22/1:271)" end="text/part0011_split_001.html#point(/1/4/2/2/24:0)" progress="0.15655">
+                <text>goal-oriented people exist in a state of nearly continuous failure that they hope will be temporary. That feeling wears on you. In time, it becomes heavy and uncomfortable. It might even drive you out of the game.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:4f8fe69a-9e84-45b2-bc24-ad3599ccb458</dc:identifier>
+        <dc:date>2022-12-07T20:38:20Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0011_split_001.html#point(/1/4/2/2/13:1)" end="text/part0011_split_001.html#point(/1/4/2/2/14/1:143)" progress="0.153355">
+                <text>This was my first exposure to the idea that one should have a system instead of a goal. The system was to continually look for better options. </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:d7de055a-94c8-4157-8733-367130bf9ead</dc:identifier>
+        <dc:date>2022-12-08T00:11:46Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0011_split_001.html#point(/1/4/2/2/30/1:234)" end="text/part0011_split_001.html#point(/1/4/2/2/32:0)" progress="0.159744">
+                <text>exercising daily is a system. In business, making a million dollars is a goal, but being a serial entrepreneur is a system.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:89212a81-7b44-44c8-bbcd-982c727af5be</dc:identifier>
+        <dc:date>2022-12-11T11:24:30Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0014_split_001.html#point(/1/4/2/2/10/3:391)" end="text/part0014_split_001.html#point(:1)" progress="0.217252">
+                <text>Successful people don’t wish for success; they decide to pursue it. And to pursue it effectively, they need a system. Success always has a price, but the reality is that the price is negotiable. If you pick the right system, the price will be a lot nearer what you’re willing to pay.
+ I can’t change the fact that success requires a lot of work. But if you learn to appreciate the power of systems over goals, it might lower the price of success just enough to make it worth a go.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:840c72ad-9265-48b1-915f-4513fa3f07d0</dc:identifier>
+        <dc:date>2022-12-11T11:22:33Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0014_split_001.html#point(/1/4/2/2/6/2:67)" end="text/part0014_split_001.html#point(/1/4/2/2/6/4:0)" progress="0.217252">
+                <text>If you want success, figure out the price, then pay it.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:67890822-af77-4b87-820c-41c2239e37a9</dc:identifier>
+        <dc:date>2022-12-11T11:26:40Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0015_split_001.html#point(/1/4/2/2/17:1)" end="text/part0015_split_001.html#point(/1/4/2/2/18/1:176)" progress="0.230032">
+                <text>The most important form of selfishness involves spending time on your fitness, eating right, pursuing your career, and still spending quality time with your family and friends.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:9fdfa06e-937b-4c06-93da-5cae95c8cee5</dc:identifier>
+        <dc:date>2022-12-11T23:33:17Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0016_split_001.html#point(/1/4/2/2/97:1)" end="text/part0016_split_001.html#point(/1/4/2/2/100:0)" progress="0.265176">
+                <text>Optimizing is often the strategy of people who have specific goals and feel the need to do everything in their power to achieve them. Simplifying is generally the strategy of people who view the world in terms of systems. The best systems are simple, and for good reason. Complicated systems have more opportunities for failure. Human nature is such that we’re good at following simple systems and not so good at following complicated systems.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:5be5169e-fd12-48a0-a4ba-cc2f720091f8</dc:identifier>
+        <dc:date>2022-12-11T23:37:20Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0016_split_001.html#point(/1/4/2/2/125:1)" end="text/part0016_split_001.html#point(/1/4/2/2/126/1:286)" progress="0.271565">
+                <text>Cleaning and organizing your space is boring work, and you might never see it as a priority. One trick I’ve learned is that I automatically generate enthusiasm about tidying up if I know someone is stopping by. That’s why it’s a good idea to invite people over on a regular basis.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:65af66f6-a3a2-4587-92f7-d46a48a13780</dc:identifier>
+        <dc:date>2022-12-12T23:37:10Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0018_split_001.html#point(/1/4/2/2/6/2:176)" end="text/part0018_split_001.html#point(/1/4/2/2/6/2:295)" progress="0.322684">
+                <text>Your decision to read this book is confirmation that you are a person of action who has a desire to be more effective. </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:2b7cb87d-10b6-452c-9d48-7387599e6e22</dc:identifier>
+        <dc:date>2022-12-14T00:24:17Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0024_split_001.html#point(/1/4/2/2/15:1)" end="text/part0024_split_001.html#point(/1/4/2/2/16/1:176)" progress="0.412141">
+                <text>My observation is that some people are born with a natural impulse to practice things and some people find mindless repetition without immediate reward to be a form of torture.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:cbf41536-bff2-460b-a657-9619e397aafc</dc:identifier>
+        <dc:date>2022-12-14T00:26:07Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0024_split_001.html#point(/1/4/2/2/18/1:351)" end="text/part0024_split_001.html#point(/1/4/2/2/19:0)" progress="0.415335">
+                <text>You simply need to pick a life strategy that rewards novelty seeking more than mindless repetition. For example, you might want to be an architect, designer, home builder, computer programmer, entrepreneur, Web site designer, or even doctor.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:618de13b-6b66-482b-a7a9-a36c8d9f7d10</dc:identifier>
+        <dc:date>2022-12-15T18:48:26Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0026_split_001.html#point(/1/4/2/2/74/1:263)" end="text/part0026_split_001.html#point(/1/4/2/2/76:0)" progress="0.463259">
+                <text>Positivity is far more than a mental preference. It changes your brain, literally, and it changes the people around you. It’s the nearest thing we have to magic.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:edda993a-5eff-4b0b-b99a-cac4aa2be865</dc:identifier>
+        <dc:date>2022-12-15T18:48:57Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0026_split_001.html#point(/1/4/2/2/76/1:65)" end="text/part0026_split_001.html#point(/1/4/2/2/77:0)" progress="0.463259">
+                <text>we don’t always have an accurate view of our own potential. I think most people who are frightened of public speaking can’t imagine they might feel different as a result of training. Don’t assume you know how much potential you have. Sometimes the only way to know what you can do is to test yourself.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:a4bd70ba-87c2-499d-84b3-e792e8332859</dc:identifier>
+        <dc:date>2022-12-15T18:47:47Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0026_split_001.html#point(/1/4/2/2/72/1:51)" end="text/part0026_split_001.html#point(/1/4/2/2/72/3:71)" progress="0.460064">
+                <text>The most important is the transformative power of praise versus the corrosive impact of criticism. I’ve had a number of occasions since then to test the powers of praise, and I find it an amazing force, especially for adults. Children are accustomed to a continual stream of criticisms and praise, but adults can go weeks without a compliment while enduring criticism both at work and at home. Adults are starved for a kind word.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:fdb0a66d-c03d-45cb-9f02-e7c46d7cf067</dc:identifier>
+        <dc:date>2022-12-15T18:49:09Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0026_split_001.html#point(/1/4/2/2/84/3:7)" end="text/part0026_split_001.html#point(/1/4/2/2/84/3:191)" progress="0.463259">
+                <text>, a real-estate salesperson might show you the worst house first, knowing it will make you appreciate the better home you see later, and it might make you reach deeper in your pockets.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:abf2bf4d-dade-460c-a730-f215f4350f70</dc:identifier>
+        <dc:date>2022-12-16T13:23:51Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0026_split_002.html#point(/1/4/2/2/106/3:27)" end="text/part0026_split_002.html#point(/1/4/2/2/108:0)" progress="0.501597">
+                <text>When you ask a stranger a personal question, you make that person happy. Your question relieves the stress of awkward silence and gets the conversation moving. Best of all, it signals that you have interest in the stranger, which most people interpret as friendliness and social confidence, even if you’re faking it. And faking social confidence leads to the real thing over time.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:94a6b1db-ded4-4901-bee7-c102958c41cf</dc:identifier>
+        <dc:date>2022-12-16T13:24:52Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0026_split_002.html#point(/1/4/2/2/108/3:53)" end="text/part0026_split_002.html#point(/1/4/2/2/112/1:65)" progress="0.504792">
+                <text>Here’s a summary of good conversation technique.
+ 
+Ask questions.
+Don’t complain (much).
+Don’t talk about boring experiences (TV show, meal, dream, etc.).
+Don’t dominate the conversation. Let others talk.
+Don’t get stuck on a topic. Keep moving.
+Planning is useful but it isn’t conversation.
+Keep the sad stories short, especially medical stories.
+
+ The point of conversation is to make the other person feel good. </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:93f37618-cfc4-474a-93b3-7f4eb2f95480</dc:identifier>
+        <dc:date>2022-12-16T23:25:41Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0027_split_001.html#point(/1/4/2/2/27:1)" end="text/part0027_split_001.html#point(/1/4/2/2/28/1:232)" progress="0.571885">
+                <text>A lack of fear of embarrassment is what allows one to be proactive. It’s what makes a person take on challenges that others write off as too risky. It’s what makes you take the first step before you know what the second step is.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:c91daf48-ca51-41ef-99fe-53c080baa388</dc:identifier>
+        <dc:date>2022-12-16T23:26:15Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0027_split_001.html#point(/1/4/2/2/34/1:143)" end="text/part0027_split_001.html#point(/1/4/2/2/35:0)" progress="0.57508">
+                <text>When you see a successful person who lacks a college education, you’re usually looking at someone with an unusual lack of fear.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:cade5e7b-9b66-4dd7-bb23-9d306361485c</dc:identifier>
+        <dc:date>2022-12-18T22:01:46Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0035_split_001.html#point(/1/4/2/2/46/1:116)" end="text/part0035_split_001.html#point(/1/4/2/2/47:0)" progress="0.70607">
+                <text>Happiness is the natural state for most people whenever they feel healthy, have flexible schedules, and expect the future to be good.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:eb281000-35b9-4462-8fa3-032b9f84031f</dc:identifier>
+        <dc:date>2022-12-18T22:02:31Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0035_split_001.html#point(/1/4/2/2/48/3:254)" end="text/part0035_split_001.html#point(/1/4/2/2/50:0)" progress="0.70607">
+                <text>m here to tell you that the primary culprit in your bad moods is a deficit in one of the big five: flexible schedule, imagination, sleep, diet, and exercise.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:eaff2ead-ef3e-45ef-853e-f7e4f9e12ebc</dc:identifier>
+        <dc:date>2022-12-19T22:50:38Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0035_split_001.html#point(/1/4/2/2/73:1)" end="text/part0035_split_001.html#point(/1/4/2/2/76/1:136)" progress="0.715655">
+                <text>Barry Schwartz, author of The Paradox of Choice, tells us that people become unhappy if they have too many options in life. The problem with options is that choosing any path can leave you plagued with self-doubt. You quite rationally think that one of the paths not chosen might have worked out better. That can eat at you.
+ Choosing among attractive alternatives can also be exhausting. You want to feel as if you researched and considered all of your options.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:ef3fd2aa-8bea-4966-b532-ac7574e1420f</dc:identifier>
+        <dc:date>2022-12-19T23:00:20Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0035_split_001.html#point(/1/4/2/2/79:1)" end="text/part0035_split_001.html#point(/1/4/2/2/82/17:0)" progress="0.715655">
+                <text>Recapping the happiness formula:
+ 
+ Eat right.
+ Exercise.
+ Get enough sleep.
+ Imagine an incredible future (even if you don’t believe it).
+ Work toward a flexible schedule.
+ Do things you can steadily improve at.
+ Help others (if you’ve already helped yourself).
+ Reduce daily decisions to routine.</text>
+            </fragment>
+        </target>
+    </annotation>
+</annotationSet>

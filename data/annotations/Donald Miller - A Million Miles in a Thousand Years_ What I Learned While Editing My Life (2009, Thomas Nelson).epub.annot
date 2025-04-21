@@ -1,0 +1,114 @@
+
+<annotationSet xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://ns.adobe.com/digitaleditions/annotations">
+    <publication>
+        <dc:identifier>9781418585877</dc:identifier>
+        <dc:title>A Million Miles in a Thousand Years : What I Learned While Editing My Life</dc:title>
+        <dc:creator>Donald Miller</dc:creator>
+        <dc:language>en</dc:language>
+    </publication>
+    <annotation>
+        <dc:identifier>urn:uuid:c9ef0124-5571-44d8-8aa8-b5a7f8a34390</dc:identifier>
+        <dc:date>2024-02-19T04:50:52Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Mill_ISBN9780785213062_epub_c28_r1.html#point(/1/4/1/1/22:1)" end="OEBPS/Mill_ISBN9780785213062_epub_c28_r1.html#point(/1/4/1/1/26:0)" progress="0.448598">
+                <text>A general rule in creating stories is that characters don’t want to change. They must be forced to change. Nobody wakes up and starts chasing a bad guy or dismantling a bomb unless something forces them to do so. The bad guys just robbed your house and are running off with your last roll of toilet paper, or the bomb is strapped to your favorite cat. It’s that sort of thing that gets a character moving.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:cd5df68d-c4fd-4832-8362-962166212910</dc:identifier>
+        <dc:date>2024-02-19T04:51:10Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Mill_ISBN9780785213062_epub_c28_r1.html#point(/1/4/1/1/26/1/1:67)" end="OEBPS/Mill_ISBN9780785213062_epub_c28_r1.html#point(/1/4/1/1/27:0)" progress="0.448598">
+                <text>Humans are designed to seek comfort and order, and so if they have comfort and order, they tend to plant themselves, even if their comfort isn’t all that comfortable. And even if they secretly want for something better.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:f11a954d-3d1a-4e56-8c3c-0da9a23266de</dc:identifier>
+        <dc:date>2024-02-19T04:59:50Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Mill_ISBN9780785213062_epub_c29_r1.html#point(/1/4/1/1/8/3/1:65)" end="OEBPS/Mill_ISBN9780785213062_epub_c29_r1.html#point(/1/4/1/1/10/3/1:0)" progress="0.471963">
+                <text>the great stories go to those who don’t give in to fear.
+ The most often repeated commandment in the Bible is “Do not fear.” It’s in there over two hundred times. </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:cc267521-2f5b-47ec-9a31-0d3a5e91f938</dc:identifier>
+        <dc:date>2024-02-19T05:03:29Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Mill_ISBN9780785213062_epub_c30_r1.html#point(/1/4/1/1/15:1)" end="OEBPS/Mill_ISBN9780785213062_epub_c30_r1.html#point(/1/4/1/1/16/3/1:87)" progress="0.490654">
+                <text>It’s true that while ambition creates fear, it also creates the story. But it’s a good trade, because as soon as you point toward a horizon, life no longer feels meaningless. And suddenly there is risk in your story and a question about whether you’ll make it.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:92e2ba72-f860-48c3-90bd-6f55989a4bcf</dc:identifier>
+        <dc:date>2024-02-19T05:12:33Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Mill_ISBN9780785213062_epub_c32_r1.html#point(/1/4/1/1/12/3/1:50)" end="OEBPS/Mill_ISBN9780785213062_epub_c32_r1.html#point(/1/4/1/1/12/5/1:149)" progress="0.53271">
+                <text>marketing is a three-step process. The first step is to convince people they are miserable. The second step is to convince people they will be happy if they buy your product, and the third step is to include a half-naked woman in your pitch.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:9e4b3b3f-b7a5-46ef-a943-9a24d9e1d82e</dc:identifier>
+        <dc:date>2024-02-19T07:18:08Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Mill_ISBN9780785213062_epub_c38_r1.html#point(/1/4/1/1/6/1/1:119)" end="OEBPS/Mill_ISBN9780785213062_epub_c38_r1.html#point(/1/4/1/1/6/3/1:74)" progress="0.696262">
+                <text>The point of a story is never about the ending, remember. It’s about your character getting molded in the hard work of the middle.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:cfd4a45e-89e1-4921-962b-e64f615b5339</dc:identifier>
+        <dc:date>2024-02-19T07:27:46Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Mill_ISBN9780785213062_epub_c39_r1.html#point(/1/4/1/1/21/1/1:21)" end="OEBPS/Mill_ISBN9780785213062_epub_c39_r1.html#point(/1/4/1/1/23:0)" progress="0.728972">
+                <text> realized how much of our lives are spent trying to avoid conflict. Half the commercials on television are selling us something that will make life easier. Part of me wonders if our stories aren’t being stolen by the easy life.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:f196063d-1514-4832-8ba7-62c92debf072</dc:identifier>
+        <dc:date>2024-02-19T10:31:14Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Mill_ISBN9780785213062_epub_c46_r1.html#point(/1/4/1/1/14/1/1:161)" end="OEBPS/Mill_ISBN9780785213062_epub_c46_r1.html#point(/1/4/1/1/15:1)" progress="0.897196">
+                <text>. It wasn’t necessary to win for the story to be great, it was only necessary to sacrifice everything.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:1d4718c5-7d0d-46ee-b010-2fdc2f6b7cc0</dc:identifier>
+        <dc:date>2024-02-19T12:03:46Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Mill_ISBN9780785213062_epub_c49_r1.html#point(/1/4/1/1/21:1)" end="OEBPS/Mill_ISBN9780785213062_epub_c49_r1.html#point(/1/4/1/1/24:0)" progress="0.957944">
+                <text>I don’t ever want to go back to believing life is meaningless. I know there are biochemical causes for some forms of depression, but I wish people who struggle against dark thoughts would risk their hopes on living a good story—by that I mean finding a team of people doing hard work for a noble cause, and joining them. I think they’d be surprised at how soon their sad thoughts would dissipate, if for no other reason than they didn’t have time to think them anymore. There would be too much work to do, too many scenes to write.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:52276733-0a5a-454d-802b-fc886b9d8022</dc:identifier>
+        <dc:date>2024-02-19T12:04:57Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Mill_ISBN9780785213062_epub_c49_r1.html#point(/1/4/1/1/26/1/1:177)" end="OEBPS/Mill_ISBN9780785213062_epub_c49_r1.html#point(/1/4/1/1/26/3/1:81)" progress="0.962617">
+                <text>We needed to stop asking about the meaning of life, and instead think of ourselves as those who were being questioned by life—daily and hourly. Our answer must exist, not in talk and meditation, but in right action and right </text>
+            </fragment>
+        </target>
+    </annotation>
+</annotationSet>

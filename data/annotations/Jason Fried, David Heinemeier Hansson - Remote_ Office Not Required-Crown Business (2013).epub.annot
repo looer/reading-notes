@@ -1,0 +1,63 @@
+
+<annotationSet xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://ns.adobe.com/digitaleditions/annotations">
+    <publication>
+        <dc:identifier>978-0-8041-3751-5</dc:identifier>
+        <dc:title>Remote</dc:title>
+        <dc:creator>Jason Fried</dc:creator>
+        <dc:description>&lt;p&gt;The &quot;work from home&quot; phenomenon is thoroughly explored in this illuminating new book from bestselling 37signals founders Fried and Hansson, who point to the surging trend of employees working from home (and anywhere else) and explain the challenges and unexpected benefits.  Most important, they show why -- with a few controversial exceptions such as Yahoo -- more businesses will want to promote this new model of getting things done.&lt;br&gt;&lt;br&gt;The Industrial Revolution's &quot;under one roof&quot; model of conducting work is steadily declining owing to technology that is rapidly creating virtual workspaces and allowing workers to provide their vital contribution without physically clustering together.  Today, the new paradigm is &quot;move work to the workers, rather than workers to the workplace.&quot;  According to Reuters, one in five global workers telecommutes frequently and nearly ten percent work from home every day. Moms in particular will welcome this trend.  A full 60% wish they had a...</dc:description>
+        <dc:language>en-US</dc:language>
+    </publication>
+    <annotation>
+        <dc:identifier>urn:uuid:fda6cc48-449c-4d64-bc7d-508e0a0aa6f6</dc:identifier>
+        <dc:date>2024-11-11T20:46:14Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Frie_9780804137515_epub_c01_r1.htm#point(/1/4/12/1:17)" end="OEBPS/Frie_9780804137515_epub_c01_r1.htm#point(/1/4/12/1:201)" progress="0.12">
+                <text>offices have become interruption factories. A busy office is like a food processor—it chops your day into tiny bits. Fifteen minutes here, ten minutes there, twenty here, five there.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:934dfa7b-45c8-4c18-a526-502480c7f5bd</dc:identifier>
+        <dc:date>2024-11-11T20:51:05Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Frie_9780804137515_epub_c01_r1.htm#point(/1/4/84/1:26)" end="OEBPS/Frie_9780804137515_epub_c01_r1.htm#point(/1/4/86:0)" progress="0.16">
+                <text>The luxury privilege of the next twenty years will be to leave the city. Not as its leashed servant in a suburb, but to wherever one wants.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:3a9ada5f-2a14-4a31-9d64-47a57a0130dc</dc:identifier>
+        <dc:date>2024-11-12T09:50:40Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Frie_9780804137515_epub_c01_r1.htm#point(/1/4/93:1)" end="OEBPS/Frie_9780804137515_epub_c01_r1.htm#point(/1/4/95:0)" progress="0.17">
+                <text>But why wait? If what you really love doing is skiing, why wait until your hips are too old to take a hard fall and then move to Colorado? If you love surfing, why are you still trapped in a concrete jungle and not living near the beach? If all the family members you’re close to live in a small town in Oregon, why are you still stuck on the other coast?</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:4815c580-c87f-4341-abca-0bfcba57ee82</dc:identifier>
+        <dc:date>2024-11-12T09:51:37Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Frie_9780804137515_epub_c01_r1.htm#point(/1/4/95:1)" end="OEBPS/Frie_9780804137515_epub_c01_r1.htm#point(/1/4/98:0)" progress="0.17">
+                <text>The new luxury is to shed the shackles of deferred living—to pursue your passions now, while you’re still working. What’s the point in wasting time daydreaming about how great it’ll be when you finally quit?
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:f1acc4e2-2497-47bc-b694-b0f316ff2e52</dc:identifier>
+        <dc:date>2024-11-12T09:55:32Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Frie_9780804137515_epub_c01_r1.htm#point(/1/4/105:1)" end="OEBPS/Frie_9780804137515_epub_c01_r1.htm#point(/1/4/108:0)" progress="0.17">
+                <text>The new luxury is the luxury of freedom and time. Once you’ve had a taste of that life, no corner office or fancy chef will be able to drag you back.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+</annotationSet>

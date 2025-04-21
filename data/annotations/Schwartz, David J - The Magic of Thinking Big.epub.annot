@@ -1,0 +1,554 @@
+
+<annotationSet xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://ns.adobe.com/digitaleditions/annotations">
+    <publication>
+        <dc:identifier>urn:isbn:9780698198586</dc:identifier>
+        <dc:title>The Magic of Thinking Big</dc:title>
+        <dc:creator>David J. Schwartz</dc:creator>
+        <dc:description>The timeless and practical advice in &lt;i&gt;The Magic of Thinking Big&lt;/i&gt; clearly demonstrates how you can: Sell more Manage better Lead fearlessly Earn more Enjoy a happier, more fulfilling life With applicable and easy-to-implement insights, you'll discover: Why believing you can succeed is essential How to quit making excuses The means to overcoming fear and finding confidence How to develop and use creative thinking and dreaming Why making (and getting) the most of your attitudes is critical How to think right towards others The best ways to make &quot;action&quot; a habit How to find victory in defeat Goals for growth, and How to think like a leader &lt;br&gt;	&quot;Believe Big,&quot; says Schwartz. &quot;The size of your success is determined by the size of your belief. Think little goals and expect little achievements. Think big goals and win big success. Remember this, too! Big ideas and big plans are often easier &amp;#8212; certainly no more difficult - than small ideas and small plans.&quot;</dc:description>
+        <dc:language>en</dc:language>
+    </publication>
+    <annotation>
+        <dc:identifier>urn:uuid:d9b9ef27-70ad-4134-88a9-5b0dc8ade560</dc:identifier>
+        <dc:date>2023-03-27T00:39:41Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/chapter004.xhtml#point(/1/4/13:1)" end="OEBPS/xhtml/chapter004.xhtml#point(/1/4/15:0)" progress="0.274336">
+                <text>The tendency for so many people to think small means there is much less competition than you think for a very rewarding career.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:68bc117e-9b9d-4eb9-a771-5158bb584292</dc:identifier>
+        <dc:date>2023-03-27T00:40:58Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/chapter004.xhtml#point(/1/4/34/1:53)" end="OEBPS/xhtml/chapter004.xhtml#point(/1/4/34/1:84)" progress="0.278761">
+                <text>You’re bigger than you think.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:9508bf57-922b-4d7d-bce0-3afad1a5c58a</dc:identifier>
+        <dc:date>2023-03-27T07:27:11Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/chapter004.xhtml#point(/1/4/195:1)" end="OEBPS/xhtml/chapter004.xhtml#point(/1/4/198:0)" progress="0.327434">
+                <text>Yet all these successful public speakers have one thing in common: They have something to say and they feel a burning desire for other people to hear it.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:18add4dc-0a9f-47e3-96a5-00bbd78b05d3</dc:identifier>
+        <dc:date>2023-03-27T20:09:41Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/chapter005.xhtml#point(/1/4/211:1)" end="OEBPS/xhtml/chapter005.xhtml#point(/1/4/214:0)" progress="0.384956">
+                <text>This experience teaches us a lesson: Capacity is a state of mind. How much we can do depends on how much we think we can do. When you really believe you can do more, your mind thinks creatively and shows you the way.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:81435841-3003-4727-abd1-446284084fe2</dc:identifier>
+        <dc:date>2023-03-27T07:36:19Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/chapter005.xhtml#point(/1/4/123:1)" end="OEBPS/xhtml/chapter005.xhtml#point(/1/4/125:0)" progress="0.367257">
+                <text>In truth, there is no one best way to do anything. There is no one best way to decorate an apartment, landscape a lawn, make a sale, rear a child, or cook a steak. There are as many best ways as there are creative minds.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:73a8942a-fe70-44ee-87ea-d50fd610fee6</dc:identifier>
+        <dc:date>2023-03-27T20:13:36Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/chapter005.xhtml#point(/1/4/247:1)" end="OEBPS/xhtml/chapter005.xhtml#point(/1/4/249:0)" progress="0.393805">
+                <text>As a personal policy I have accepted fully the concept: If you want it done, give it to a busy man. I refuse to work on important projects with persons who have lots of free time. I have learned from painful, expensive experience that the fellow who has plenty of time makes an ineffective work partner.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:fd5b2f27-7941-48c6-8957-5e590d21ae02</dc:identifier>
+        <dc:date>2023-03-29T06:58:53Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/chapter006.xhtml#point(/1/4/174/1:71)" end="OEBPS/xhtml/chapter006.xhtml#point(/1/4/174/1:141)" progress="0.460177">
+                <text>To get high-quality work, be enthusiastic about the job you want done.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:c2a4921a-3137-4d17-8963-40c38442ad27</dc:identifier>
+        <dc:date>2023-03-29T06:58:42Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/chapter006.xhtml#point(/1/4/172/1:63)" end="OEBPS/xhtml/chapter006.xhtml#point(/1/4/174:0)" progress="0.460177">
+                <text>Think enthusiastically. Build in yourself an optimistic, progressive glow, a feeling that “this is great and I’m 100 percent for it.”
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:02814cc3-eb0c-49f4-8e35-5274809aca2d</dc:identifier>
+        <dc:date>2023-04-14T23:14:55Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/chapter007.xhtml#point(/1/4/132/1:79)" end="OEBPS/xhtml/chapter007.xhtml#point(/1/4/132/3:254)" progress="0.517699">
+                <text>The plain truth is that they are not. As a rule, it’s the more successful people who are the most humble and ready to help. Since they are sincerely interested in their work and success, they are eager to see that the work lives on and that somebody capable succeeds them when they retire.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:830d8997-90a0-4511-abc1-c87fe1520844</dc:identifier>
+        <dc:date>2023-04-23T22:35:08Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/chapter008.xhtml#point(/1/4/283:1)" end="OEBPS/xhtml/chapter008.xhtml#point(/1/4/286:0)" progress="0.615044">
+                <text>Put service first, and money takes care of itself—always.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:7fdd0b89-f78e-48ba-8245-5a5e706a0774</dc:identifier>
+        <dc:date>2023-04-23T18:42:51Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/chapter008.xhtml#point(/1/4/186/1:67)" end="OEBPS/xhtml/chapter008.xhtml#point(/1/4/187:0)" progress="0.588496">
+                <text>When you help others feel important, you help yourself feel important too.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:641ac68e-3ce1-43e5-a525-4a5712553449</dc:identifier>
+        <dc:date>2023-04-23T22:38:34Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/chapter008.xhtml#point(/1/4/322/1:97)" end="OEBPS/xhtml/chapter008.xhtml#point(/1/4/322/3:63)" progress="0.623894">
+                <text>Always give people more than they expect to get. Each little extra something you do for others is a money seed.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:a712820f-3212-45cc-8548-0c05668b6907</dc:identifier>
+        <dc:date>2023-04-23T09:20:40Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/chapter008.xhtml#point(/1/4/120/1:114)" end="OEBPS/xhtml/chapter008.xhtml#point(/1/4/122/1:18)" progress="0.575221">
+                <text>No one ever won a friend, no one ever made money, no one ever accomplished anything by broadcasting bad news.
+ Transmit good news</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:69ecb9d3-d90d-43b7-8f59-bf6a28bf278c</dc:identifier>
+        <dc:date>2023-04-23T22:32:57Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/chapter008.xhtml#point(/1/4/230/1:259)" end="OEBPS/xhtml/chapter008.xhtml#point(/1/4/231:0)" progress="0.60177">
+                <text>When was the last time, aside from Christmas, your wedding anniversary, or her birthday, that you surprised your wife with a special gift?”</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:f09e1b7b-2dfe-48f9-8ab5-f662045c70d4</dc:identifier>
+        <dc:date>2023-04-23T22:33:26Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/chapter008.xhtml#point(/1/4/241:1)" end="OEBPS/xhtml/chapter008.xhtml#point(/1/4/247:0)" progress="0.606195">
+                <text>Without exception, every fellow testified the next evening that the mere investment of 50 cents had made his wife happy.
+ Do something special for your family often. It doesn’t have to be something expensive. It’s thoughtfulness that counts. Anything that shows that you put your family’s interests first will do the trick.
+ Get the family on your team. Give them planned attention.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:d4ce100a-dddf-410b-9864-56d4a015d1cb</dc:identifier>
+        <dc:date>2023-04-30T20:57:18Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/chapter009.xhtml#point(/1/4/92/1:159)" end="OEBPS/xhtml/chapter009.xhtml#point(/1/4/93:0)" progress="0.641593">
+                <text>the most important person present is the one person most active in introducing himself.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:278e650c-0b95-4fb4-a61a-49ef2ee9c91d</dc:identifier>
+        <dc:date>2023-05-09T20:50:20Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/chapter009.xhtml#point(/1/4/260/1:288)" end="OEBPS/xhtml/chapter009.xhtml#point(/1/4/261:0)" progress="0.681416">
+                <text>how you think when you lose determines how long it will be until you win.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:d9f28091-c4d3-49b4-8956-37ad5117088b</dc:identifier>
+        <dc:date>2023-05-16T22:31:53Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/chapter010.xhtml#point(/1/4/223:1)" end="OEBPS/xhtml/chapter010.xhtml#point(/1/4/227:0)" progress="0.738938">
+                <text>Business executives want comment. The fellow who hides his light under a bushel hurts himself.
+ Get the “speak up” habit. Each time you speak up, you strengthen yourself. Come forward with your constructive ideas.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:b5eae596-d271-4531-83db-a7e91fec0533</dc:identifier>
+        <dc:date>2023-05-16T22:24:57Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/chapter010.xhtml#point(/1/4/147:1)" end="OEBPS/xhtml/chapter010.xhtml#point(/1/4/149:0)" progress="0.721239">
+                <text>Build confidence. Destroy fear through action.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:d035454a-4762-471b-83e2-02000e3cfccc</dc:identifier>
+        <dc:date>2023-05-16T22:19:52Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/chapter010.xhtml#point(/1/4/127:1)" end="OEBPS/xhtml/chapter010.xhtml#point(/1/4/130/2:0)" progress="0.716814">
+                <text>Got a good idea? Then do something about it.
+ Use action to cure fear and gain confidence.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:ad6d18be-5ee1-4357-bd56-4fe27898c475</dc:identifier>
+        <dc:date>2023-05-17T11:58:28Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/chapter010.xhtml#point(/1/4/239:1)" end="OEBPS/xhtml/chapter010.xhtml#point(/1/4/241:0)" progress="0.747788">
+                <text>Initiative is a special kind of action. It’s doing something worthwhile without being told to do it. The person with initiative has a standing invitation to join the high income brackets in every business and profession.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:329688af-7252-47a9-a127-b9b492ce2d4a</dc:identifier>
+        <dc:date>2023-05-17T23:31:14Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/chapter010.xhtml#point(/1/4/263:1)" end="OEBPS/xhtml/chapter010.xhtml#point(/1/4/266/1:170)" progress="0.756637">
+                <text>People place confidence in the fellow who acts. They naturally assume he knows what he is doing.
+ I’ve never heard anyone complimented and praised because “he doesn’t disturb anyone,” “he doesn’t take action,” or “he waits until he’s told what to do.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:db2ef2ba-a268-4be1-962d-87b49d52f622</dc:identifier>
+        <dc:date>2023-05-16T22:21:47Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/chapter010.xhtml#point(/1/4/130/2:33)" end="OEBPS/xhtml/chapter010.xhtml#point(/1/4/132:0)" progress="0.716814">
+                <text>Action feeds and strengthens confidence; inaction in all forms feeds fear. To fight fear, act. To increase fear—wait, put off, postpone.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:bfd4ec14-7193-4602-860a-71a5606a5310</dc:identifier>
+        <dc:date>2023-05-09T20:52:50Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/chapter010.xhtml#point(/1/4/9:1)" end="OEBPS/xhtml/chapter010.xhtml#point(/1/4/14:0)" progress="0.690265">
+                <text>All these questions have one aim: to find out if the fellow is a man of action.
+ Excellent ideas are not enough. An only fair idea acted upon, and developed, is 100 percent better than a terrific idea that dies because it isn’t followed up.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:94bb21a6-e160-49a4-84e1-78f7f24fc663</dc:identifier>
+        <dc:date>2023-05-16T14:40:21Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/chapter010.xhtml#point(/1/4/51:1)" end="OEBPS/xhtml/chapter010.xhtml#point(/1/4/53:0)" progress="0.699115">
+                <text>The test of a successful person is not an ability to eliminate all problems before they arise, but to meet and work out difficulties when they do arise. We must be willing to make an intelligent compromise with perfection lest we wait forever before taking action. It’s still good advice to cross bridges as we come to them.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:3af4367e-3d55-4043-af01-cc64b88a76be</dc:identifier>
+        <dc:date>2023-05-20T18:12:08Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/chapter011.xhtml#point(/1/4/183:1)" end="OEBPS/xhtml/chapter011.xhtml#point(/1/4/187:0)" progress="0.800885">
+                <text>Believe instead, “There is a way to solve this problem,” and positive thoughts rush into your mind to help you find a solution.
+ It’s believing there is a way that is important.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:ad8cdec6-2e97-415f-950b-ca69f9a02684</dc:identifier>
+        <dc:date>2023-05-20T18:08:35Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/chapter011.xhtml#point(/1/4/84/1:171)" end="OEBPS/xhtml/chapter011.xhtml#point(/1/4/88:0)" progress="0.778761">
+                <text>
+ We can turn setbacks into victories. Find the lesson, apply it, and then look back on defeat and smile.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:13965964-81f1-48a6-a114-40d11bedf2a0</dc:identifier>
+        <dc:date>2023-05-20T17:53:10Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/chapter011.xhtml#point(/1/4/53:1)" end="OEBPS/xhtml/chapter011.xhtml#point(/1/4/57:0)" progress="0.774336">
+                <text>CAA officials, successful sales executives, physicians, football coaches, and professionals in every field follow this success principle: salvage something from every setback.
+ When a setback hits us personally, our first impulse is often to become so emotionally upset that we fail to learn the lesson.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:32b7ba9f-493f-4485-9d22-4acce7510eaf</dc:identifier>
+        <dc:date>2023-05-20T18:11:26Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/chapter011.xhtml#point(/1/4/173:1)" end="OEBPS/xhtml/chapter011.xhtml#point(/1/4/175:0)" progress="0.79646">
+                <text>Persisting in one way is not a guarantee of victory. But persistence blended with experimentation does guarantee success.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:c8f81522-5bf2-4c1d-9c71-4c601370d2da</dc:identifier>
+        <dc:date>2023-05-29T21:56:04Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/chapter012.xhtml#point(/1/4/109:1)" end="OEBPS/xhtml/chapter012.xhtml#point(/1/4/114:0)" progress="0.836283">
+                <text>Throw away those murder weapons! Remember, the only way to get full power, to develop full go force, is to do what you want to do. Surrender to desire and gain energy, enthusiasm, mental zip, and even better health.
+ And it’s never too late to let desire take over.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:d2cef677-1480-4291-ac2f-d5444e0d086b</dc:identifier>
+        <dc:date>2023-05-28T21:41:02Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/chapter012.xhtml#point(/1/4/97:1)" end="OEBPS/xhtml/chapter012.xhtml#point(/1/4/99:0)" progress="0.836283">
+                <text>All of us have desires. All of us dream of what we really want to do. But few of us actually surrender to desire. Instead of surrendering to desire, we murder it. Five weapons are used to commit success suicide. Destroy them. They’re dangerous.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:a5f04c77-fe50-4b7a-ac75-01efa1ef0dc6</dc:identifier>
+        <dc:date>2023-05-28T21:33:08Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/chapter012.xhtml#point(/1/4/6/1:312)" end="OEBPS/xhtml/chapter012.xhtml#point(/1/4/10:0)" progress="0.814159">
+                <text>
+ A goal is an objective, a purpose. A goal is more than a dream; it’s a dream being acted upon. A goal is more than a hazy “Oh, I wish I could.” A goal is a clear “This is what I’m working toward.”
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:3dc3de14-ac7a-4a7e-b01f-8214331c78b7</dc:identifier>
+        <dc:date>2023-05-28T21:40:38Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/chapter012.xhtml#point(/1/4/92/1:177)" end="OEBPS/xhtml/chapter012.xhtml#point(/1/4/94:0)" progress="0.831858">
+                <text>Success requires heart-and-soul effort, and you can put your heart and soul only into something you really desire.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:428e73f8-ec12-4e88-b437-374abf618ace</dc:identifier>
+        <dc:date>2023-05-28T21:37:37Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/chapter012.xhtml#point(/1/4/67:1)" end="OEBPS/xhtml/chapter012.xhtml#point(/1/4/69:0)" progress="0.823009">
+                <text>And, please, as you visualize your future, don’t be afraid to be blue sky. People these days are measured by the size of their dreams. No one accomplishes more than he sets out to accomplish. So visualize a big future.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:fef3f60f-07b3-4ffb-b090-9848fa70ea8e</dc:identifier>
+        <dc:date>2023-05-30T11:31:28Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/chapter012.xhtml#point(/1/4/127:1)" end="OEBPS/xhtml/chapter012.xhtml#point(/1/4/129:0)" progress="0.845133">
+                <text>Tom’s goal has made him supersensitive to all the many forces at work that affect him.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:e7d9167c-146f-4668-8b2b-eb4d0796ca31</dc:identifier>
+        <dc:date>2023-05-30T21:37:02Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/chapter012.xhtml#point(/1/4/132/1:227)" end="OEBPS/xhtml/chapter012.xhtml#point(/1/4/135:0)" progress="0.845133">
+                <text>Observe how the life of a highly successful person is integrated around a purpose.
+ Surrender to that goal. Really surrender. Let it obsess you and give you the automatic instrumentation you need to reach that goal.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:4c647db6-ecdd-494b-b09a-a947ee8c144b</dc:identifier>
+        <dc:date>2023-05-30T21:37:36Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/chapter012.xhtml#point(/1/4/137:1)" end="OEBPS/xhtml/chapter012.xhtml#point(/1/4/139:0)" progress="0.845133">
+                <text>On occasion all of us have waked up on Saturday morning with no plans, no agenda either mental or written that spells out what we’re going to do. On days like that we accomplish next to nothing. We aimlessly drift through the day, glad when it’s finally over. But when we face the day with a plan, we get things done.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:47171344-57e5-42b6-9707-16d6370e446c</dc:identifier>
+        <dc:date>2023-05-30T21:39:11Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/chapter012.xhtml#point(/1/4/147:1)" end="OEBPS/xhtml/chapter012.xhtml#point(/1/4/149:0)" progress="0.849558">
+                <text>Now, as you press forward to success, set goals: deadlines, target dates, self-imposed quotas. You will accomplish only what you plan to accomplish.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:e7e40937-cc4f-493c-a167-3dafd2bbcc0d</dc:identifier>
+        <dc:date>2023-05-30T21:39:42Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/chapter012.xhtml#point(/1/4/152/1:248)" end="OEBPS/xhtml/chapter012.xhtml#point(/1/4/152/1:373)" progress="0.849558">
+                <text>The quickest way to the end is to retire and do nothing. Every human being must keep an interest in life just to keep living.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:13827683-df7c-4a3f-9af7-2f53c44a1c04</dc:identifier>
+        <dc:date>2023-05-31T21:53:19Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/chapter012.xhtml#point(/1/4/195:1)" end="OEBPS/xhtml/chapter012.xhtml#point(/1/4/200/1:93)" progress="0.862832">
+                <text>Do this: Start marching toward your ultimate goal by making the next task you perform, regardless of how unimportant it may seem, a step in the right direction. Commit this question to memory and use it to evaluate everything you do: “Will this help take me where I want to go?” If the answer is no, back off; if yes, press ahead.
+ It’s clear. We do not make one big jump to success. We get there one step at a time. An excellent plan is to set monthly quotas for accomplishment.
+ Examine yourself. Decide what specific things you should do to make yourself more effective. </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:371d380e-ffa6-49f6-8693-016aa8c923c0</dc:identifier>
+        <dc:date>2023-05-31T21:54:53Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/chapter012.xhtml#point(/1/4/234/1:47)" end="OEBPS/xhtml/chapter012.xhtml#point(/1/4/235:0)" progress="0.867257">
+                <text>prepare to take detours in stride. If you are driving down a road and you come to a “road closed” situation, you wouldn’t camp there, nor would you go back home. The road closed simply means you can’t go where you want to go on this road. You’d simply find another road to take you where you want to go.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:05f4ae0b-5407-434c-986b-99651426acac</dc:identifier>
+        <dc:date>2023-06-01T06:27:54Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/chapter012.xhtml#point(/1/4/266/1:224)" end="OEBPS/xhtml/chapter012.xhtml#point(/1/4/268/3:0)" progress="0.876106">
+                <text>Isn’t my future worth this small investment?”
+ Why not make an investment decision right now? Call it School: One Night a Week for Life.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:62be1398-265c-4f9b-bbdf-0b65626c92f1</dc:identifier>
+        <dc:date>2023-06-01T21:13:12Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/chapter013.xhtml#point(/1/4/194/1:146)" end="OEBPS/xhtml/chapter013.xhtml#point(/1/4/198:0)" progress="0.929204">
+                <text>Believe in expansion, efficiency, new products, new processes, better schools, increased prosperity.
+ Believe in—and push for—progress; and you’ll be a leader!
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:6eb3de26-d408-4ccd-986f-8db73af4167b</dc:identifier>
+        <dc:date>2023-06-03T11:16:03Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/chapter013.xhtml#point(/1/4/225:1)" end="OEBPS/xhtml/chapter013.xhtml#point(/1/4/226/1:151)" progress="0.938053">
+                <text>Remember this: when you take over the leadership of a group, the persons in that group immediately begin to adjust themselves to the standards you set.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:878a96fb-1169-4ab9-94ed-9655e525a4e2</dc:identifier>
+        <dc:date>2023-06-03T11:17:08Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/chapter013.xhtml#point(/1/4/238/1:20)" end="OEBPS/xhtml/chapter013.xhtml#point(/1/4/243:0)" progress="0.938053">
+                <text>ask yourself what kind of club, community, school, church would it be if everyone in it acted like you.
+ Think, talk, act, live the way you want your subordinates to think, talk, act, live—and they will.
+ Over a period of time, subordinates tend to become carbon copies of their chief. The simplest way to get high-level performance is to be sure the master copy is worth duplicating.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:3abdc6ac-c07c-4789-a6ef-3f0f99a0d39e</dc:identifier>
+        <dc:date>2023-06-03T12:18:11Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/chapter013.xhtml#point(/1/4/311:1)" end="OEBPS/xhtml/chapter013.xhtml#point(/1/4/313:0)" progress="0.955752">
+                <text>Remember, the main job of the leader is thinking. And the best preparation for leadership is thinking. Spend some time in managed solitude every day and think yourself to success.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:38e96c75-809a-4acc-a323-3f0bde6aa0d6</dc:identifier>
+        <dc:date>2023-06-03T12:19:39Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/chapter013.xhtml#point(/1/4/339:1)" end="OEBPS/xhtml/chapter013.xhtml#point(/1/4/341:0)" progress="0.960177">
+                <text>Think Big Enough to be immune to the attacks of petty people.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:36a4ee09-9489-4804-bc8d-1823e81166fc</dc:identifier>
+        <dc:date>2023-06-03T12:20:14Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/chapter013.xhtml#point(/1/4/348/4/1:3)" end="OEBPS/xhtml/chapter013.xhtml#point(/1/4/348/5:0)" progress="0.960177">
+                <text>Concentrate on your assets. Build a sell-yourself-to-yourself commercial and use it. Learn to supercharge yourself. Know your positive self.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:857463c2-d142-4566-8d36-f45eefdce7c0</dc:identifier>
+        <dc:date>2023-06-03T12:20:37Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/chapter013.xhtml#point(/1/4/364/2/1:3)" end="OEBPS/xhtml/chapter013.xhtml#point(/1/4/364/4:0)" progress="0.964602">
+                <text>Regard the setback as a lesson. Learn from it. Research it. Use it to propel you forward. Salvage something from every setback.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:f771fac9-bb79-418a-a17a-44d60bfe0c21</dc:identifier>
+        <dc:date>2023-06-03T12:20:51Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/chapter013.xhtml#point(/1/4/364/4/1:3)" end="OEBPS/xhtml/chapter013.xhtml#point(/1/4/367:0)" progress="0.964602">
+                <text>Blend persistence with experimentation. Back off and start afresh with a new approach.
+
+ Think Big Enough to see that defeat is a state of mind, nothing more.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:5cc3be55-e213-4a81-8826-3b74afeb3914</dc:identifier>
+        <dc:date>2023-06-03T12:21:11Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/chapter013.xhtml#point(/1/4/372/2/1:3)" end="OEBPS/xhtml/chapter013.xhtml#point(/1/4/372/5:0)" progress="0.964602">
+                <text>Concentrate on the biggest qualities in the person you want to love you. Put little things where they belong—in second place.
+ 2. Do something special for your mate—and do it often.</text>
+            </fragment>
+        </target>
+    </annotation>
+</annotationSet>

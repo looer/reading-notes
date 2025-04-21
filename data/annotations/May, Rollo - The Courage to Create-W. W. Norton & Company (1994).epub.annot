@@ -1,0 +1,133 @@
+
+<annotationSet xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://ns.adobe.com/digitaleditions/annotations">
+    <publication>
+        <dc:identifier>978-0-39331-106-8</dc:identifier>
+        <dc:title>The Courage to Create</dc:title>
+        <dc:creator>Rollo May</dc:creator>
+        <dc:description>&lt;p&gt;&quot;Extraordinary, wise, and hopeful... nearly poetic meditations.&quot;&amp;#8212;&lt;i&gt;Boston Globe&lt;/i&gt;What if imagination and art are not, as many of us might think, the frosting on life but the fountainhead of human experience? What if our logic and science derive from art forms, rather than the other way around? In this trenchant volume, Rollo May helps all of us find those creative impulses that, once liberated, offer new possibilities for achievement. A renowned therapist and inspiring guide, Dr. May draws on his experience to show how we can break out of old patterns in our lives. His insightful book offers us a way through our fears into a fully realized self.</dc:description>
+        <dc:language>en</dc:language>
+    </publication>
+    <annotation>
+        <dc:identifier>urn:uuid:c457dc05-b9dd-4e8c-98e5-d6565e7b1311</dc:identifier>
+        <dc:date>2025-04-08T04:02:35Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/Preface.html#point(/1/4/9:1)" end="OEBPS/xhtml/Preface.html#point(/1/4/10/7:137)" progress="0.0686275">
+                <text>The title was suggested by Paul Tillich’s The Courage to Be, a debt I am glad to acknowledge. But one cannot be in a vacuum. We express our being by creating. Creativity is a necessary sequel to being. Furthermore, the word courage in my title refers, beyond the first few pages of the first chapter, to that particular land of courage essential for the creative act. </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:a8b08006-74b6-465c-91e2-2096cd38b2b0</dc:identifier>
+        <dc:date>2025-04-08T04:04:53Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/Chapter1.html#point(/1/4/18/1:253)" end="OEBPS/xhtml/Chapter1.html#point(/1/4/19:0)" progress="0.0784314">
+                <text>courage is not the absence of despair; it is, rather, the capacity to move ahead in spite of despair.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:4e89ead7-2b55-428d-a6ae-672bb335bcf3</dc:identifier>
+        <dc:date>2025-04-08T04:05:27Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/Chapter1.html#point(/1/4/20/1:92)" end="OEBPS/xhtml/Chapter1.html#point(/1/4/22:0)" progress="0.0784314">
+                <text>But if you do not express your own original ideas, if you do not listen to your own being, you will have betrayed yourself. Also you will have betrayed our community in failing to make your contribution to the whole.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:6102d42b-029c-449d-ac07-93261d6a0909</dc:identifier>
+        <dc:date>2025-04-08T04:06:50Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/Chapter1.html#point(/1/4/30/9:39)" end="OEBPS/xhtml/Chapter1.html#point(/1/4/30/9:261)" progress="0.0882353">
+                <text>But a man or woman becomes fully human only by his or her choices and his or her commitment to them. People attain worth and dignity by the multitude of decisions they make from day by day. These decisions require courage.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:7b5ecc95-7589-4ca7-aefd-363bfdd65072</dc:identifier>
+        <dc:date>2025-04-08T04:08:55Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/Chapter1.html#point(/1/4/40/3:373)" end="OEBPS/xhtml/Chapter1.html#point(/1/4/43:0)" progress="0.0980392">
+                <text>expression of the self as a thing of beauty and as a rich source of pleasure.
+ Such a view of the body is already emerging in America through the influence of yoga, meditation, Zen Buddhism, and other religious psychologies from the Orient. In these traditions, the body is not condemned, but is valued as a source of justified pride. I propose this for our consideration as the kind of physical courage we will need for the new society toward which we are moving.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:d1a1a638-a4f5-46d2-83d5-e27aaa7f861f</dc:identifier>
+        <dc:date>2025-04-08T13:10:27Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/Chapter1.html#point(/1/4/62/1:171)" end="OEBPS/xhtml/Chapter1.html#point(/1/4/62/1:597)" progress="0.117647">
+                <text>the “life fear.” This is the fear of living autonomously, the fear of being abandoned, the need for dependency on someone else. It shows itself in the need to throw one’s self so completely into a relationship that one has no self left with which to relate. One becomes, in effect, a reflection of the person he or she loves—which sooner or later becomes boring to the partner. This is the fear of self-actualization, </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:d09722c5-6139-4605-9af1-d1f98e94e6dd</dc:identifier>
+        <dc:date>2025-04-08T13:11:44Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/Chapter1.html#point(/1/4/64/1:30)" end="OEBPS/xhtml/Chapter1.html#point(/1/4/64/1:214)" progress="0.127451">
+                <text>the “death fear.” This is the fear of being totally absorbed by the other, the fear of losing one’s self and one’s autonomy, the fear of having one’s independence taken away.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:9fb658fc-2f7b-4d70-9b86-d24e7c739665</dc:identifier>
+        <dc:date>2025-04-08T13:13:51Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/Chapter1.html#point(/1/4/68/3:418)" end="OEBPS/xhtml/Chapter1.html#point(/1/4/69:0)" progress="0.127451">
+                <text>The word can either be solitary—being alone; keeping one’s distance from events, maintaining the peace of mind necessary for listening to one’s deeper self. Or it can be solidary—“living in the market place”; solidarity, involvement, or identifying with the masses, as Karl Marx put it. Opposites though they are, both solitude and solidarity are essential if the artist is to produce works that are not only significant to his or her age, but that will also speak to future generations.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:ffac4a62-71be-4d97-8966-d1a87c8e1d75</dc:identifier>
+        <dc:date>2025-04-09T17:19:19Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/Chapter1.html#point(/1/4/71:1)" end="OEBPS/xhtml/Chapter1.html#point(/1/4/74/3:166)" progress="0.137255">
+                <text>A curious paradox characteristic of every kind of courage here confronts us. It is the seeming contradiction that we must be fully committed, but we must also be aware at the same time that we might possibly be wrong. This dialectic relationship between conviction and doubt is characteristic of the highest types of courage, and gives the lie to the simplistic definitions that identify courage with mere growth.
+ People who claim to be absolutely convinced that their stand is the only right one are dangerous. Such conviction is the essence not only of dogmatism, but of its more destructive cousin, fanaticism.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:c72980f9-7abe-4b04-981c-c253543c94e1</dc:identifier>
+        <dc:date>2025-04-09T17:19:49Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/Chapter1.html#point(/1/4/78/1:295)" end="OEBPS/xhtml/Chapter1.html#point(/1/4/78/5:7)" progress="0.137255">
+                <text>Commitment is healthiest when it is not without doubt, but in spite of doubt.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:a18463ad-e00f-4a4c-b5bf-9158b5206363</dc:identifier>
+        <dc:date>2025-04-09T17:20:28Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/Chapter1.html#point(/1/4/76/1:545)" end="OEBPS/xhtml/Chapter1.html#point(/1/4/77:0)" progress="0.137255">
+                <text>. It is infinitely safer to know that the man at the top has his doubts, as you and I have ours, yet has the courage to move ahead in spite of these doubts. In contrast to the fanatic who has stockaded himself against new truth, the person with the courage to believe and at the same time to admit his doubts is flexible and open to new learning.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:7ac30f9a-a499-4b88-9953-ed9b856fa770</dc:identifier>
+        <dc:date>2025-04-09T17:20:34Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/Chapter1.html#point(/1/4/78/1:4)" end="OEBPS/xhtml/Chapter1.html#point(/1/4/78/1:212)" progress="0.137255">
+                <text> Cézanne strongly believed that he was discovering and painting a new form of space which would radically influence the future of art, yet he was at the same time filled with painful and ever-present doubts.</text>
+            </fragment>
+        </target>
+    </annotation>
+</annotationSet>

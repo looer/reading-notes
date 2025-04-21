@@ -1,0 +1,545 @@
+
+<annotationSet xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://ns.adobe.com/digitaleditions/annotations">
+    <publication>
+        <dc:identifier>calibre:896</dc:identifier>
+        <dc:title>Le coordinate della felicità</dc:title>
+        <dc:creator>Gianluca Gotto</dc:creator>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&quot;Io la sognavo una vita così. Una vita in cui poter girare per l'Asia per mesi, per poi svegliarmi una mattina a Bali e decidere su due piedi di voler tornare in Europa. Passare un paio di giorni a Bangkok per mangiare pad thai e salutare l'Oriente. Andare a trovare mia nonna a Torino, poi salire a bordo della mia casa su ruote e ripartire. E alla prima sera on the road, guardando le stelle, discutere con la mia anima gemella della prossima meta. Oppure viaggiare e basta, senza meta, inseguendo solo ed esclusivamente le coordinate della felicità.Sognavo di poter fare della stanza di una guest-house o della hall di un aeroporto il mio ufficio e del mondo intero la mia casa. Poter lavorare in remoto da qualsiasi punto del pianeta e guadagnarmi da vivere facendo ciò che più amo. La sognavo una vita così: libera. E vi dico la verità, da qualche parte tra la testa e il cuore sentivo di potercela fare per davvero, fin dal primo giorno. Forse è quello che ha fatto la differenza: crederci. Crederci sempre.&quot;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:language>it-IT</dc:language>
+    </publication>
+    <annotation>
+        <dc:identifier>urn:uuid:feeec17d-d8a0-41f5-92b5-43eecbbb7e04</dc:identifier>
+        <dc:date>2023-05-10T21:39:03Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p005_capitolo-01.xhtml#point(/1/4/4/72/1:175)" end="OEBPS/p005_capitolo-01.xhtml#point(/1/4/4/72/1:238)" progress="0.0416667">
+                <text>. A volte devi semplicemente ribellarti e credere in te stesso.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:c18650bd-bd23-4a62-bd4b-aa5e505dd7b5</dc:identifier>
+        <dc:date>2023-05-10T21:42:21Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p007_capitolo-03.xhtml#point(/1/4/4/2/1:995)" end="OEBPS/p007_capitolo-03.xhtml#point(/1/4/4/3:0)" progress="0.0595238">
+                <text>La vita non ci succede, siamo noi che dobbiamo farla accadere”.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:1bc79a86-8d85-4be5-bfdb-f580dcb64e45</dc:identifier>
+        <dc:date>2023-05-11T16:39:36Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p008_capitolo-04.xhtml#point(/1/4/4/55:1)" end="OEBPS/p008_capitolo-04.xhtml#point(/1/4/4/56/3:84)" progress="0.0803571">
+                <text>Ci sono momenti nei quali comprendi che devi agire, senza badare troppo alle conseguenze. Se il tuo cuore e la tua pancia ti dicono di fare una cosa, dovresti farla e basta. Pensare e ripensare a tutto ciò che potrebbe o non potrebbe succedere (il cosiddetto overthinking) è il modo migliore per restare fermo e subire passivamente la vita, senza agire. </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:2ed4cb61-231d-4f84-bf1f-7a2fa27d65df</dc:identifier>
+        <dc:date>2023-05-12T09:45:58Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p011_capitolo-07.xhtml#point(/1/4/4/50/1:273)" end="OEBPS/p011_capitolo-07.xhtml#point(/1/4/4/52/1:547)" progress="0.122024">
+                <text>la felicità esiste e ognuno di noi ha il diritto di andare a prendersela. L’avrei trovata in Australia come lui? Non ne avevo la minima idea, ma ero certo che non avrei smesso di cercarla. Decisi che da quel momento in poi avrei iniziato a donare fiducia agli altri, senza aspettarmi nulla in cambio.
+ D’altronde, in quel periodo della mia vita la felicità derivava quasi esclusivamente da Claudia. Ero follemente innamorato di lei e ciò che condividevamo era ciò che mi faceva stare bene. Ma allora perché chiudermi a riccio con tutti gli altri? E se la mia insofferenza fosse dipesa proprio dalla mancanza di apertura e condivisione con il mondo intero? Ero convinto che tutti i miei problemi derivassero da fattori esterni, ma forse la soluzione era interiore. Forse dovevo cambiare atteggiamento, iniziare a dare e trasmettere positività.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:ab15c25a-8d74-43db-99b9-6c5964f58621</dc:identifier>
+        <dc:date>2023-05-12T09:55:52Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p013_capitolo-09.xhtml#point(/1/4/4/54/1:294)" end="OEBPS/p013_capitolo-09.xhtml#point(/1/4/4/54/1:790)" progress="0.151786">
+                <text>Poi ho capito che persone come me, e probabilmente anche come te, un po’ ribelli e un po’ sognatrici, non funzionano all’interno di schemi così rigidi. C’è il rischio che per noi la laurea sia una condanna, perché l’università può intrappolare la tua mente costringendoti a ragionare in un certo modo e spegnere il tuo spirito libero. E se fino al liceo puoi permetterti progetti di vita non convenzionali, quando hai una laurea in mano ti senti costretto a seguire certi percorsi.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:dd2658c9-ea64-4a5c-8a74-3adda83e1516</dc:identifier>
+        <dc:date>2023-05-12T10:18:06Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p017_capitolo-13.xhtml#point(/1/4/4/17:1)" end="OEBPS/p017_capitolo-13.xhtml#point(/1/4/4/18/1:255)" progress="0.22619">
+                <text>Forse non dovevo inseguire la felicità, forse dovevo inseguire la libertà. Essere libero di vivere come più desideravo, proprio come quel delfino. Per lui non esistevano confini, poteva nuotare ovunque ne avesse voglia. Io volevo essere così, libero. </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:d1a4c25b-cf13-482a-80f4-6624c27e7d97</dc:identifier>
+        <dc:date>2023-05-12T11:30:43Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p020_capitolo-16.xhtml#point(/1/4/4/78/1:176)" end="OEBPS/p020_capitolo-16.xhtml#point(/1/4/5:0)" progress="0.282738">
+                <text>promisi a me stesso che avrei reso la mia vita la storia migliore che avessi mai potuto immaginare.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:235d5e25-e3c3-486f-82b7-37045201f401</dc:identifier>
+        <dc:date>2023-05-12T12:05:36Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p023_capitolo-19.xhtml#point(/1/4/4/58/1:104)" end="OEBPS/p023_capitolo-19.xhtml#point(/1/4/4/58/1:134)" progress="0.321429">
+                <text>Disciplina, rispetto e studio,</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:d1cae84d-2dcf-4b82-b0b8-a4aa6c2136bf</dc:identifier>
+        <dc:date>2023-05-13T17:55:59Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p029_capitolo-25.xhtml#point(/1/4/4/30/1:280)" end="OEBPS/p029_capitolo-25.xhtml#point(/1/4/4/32:0)" progress="0.422619">
+                <text>La verità è che, mentre corri dietro al denaro, il tempo passa inesorabile. Lavori, lavori e lavori, inseguendo una ricchezza che non sarà mai abbastanza: quando hai zero ti sembra fantastica la prospettiva di avere cento, quando finalmente hai cento pensi che sarebbe grandioso avere mille. E quando arrivi a mille ti chiedi: perché non arrivare a un milione?
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:d57e865b-279e-454f-8675-50e1c1a84bb7</dc:identifier>
+        <dc:date>2023-05-13T17:57:14Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p029_capitolo-25.xhtml#point(/1/4/4/36/1:157)" end="OEBPS/p029_capitolo-25.xhtml#point(/1/4/4/36/1:195)" progress="0.425595">
+                <text>tirare avanti: anestetizzare la mente.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:93a6075f-6bde-48f1-a460-f6b00640fa24</dc:identifier>
+        <dc:date>2023-05-13T17:54:28Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p029_capitolo-25.xhtml#point(/1/4/4/26/1:226)" end="OEBPS/p029_capitolo-25.xhtml#point(/1/4/4/26/1:546)" progress="0.419643">
+                <text> soldi si possono accumulare e perdere, si può essere ogni giorno più ricchi o più poveri. Gli oggetti si acquistano, si rompono e si buttano per acquistarne altri. Si può sempre trovare un modo per aumentare il proprio denaro o i propri beni, ma non c’è nessun modo per aumentare il proprio tempo a disposizione.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:02cf7e63-e35a-4a3c-9cb7-66ade2647f0f</dc:identifier>
+        <dc:date>2023-05-13T17:55:36Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p029_capitolo-25.xhtml#point(/1/4/4/29:1)" end="OEBPS/p029_capitolo-25.xhtml#point(/1/4/4/30/1:118)" progress="0.422619">
+                <text>Quando troviamo un lavoro siamo euforici, mi resi conto, perché non pensiamo ad altro che al denaro che guadagneremo.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:321222ae-57c8-4392-add8-35d87ff86136</dc:identifier>
+        <dc:date>2023-05-13T17:55:26Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p029_capitolo-25.xhtml#point(/1/4/4/28/1:868)" end="OEBPS/p029_capitolo-25.xhtml#point(/1/4/4/29:0)" progress="0.422619">
+                <text>Ero follemente innamorato di Claudia e desideravo trascorrere più tempo con lei, eppure accettavo l’idea assurda di non vederla praticamente mai, se non quando altri (il mio superiore) decideva che potevo stare a casa.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:bd9bbc54-2d61-499f-8111-9c28793def88</dc:identifier>
+        <dc:date>2023-05-13T17:56:23Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p029_capitolo-25.xhtml#point(/1/4/4/34/1:314)" end="OEBPS/p029_capitolo-25.xhtml#point(/1/4/4/34/1:457)" progress="0.422619">
+                <text>Giorno dopo giorno, senza mai poter usare la creatività e fare qualcosa che desse un senso alla mia giornata, che la rendesse diversa e unica.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:f1909427-f21e-4cbf-a98b-5b325adfad13</dc:identifier>
+        <dc:date>2023-05-13T17:57:39Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p029_capitolo-25.xhtml#point(/1/4/4/38/1:523)" end="OEBPS/p029_capitolo-25.xhtml#point(/1/4/4/38/1:622)" progress="0.425595">
+                <text>Come si può sperare che l’unico bene impossibile da recuperare o acquistare finisca velocemente?</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:fcbc76c0-85fb-42f2-8912-6f46705bc22a</dc:identifier>
+        <dc:date>2023-05-13T17:57:24Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p029_capitolo-25.xhtml#point(/1/4/4/37:1)" end="OEBPS/p029_capitolo-25.xhtml#point(/1/4/4/38/1:176)" progress="0.425595">
+                <text>Uno dei più grandi paradossi dei nostri tempi risiede nel pensiero fisso di milioni di persone quando sono sul posto di lavoro: “Spero che oggi il tempo passi in fretta”. </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:cc5be464-dab0-4dfc-a371-c41ec1f0d15b</dc:identifier>
+        <dc:date>2023-05-13T18:05:27Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p030_capitolo-26.xhtml#point(/1/4/4/130/1:300)" end="OEBPS/p030_capitolo-26.xhtml#point(/1/4/5:0)" progress="0.446429">
+                <text>. Se mi fossi aggrappato al lavoro da panificatore a North Vancouver non avrei mai vissuto quel momento. Se non mi fossi ribellato, se non avessi rischiato, mi sarei perso una delle esperienze più gratificanti della mia vita.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:42aef735-24ed-46e3-a2e8-6476a6d3cb7a</dc:identifier>
+        <dc:date>2023-05-14T00:35:56Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p034_capitolo-30.xhtml#point(/1/4/4/23:1)" end="OEBPS/p034_capitolo-30.xhtml#point(/1/4/4/26:0)" progress="0.502976">
+                <text>Se devi sognare, fallo in grande. Era ciò che mi ripetevo in quei giorni: perché puntare a un buon lavoro se potevo avere un lavoro che mi garantisse la libertà? Avere un’opportunità del genere avrebbe significato più di qualunque altra cosa.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:01793eeb-db16-46f4-a3fa-41e7720801b2</dc:identifier>
+        <dc:date>2023-05-14T00:33:21Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p034_capitolo-30.xhtml#point(/1/4/4/10/1:423)" end="OEBPS/p034_capitolo-30.xhtml#point(/1/4/4/11:0)" progress="0.497024">
+                <text>Dovevo andare oltre e rivolgere la mia mente al presente e al futuro, senza dare valore a chi non lo meritava.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:7e47bbf3-36cf-496d-b9e4-e2626ec8cc7a</dc:identifier>
+        <dc:date>2023-05-14T00:38:49Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p035_capitolo-31.xhtml#point(/1/4/4/14/1:134)" end="OEBPS/p035_capitolo-31.xhtml#point(/1/4/4/14/1:327)" progress="0.511905">
+                <text>la forza della nostra relazione si basasse su un aspetto: sulle cose davvero importanti la pensavamo nello stesso identico modo, mentre su tutto il resto avevamo opinioni spesso molto diverse. </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:1cc7c3b1-90ad-47d8-9a21-fa5a9fe56cec</dc:identifier>
+        <dc:date>2023-05-14T00:39:09Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p035_capitolo-31.xhtml#point(/1/4/4/14/1:1066)" end="OEBPS/p035_capitolo-31.xhtml#point(/1/4/4/15:0)" progress="0.511905">
+                <text>’anima gemella è quella con cui condividi le stesse coordinate della felicità. Trovarla è la più grande fortuna che ti possa capitare.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:5bac66dd-4644-4b84-ad5d-6a80e839cc1f</dc:identifier>
+        <dc:date>2023-05-14T00:41:48Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p035_capitolo-31.xhtml#point(/1/4/4/26/1:1313)" end="OEBPS/p035_capitolo-31.xhtml#point(/1/4/4/26/1:1540)" progress="0.517857">
+                <text>Viaggiare dovrebbe essere un’esplorazione del mondo, degli altri e di noi stessi. Dovrebbe essere un’attività da fare con la mente sgombra e il cuore aperto a tutta la meraviglia che ti offre questo pianeta e chi lo abita.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:a9dc3d3c-1c62-4ff6-9e50-c25df5890c3f</dc:identifier>
+        <dc:date>2023-05-14T00:42:12Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p035_capitolo-31.xhtml#point(/1/4/4/27:1)" end="OEBPS/p035_capitolo-31.xhtml#point(/1/4/4/28/1:179)" progress="0.520833">
+                <text>Dopo le lunghe passeggiate in riva al mare, comprendemmo che quel viaggio era nato dalla paura di scegliere. Ancora una volta una non-scelta mi perseguitava e mi rendeva infelice.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:1f2eca58-c3af-498c-bdda-540b96cac757</dc:identifier>
+        <dc:date>2023-05-14T08:13:57Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p037_capitolo-33.xhtml#point(/1/4/4/13:1)" end="OEBPS/p037_capitolo-33.xhtml#point(/1/4/4/14/1:96)" progress="0.541667">
+                <text>Guardando il cielo fuori dal finestrino, pensai che in fondo avevo sempre inseguito la libertà.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:f04b7637-14a6-4b53-8031-4279e7a82f0f</dc:identifier>
+        <dc:date>2023-05-14T08:13:49Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p037_capitolo-33.xhtml#point(/1/4/4/11:1)" end="OEBPS/p037_capitolo-33.xhtml#point(/1/4/4/13:0)" progress="0.541667">
+                <text>Giunsi alla conclusione che non può esistere libertà se ti limiti a obbedire senza mai mettere in dubbio nulla. La libertà la acquisisci attraverso la consapevolezza; se hai accettato tutto passivamente, senza mai porti una domanda, puoi avere tutto ma non la vera libertà.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:51318066-5811-48ac-9590-3ff56bacf831</dc:identifier>
+        <dc:date>2023-05-14T08:11:29Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p037_capitolo-33.xhtml#point(/1/4/4/7:1)" end="OEBPS/p037_capitolo-33.xhtml#point(/1/4/4/8/1:151)" progress="0.541667">
+                <text>Ragionai a lungo sul concetto di libertà. Ci definiamo liberi, ma alla fine la stragrande maggioranza dei lavori funziona secondo schemi molto rigidi:</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:dc3484c5-9bb9-42f1-8cd4-2268ca8b6bc4</dc:identifier>
+        <dc:date>2023-05-14T13:48:22Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p037_capitolo-33.xhtml#point(/1/4/4/28/1:403)" end="OEBPS/p037_capitolo-33.xhtml#point(/1/4/4/28/1:965)" progress="0.553571">
+                <text>Così si concretizza quella disillusione di massa che purtroppo sta caratterizzando la mia generazione, quella che dà vita a trentenni incapaci di lasciare casa, depressi e senza alcuna prospettiva. Individui che a ventisette anni sentono di aver fallito completamente e non hanno più nemmeno voglia di ripartire. Li ho visti con i miei occhi a Torino, persone che da giovani erano solari e positive e ora non fanno altro che lamentarsi e odiare la vita. D’altronde, pensi che, se non funziona quando segui le istruzioni alla lettera, forse non può proprio </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:dee3e477-60ee-408d-b920-c48f66f92d79</dc:identifier>
+        <dc:date>2023-05-14T13:52:59Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p038_capitolo-34.xhtml#point(/1/4/4/15:1)" end="OEBPS/p038_capitolo-34.xhtml#point(/1/4/4/16/1:246)" progress="0.565476">
+                <text>Negli anni ho riempito decine di quaderni con appunti, piccoli frammenti di vita, sogni, piani, storie vere e storie inventate. Così la mia mente non resta chiusa in se stessa, ma trova un ponte (o una valvola di sfogo) verso il mondo là fuori.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:ecf55819-a60b-40f5-a17e-72e3dab1b16b</dc:identifier>
+        <dc:date>2023-05-14T13:55:44Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p038_capitolo-34.xhtml#point(/1/4/4/44/1:2)" end="OEBPS/p038_capitolo-34.xhtml#point(/1/4/4/45:0)" progress="0.571429">
+                <text> vero, avevo cambiato idea tante volte, ma in fondo cosa c’è di male? Come fai a capire come realizzarti se non ti confronti con tante realtà, se non fai molteplici tentativi? C’è una differenza enorme tra il trovare la propria strada al primo colpo e credere che sia quella giusta perché le alternative non sono mai state prese in considerazione.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:8e8dc77c-c65b-4899-8d45-07b90185c056</dc:identifier>
+        <dc:date>2023-05-14T13:57:23Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p038_capitolo-34.xhtml#point(/1/4/4/48/1:450)" end="OEBPS/p038_capitolo-34.xhtml#point(/1/4/4/48/1:517)" progress="0.574405">
+                <text>Ascoltare tutti, dare retta a pochi e fidarmi sempre del mio cuore:</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:fc2f422e-ea79-47b5-b7c0-d55fe3a72d31</dc:identifier>
+        <dc:date>2023-05-14T13:59:33Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p039_capitolo-35.xhtml#point(/1/4/4/11:1)" end="OEBPS/p039_capitolo-35.xhtml#point(/1/4/4/12/1:457)" progress="0.580357">
+                <text>Innanzitutto compresi che la perfezione non esiste. Siamo umani e siamo destinati a fallire, motivo per cui, per quanto ti possa impegnare, troverai sempre qualcosa che si sarebbe potuto fare meglio. Non sarai mai pienamente soddisfatto se ti metti nell’ottica di ottenere un risultato perfetto, un discorso che vale tanto nella scrittura quanto nella vita di tutti i giorni. Inseguire la perfezione significa rovinarsi l’esistenza e non serve a nulla. </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:3668714d-b5cd-4d81-b835-3b53e0437ad7</dc:identifier>
+        <dc:date>2023-05-15T09:53:54Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p042_capitolo-38.xhtml#point(/1/4/4/22/1:162)" end="OEBPS/p042_capitolo-38.xhtml#point(/1/4/4/22/1:341)" progress="0.645833">
+                <text>Tutto si basava sull’idea di perdersi: muoversi senza una meta precisa, esplorare senza un piano preciso, interagire con le persone che il destino piazzava sulla nostra strada. </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:f8761a1d-a298-44f9-bca7-eee51066c5e0</dc:identifier>
+        <dc:date>2023-05-15T09:53:36Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p042_capitolo-38.xhtml#point(/1/4/4/20/1:755)" end="OEBPS/p042_capitolo-38.xhtml#point(/1/4/4/20/1:911)" progress="0.645833">
+                <text>Mentre un turista ha dalla sua il denaro per comprare esperienze di viaggio molto costose, noi avevamo a disposizione un bene ancora più prezioso: il tempo</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:ee2086b5-f1e0-42bc-ae2d-6edf06375c5e</dc:identifier>
+        <dc:date>2023-05-15T09:53:44Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p042_capitolo-38.xhtml#point(/1/4/4/20/1:911)" end="OEBPS/p042_capitolo-38.xhtml#point(/1/4/4/22:0)" progress="0.645833">
+                <text>. E, con il tempo dalla nostra parte, non avevamo bisogno di fare tour frettolosi, né di visitare ciò che le guide turistiche definivano “imperdibile”. Sapendo di poter restare in Thailandia a lungo, facevamo solo quello che volevamo fare. Una libertà che ci faceva sentire leggeri.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:ccf2c63e-37bd-4292-9378-43827195f098</dc:identifier>
+        <dc:date>2023-05-15T10:02:26Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p043_capitolo-39.xhtml#point(/1/4/4/10/1:321)" end="OEBPS/p043_capitolo-39.xhtml#point(/1/4/4/11:0)" progress="0.666667">
+                <text>La natura, l’uomo, una vita lenta e lontana da tutti i problemi della nostra società, dove siamo intrappolati in circostanze create da noi stessi ad arte per complicarci la vita da soli. E se la vita fosse facile, invece? Se lo scopo della vita non fosse altro che quello di… vivere?</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:ea134822-6b51-4df0-8f3f-612e51805b36</dc:identifier>
+        <dc:date>2023-05-15T10:01:57Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p043_capitolo-39.xhtml#point(/1/4/4/8/1:320)" end="OEBPS/p043_capitolo-39.xhtml#point(/1/4/4/10:0)" progress="0.666667">
+                <text>Mentre noi occidentali ci specchiamo nel nostro passato glorioso e lontano, il mondo va avanti. E va avanti veloce.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:2116f3d3-67f1-492f-8e4f-1b6c606d2c04</dc:identifier>
+        <dc:date>2023-05-15T10:06:25Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p043_capitolo-39.xhtml#point(/1/4/4/20/1:1004)" end="OEBPS/p043_capitolo-39.xhtml#point(/1/4/4/22:0)" progress="0.675595">
+                <text>Volevamo vivere pensando solo al presente e potevamo farlo, senza la preoccupazione dei soldi e del lavoro che ci aveva angosciato a Lanzarote. Un giorno mi fermai a pensarci e mi venne quasi da piangere.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:5b9813ab-893d-4d2d-9674-0a8e5771389a</dc:identifier>
+        <dc:date>2023-05-15T10:15:40Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p045_capitolo-41.xhtml#point(/1/4/4/32/1:3)" end="OEBPS/p045_capitolo-41.xhtml#point(/1/4/4/33:0)" progress="0.696429">
+                <text>Fallire non significa essere falliti. Non vergognarti mai di aver fallito. Significa che hai provato a essere felice.”</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:908eb74b-7e99-47b8-bebd-f660145035ca</dc:identifier>
+        <dc:date>2023-05-15T22:02:41Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p048_capitolo-44.xhtml#point(/1/4/4/22/1:101)" end="OEBPS/p048_capitolo-44.xhtml#point(/1/4/4/24:0)" progress="0.735119">
+                <text>Non dobbiamo vergognarci di essere nomadi nell’animo. Tanti di noi pensano di essere strani e finiscono per dirsi di mettere la testa a posto. “È ora di smetterla, bisogna diventare seri” si ripetono fino ad autoconvincersi. Ma così non può funzionare. L’erba crescerà, che tu lo voglia o no. Per trovare la felicità non puoi far altro che accettare questa situazione. Che sia mentalmente o fisicamente, che sia dietro casa o dall’altra parte del mondo, non importa: hai bisogno di muoverti, fare esperienze nuove, provare emozioni. Hai bisogno dell’avventura nella tua vita.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:4fbd6d9d-caef-48bc-985d-266a21926a72</dc:identifier>
+        <dc:date>2023-05-15T22:01:49Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p048_capitolo-44.xhtml#point(/1/4/4/16/1:2)" end="OEBPS/p048_capitolo-44.xhtml#point(/1/4/4/16/1:156)" progress="0.732143">
+                <text>Mia madre dice che ho l’erba che cresce sotto i piedi» esclamò. «Non so stare ferma: l’erba cresce, mi solletica i piedi e mi costringe a muovermi.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:24c77b64-b182-484b-93ef-aea0b5d71428</dc:identifier>
+        <dc:date>2023-05-16T14:31:56Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p055_capitolo-51.xhtml#point(/1/4/4/49:1)" end="OEBPS/p055_capitolo-51.xhtml#point(/1/4/4/51:0)" progress="0.866071">
+                <text>Conversando con quel ragazzo abbattuto, compresi che alla fine è tutta una questione di perdono. È fondamentale imparare a perdonare. Perdonare gli altri, ma soprattutto se stessi. Perdonare e guardare avanti. Lo dissi anche a lui mentre era piegato su se stesso a lamentarsi, incapace di godersi un’avventura che tante persone nel mondo possono solo sognare a occhi aperti.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:f9bfc191-3731-4ec7-bcdb-c6939798a936</dc:identifier>
+        <dc:date>2023-05-17T12:09:41Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p058_capitolo-54.xhtml#point(/1/4/4/56/3:871)" end="OEBPS/p058_capitolo-54.xhtml#point(/1/4/4/58:0)" progress="0.919643">
+                <text>Questo per dire che sapevo di svolgere un buon lavoro, ma non immaginavo che un colosso del genere mi stesse osservando da più di un anno. È proprio vero che nella vita non puoi mai sapere chi ti sta guardando con interesse. Nel dubbio, dovresti sempre dare il massimo.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:97558995-4a48-4bc1-b754-0187c781ef4d</dc:identifier>
+        <dc:date>2023-05-17T12:12:58Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p059_capitolo-55.xhtml#point(/1/4/4/11:1)" end="OEBPS/p059_capitolo-55.xhtml#point(/1/4/4/14:0)" progress="0.928571">
+                <text>La libertà. Era quello che inconsapevolmente stavo cercando da sempre. La libertà di guadagnarmi da vivere da qualsiasi parte del mondo, facendo ciò che più amavo e garantendomi la possibilità di impiegare gran parte delle mie giornate come più preferivo. Era qualcosa di importante? No, era la cosa più importante che avessi ottenuto nella mia vita.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:0b741f8a-0fa5-49fe-a682-c7335d093c50</dc:identifier>
+        <dc:date>2023-05-17T12:13:37Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p059_capitolo-55.xhtml#point(/1/4/4/14/1:581)" end="OEBPS/p059_capitolo-55.xhtml#point(/1/4/4/16:0)" progress="0.931548">
+                <text>La libertà mi aveva permesso di vivere esperienze assolutamente indimenticabili. Puoi comprare tante cose con il denaro, ma non puoi comprare i ricordi. Quelli puoi solo crearli, ma per avere tanti ricordi intensi e meravigliosi un domani, devi vivere in un certo modo oggi. E, per vivere a modo tuo, devi essere libero, prima di tutto mentalmente.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:15944881-52c6-4997-8887-474fa914e5a2</dc:identifier>
+        <dc:date>2023-05-17T12:14:01Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p059_capitolo-55.xhtml#point(/1/4/4/15:1)" end="OEBPS/p059_capitolo-55.xhtml#point(/1/4/4/18:0)" progress="0.931548">
+                <text>La mia era una vita nomade e felice. Una settimana prima ero a Ubud, immerso nel verde. Vivevo in una casetta a stretto contatto con una famiglia balinese che mi trattava come uno di loro, incontravo ogni giorno viaggiatori da tutto il mondo e con un’ora di guida in scooter passavo dalle risaie al mare. Se avessi voluto, avrei potuto imparare a fare surf oppure yoga oppure i massaggi tradizionali oppure il curry balinese. Vivevo con poco, ma avevo tutto. Tutto. Era il posto giusto per chi, come me, viveva di continui incontri e scoperte.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:aacc3638-2aee-4b27-b4bb-b54ae3d3321e</dc:identifier>
+        <dc:date>2023-05-17T12:14:34Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p059_capitolo-55.xhtml#point(/1/4/4/21:1)" end="OEBPS/p059_capitolo-55.xhtml#point(/1/4/4/22/1:190)" progress="0.931548">
+                <text>Avevo percorso migliaia di chilometri e avevo vissuto e viaggiato in decine di nazioni prima di capire che la felicità è davvero molto più semplice di come ci viene continuamente venduta.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:ff320f8a-3c00-4dc3-92f5-68ab4956246e</dc:identifier>
+        <dc:date>2023-05-17T12:17:33Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p060_capitolo-56.xhtml#point(/1/4/4/22/1:923)" end="OEBPS/p060_capitolo-56.xhtml#point(/1/4/4/22/1:1015)" progress="0.940476">
+                <text>Qual era stato il fattore scatenante? La mia determinazione nel voler vivere secondo le mie </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:c80c929d-a762-4638-a814-c4f92edb9435</dc:identifier>
+        <dc:date>2023-05-17T12:18:02Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p060_capitolo-56.xhtml#point(/1/4/4/23:1)" end="OEBPS/p060_capitolo-56.xhtml#point(/1/4/4/24/1:356)" progress="0.940476">
+                <text>La mia storia era la dimostrazione che si può fare, che si può trovare la propria strada se davvero lo si vuole. Ma anche che nessuno all’interno dei rigidi schemi del percorso tradizionale ti darà mai una mano nel realizzare la tua natura: a scuola o in famiglia, nessuno mi aveva mai detto che sarei potuto diventare ciò che più sognavo di essere.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:4a70a2c7-2687-44ea-a689-39421c360fc1</dc:identifier>
+        <dc:date>2023-05-17T12:20:02Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p060_capitolo-56.xhtml#point(/1/4/4/34/1:113)" end="OEBPS/p060_capitolo-56.xhtml#point(/1/4/4/34/1:145)" progress="0.943452">
+                <text>il futuro appartiene ai ribelli.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:e1055497-0801-4a46-a403-2365df33bdeb</dc:identifier>
+        <dc:date>2023-05-17T12:21:25Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p060_capitolo-56.xhtml#point(/1/4/4/46/1:2)" end="OEBPS/p060_capitolo-56.xhtml#point(/1/4/4/46/1:299)" progress="0.949405">
+                <text>Lavorare al computer? Mi viene mal di testa solo a pensarci! E viaggiare così a lungo? Anche no, sto bene qui dove sono!» mi aveva detto, dimostrandomi che le coordinate della felicità sono diverse per ognuno di noi. E, soprattutto, che essere liberi è innanzitutto una scelta, una mentalità.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:36b90d3f-5ee2-4c81-93f5-4739c4600d38</dc:identifier>
+        <dc:date>2023-05-17T12:22:14Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p060_capitolo-56.xhtml#point(/1/4/4/54/1:208)" end="OEBPS/p060_capitolo-56.xhtml#point(/1/4/4/54/1:341)" progress="0.952381">
+                <text>Ecco perché credo che il cambiamento, soprattutto quello che serve per trovare la felicità, passi sempre da un gesto di ribellione:</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:847b256b-1020-4a3c-a2d7-2ea00bed71e9</dc:identifier>
+        <dc:date>2023-05-17T12:25:11Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p061_capitolo-57.xhtml#point(/1/4/4/21:1)" end="OEBPS/p061_capitolo-57.xhtml#point(/1/4/4/24:0)" progress="0.958333">
+                <text>Quando stai così bene, senti un bisogno inaspettato: condividere. Vuoi condividere la tua felicità, perché vuoi che anche gli altri si sentano bene quanto te. Vuoi aiutarli, se ne hanno bisogno, oppure semplicemente trovare qualcuno che possa comprendere la tua gioia. La vera felicità e l’egoismo non vanno d’accordo. Non troverai mai qualcuno davvero felice che possa godere dell’infelicità altrui. Le persone veramente felici vogliono che lo siano anche gli altri.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+</annotationSet>

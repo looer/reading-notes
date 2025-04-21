@@ -1,0 +1,433 @@
+
+<annotationSet xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://ns.adobe.com/digitaleditions/annotations">
+    <publication>
+        <dc:title>Perfetti o felici</dc:title>
+        <dc:creator>Stefania Andreoli</dc:creator>
+        <dc:description>EDGT2114720</dc:description>
+        <dc:language>it-IT</dc:language>
+    </publication>
+    <annotation>
+        <dc:identifier>urn:uuid:bfd6d236-8324-4a2b-b3e6-3b7eb6b925da</dc:identifier>
+        <dc:date>2023-08-05T21:54:18Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p006_introduzione.xhtml#point(/1/4/6/152/1:1180)" end="OEBPS/p006_introduzione.xhtml#point(/1/4/6/156:0)" progress="0.114286">
+                <text>
+ L’età adulta invece – non che sia esente dal dolore e dalle ingiustizie, naturalmente – credo che rappresenti lo zenit, il punto più alto di una parabola esistenziale che consegna a chi vi giunge l’opportunità di vivere nella pienezza e nell’autonomia delle proprie decisioni, godendo dei loro successivi esiti e svolgimenti.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:01914f4c-766e-47ab-9934-63e714ba025a</dc:identifier>
+        <dc:date>2023-08-05T21:58:18Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p006_introduzione.xhtml#point(/1/4/6/192/3:312)" end="OEBPS/p006_introduzione.xhtml#point(/1/4/6/194/1:767)" progress="0.125714">
+                <text>
+ E ancora, come la mettiamo quando un adulto ha sottoscritto (più o meno simbolicamente) un patto di responsabilità con il quale entra in conflitto? Un individuo smette di essere adulto, se per esempio dentro a un progetto di vita con un compagno o una compagna si innamora di un’altra persona e non mantiene le sue promesse? Qualcuno potrebbe dire di sì, che starebbe assumendo un comportamento adolescenziale o irresponsabile – soprattutto se ci sono in mezzo dei figli. Eppure, qualcun altro potrebbe dire esattamente il contrario, ovvero che nel disporsi ad affrontare i nuovi elementi occorsi nella sua vita, quello stesso individuo stia dimostrando coraggio, rispetto e responsabilità per i propri e altrui sentimenti – roba che chiameremmo «da adulti</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:b4478206-177c-4acd-981c-37bbe052ce4b</dc:identifier>
+        <dc:date>2023-08-05T21:54:44Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p006_introduzione.xhtml#point(/1/4/6/157:1)" end="OEBPS/p006_introduzione.xhtml#point(/1/4/6/163:0)" progress="0.114286">
+                <text>Diventare adulti dovrebbe essere desiderabile.
+ Senza avere troppa fretta, i più giovani dovrebbero averne voglia perché, sì, si tratterebbe di restituire un po’ di spensieratezza, ma in cambio si otterrebbe il potere – nel senso di «poter fare», ovvero il privilegio di non dover chiedere più alcun permesso.
+ Per come l’intenderei io, essere adulti significa aver finalmente raggiunto quel punto della propria vita nel quale il permesso lo chiedi solo a te.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:e3345fb6-60b4-42e7-b86c-27ac58dd43e3</dc:identifier>
+        <dc:date>2023-08-05T22:02:38Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p006_introduzione.xhtml#point(/1/4/6/222/2/1:109)" end="OEBPS/p006_introduzione.xhtml#point(/1/4/6/222/3:0)" progress="0.142857">
+                <text>il mondo dei giovani, che oggi arriva fino ai trent’anni, è «una scatola nera», come la definisce un articolo del New York Times Magazine. Sono ancora presenti la ricerca dell’identità, l’instabilità tipica dell’adolescenza, l’autoreferenzialità, il sentirsi tra due fuochi: il mondo adulto e la pubertà. […] Questi giovani danno l’impressione di procedere in una condizione di «stabile instabilità», come se non avessero trovato ancora una direzione per sé, dal momento che continuano a crogiolarsi fra mille proposte e progetti, apparentemente inconsapevoli del tempo che passa. Sono velleitari e insofferenti ad ogni vincolo e non sono disposti a fare rinunce, perché si attendono una soluzione improbabile che verrà a risolvere la loro vita.5</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:df6b947b-baac-42a9-8bf4-bf3af63f50e5</dc:identifier>
+        <dc:date>2023-08-06T08:43:24Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p007_capitolo-01.xhtml#point(/1/4/6/93:1)" end="OEBPS/p007_capitolo-01.xhtml#point(/1/4/6/96/1:264)" progress="0.245714">
+                <text>Inconsciamente, questi figli esprimono i tratti che l’Altro trova desiderabili e reprimono le parti di loro stessi che non risulterebbero tali.
+ Allo stesso tempo, questo tipo di genitore non apprezza (e arriva a non consentire) l’indipendenza del figlio. Ciò produce una dipendenza (anche in età adulta) di cui, tuttavia, in modo ambiguo e incomprensibile, il genitore narcisista non manca di lamentarsi.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:77f1b198-ea10-49fb-aa11-4ec1dbd51d37</dc:identifier>
+        <dc:date>2023-08-06T08:50:48Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p007_capitolo-01.xhtml#point(/1/4/6/167:1)" end="OEBPS/p007_capitolo-01.xhtml#point(/1/4/6/171:0)" progress="0.274286">
+                <text>Sono araldi di una domanda esistenziale, filosofica: vengono a chiedermi di aiutarli a vivere davvero.
+ Sentono di non essere se stessi, di fare delle cose ma non di esistere, di avere bisogno di darsi e attribuire pregnanza, di avere avuto educatori ed esempi che non soddisfano la loro volontà di toccare il cuore delle cose, di capire perché si sentano in un modo che non corrisponde a quello che mostrano all’esterno e a come si comportano. Vengono alla ricerca più di altri di coerenza, verità, adultità.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:521fd765-d74b-4db9-b7f4-269f453f3219</dc:identifier>
+        <dc:date>2023-08-06T08:48:51Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p007_capitolo-01.xhtml#point(/1/4/6/149:1)" end="OEBPS/p007_capitolo-01.xhtml#point(/1/4/6/154:0)" progress="0.262857">
+                <text>Abbiamo tutti qualcosa da dire, la sola differenza sta nel privilegio o meno di essere ascoltati.
+ Allo stesso modo, tutti soffriamo, anche chi sta bene. Solo che chi sta bene lo dice a qualcuno che gli dà retta.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:99cb8bb2-6393-47ea-aed3-7af7b7d48cfe</dc:identifier>
+        <dc:date>2023-08-06T08:40:40Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p007_capitolo-01.xhtml#point(/1/4/6/76/1:44)" end="OEBPS/p007_capitolo-01.xhtml#point(/1/4/6/78:0)" progress="0.234286">
+                <text>Se non sai chi sei, cosa ti piace veramente, e fai fatica a prendere una decisione da adulto senza l’aiuto di un genitore… potresti essere stato cresciuto da un genitore narcisista.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:dd57cfdd-086c-4149-8a61-8261abba5014</dc:identifier>
+        <dc:date>2023-08-06T08:42:17Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p007_capitolo-01.xhtml#point(/1/4/6/86/1:446)" end="OEBPS/p007_capitolo-01.xhtml#point(/1/4/6/89:0)" progress="0.24">
+                <text>vedere il figlio come un individuo a sé stante, come una persona, bensì solo come un’estensione di se stessi.
+ Per questo, il rapporto con un genitore narcisista si basa su un falso senso di vicinanza. In realtà, non ci sono conoscenza, scambi emotivi autentici o connessione profonda. Al contrario, il legame famigliare è segnato da una sensazione di perenne crisi, di minaccia incombente. I bambini che sono figli delle famiglie con genitori narcisisti diventano strumenti per il fragile senso di autostima e di Sé degli adulti e tutto l’investimento su di loro si focalizza (al punto a volte da consumarli) sulla mera apparenza. Sul dover essere (o più realisticamente: sembrare) perfetti.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:8f95f481-a8c3-4bc5-8ad6-f3cd2533e3b5</dc:identifier>
+        <dc:date>2023-08-05T22:22:12Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p007_capitolo-01.xhtml#point(/1/4/6/32/1:321)" end="OEBPS/p007_capitolo-01.xhtml#point(/1/4/6/34/1/1:0)" progress="0.217143">
+                <text>, è dato dal fatto che mancano di una cosa senza la quale non è possibile compiere null’altro: non sanno chi sono.
+ </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:b93e089c-6e3d-415a-948e-82d74c6e522a</dc:identifier>
+        <dc:date>2023-08-06T11:36:34Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p008_capitolo-02.xhtml#point(/1/4/6/121:1)" end="OEBPS/p008_capitolo-02.xhtml#point(/1/4/6/123:0)" progress="0.377143">
+                <text>Credo al contrario che emerga come sostanziale parte della questione il fatto che non si possa a buon diritto continuare a ritenere quella dei giovani adulti una famiglia tradizionale. Si tratta piuttosto di una famiglia che scimmiotta la forma patriarcale di chi è venuto prima, ma senza riuscirci: non può.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:28d70512-4d98-4aaa-bda1-a48d40353a14</dc:identifier>
+        <dc:date>2023-08-06T22:04:44Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p008_capitolo-02.xhtml#point(/1/4/6/276/1:1)" end="OEBPS/p008_capitolo-02.xhtml#point(/1/4/6/276/1:293)" progress="0.451429">
+                <text> me pare che invece il tema sia che i giovani adulti si interrogano su tutto, non lasciano passare niente, usano per il reale un setaccio a maglie molto strette. Sono esigenti, più che esitanti. Non si accontentano, per loro non vale tutto, occorrono loro spiegazioni e il conforto del senso</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:576f8dc3-e454-478e-b122-55ca9d81826e</dc:identifier>
+        <dc:date>2023-08-07T20:44:01Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p008_capitolo-02.xhtml#point(/1/4/6/708/1:330)" end="OEBPS/p008_capitolo-02.xhtml#point(/1/4/6/709:0)" progress="0.594286">
+                <text>Avere generalmente saltato l’adolescenza non ha permesso di riconvertire il rapporto con i propri genitori in una relazione paritaria tra adulti e questo non autorizza ad allocare sentimenti significativi al di fuori della famiglia d’origine.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:a92a566e-b1e1-40f0-9114-56074c513b05</dc:identifier>
+        <dc:date>2023-08-06T21:39:55Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p008_capitolo-02.xhtml#point(/1/4/6/130/1:242)" end="OEBPS/p008_capitolo-02.xhtml#point(/1/4/6/132/1:149)" progress="0.382857">
+                <text>cancellano la trasgressione adolescenziale funzionale a prendere le distanze per diventare a tutti gli effetti un soggetto adulto, ed è così che si arriva a diventare giovani senza essere davvero cambiati, rispetto a quando si era prima bambini e poi ragazzi.
+ Si tratta di imitazioni della famiglia, che non è in fondo davvero tale se non si dà come scopo il fatto che un figlio cresca per potersene andare.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:459fb456-f5b5-4998-88d4-0a163253948b</dc:identifier>
+        <dc:date>2023-08-06T11:27:16Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p008_capitolo-02.xhtml#point(/1/4/6/65:1)" end="OEBPS/p008_capitolo-02.xhtml#point(/1/4/6/69:0)" progress="0.354286">
+                <text>Alla fine del percorso, a conclusione della terapia, comunque, ciò che avverrà sarà che il paziente sarà diventato se stesso.
+ Un altro modo per dire la stessa cosa è che avrà guadagnato la sua libertà.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:3a9f2908-2d9c-4164-8659-320153982aff</dc:identifier>
+        <dc:date>2023-08-07T20:51:27Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p008_capitolo-02.xhtml#point(/1/4/6/759:1)" end="OEBPS/p008_capitolo-02.xhtml#point(/1/4/6/761:0)" progress="0.622857">
+                <text>Difficile che uno studente (non più solo liceale) intenda fermarsi dopo l’Esame di Stato: gli è stato detto che altrimenti non troverà lavoro, i suoi adulti di riferimento credono ancora al potere taumaturgico del «pezzo di carta», a lui stesso è passato nel latte che se l’istruzione universitaria è accessibile a tutti, lo sia anche per lui e non saprebbe dire perché mai dovrebbe rinunciarvi. Tanto per cominciare, non lo sfiora neppure l’idea che potrebbe farlo – e nei casi in cui avviene ci pensano i genitori a dissuaderlo dal fare scelte alternative o dal prendere iniziative diverse.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:2237e92c-f542-4645-8f53-dd94941c5d99</dc:identifier>
+        <dc:date>2023-08-07T21:13:48Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p008_capitolo-02.xhtml#point(/1/4/6/884/1:9)" end="OEBPS/p008_capitolo-02.xhtml#point(/1/4/6/885:0)" progress="0.674286">
+                <text>lavorare è un indicatore di salute. Una società che produce e garantisce poco impiego genera soggetti passivi, dipendenti, non contributivi: di conseguenza, quello del lavoro è un tema che non può che essere necessariamente largo, perché include tutti gli impatti e le ricadute che ha sulla vita sia individuale che collettiva.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:eb261f43-9642-4622-bf5c-f95ae1ceafdb</dc:identifier>
+        <dc:date>2023-08-06T11:33:16Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p008_capitolo-02.xhtml#point(/1/4/6/108/1:448)" end="OEBPS/p008_capitolo-02.xhtml#point(/1/4/6/110:0)" progress="0.371429">
+                <text>gli attuali giovani adulti o Millennials o generazione Y, che invece vengono trattati in modo umiliante come degli eterni bambini, dei figli per sempre.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:32289b51-f433-47a3-a12f-6211e13a96e1</dc:identifier>
+        <dc:date>2023-08-07T20:44:16Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p008_capitolo-02.xhtml#point(/1/4/6/709:1)" end="OEBPS/p008_capitolo-02.xhtml#point(/1/4/6/712:0)" progress="0.594286">
+                <text>Al figlio è stato dato tutto, e ora si vuole qualcosa in cambio: che non si porti via questo «tutto» per darlo ad altri, pena restare senza.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:bec8df43-b942-4f26-aa34-d7676d605d46</dc:identifier>
+        <dc:date>2023-08-07T09:54:21Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p008_capitolo-02.xhtml#point(/1/4/6/412/1:617)" end="OEBPS/p008_capitolo-02.xhtml#point(/1/4/6/414:0)" progress="0.514286">
+                <text>per fare qualcosa di diverso, dovrebbero farsi vedere.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:45b2e988-007f-460f-8b4f-b0c23f50c3b5</dc:identifier>
+        <dc:date>2023-08-07T20:54:52Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p008_capitolo-02.xhtml#point(/1/4/6/773:1)" end="OEBPS/p008_capitolo-02.xhtml#point(/1/4/6/776:0)" progress="0.634286">
+                <text>Gli studenti contemporanei, al contrario, mi sembra che facciano l’università perché l’università si fa: il mezzo è diventato il fine. Continuare gli studi non è più l’esito di una scelta, bensì la naturale prosecuzione dell’istruzione superiore – ed ecco spiegato perché tendenzialmente non sappiano orientarsi e scegliere a quale facoltà iscriversi.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:067b94dd-6a74-405c-8df7-757801347943</dc:identifier>
+        <dc:date>2023-08-07T09:54:49Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p008_capitolo-02.xhtml#point(/1/4/6/408/1:255)" end="OEBPS/p008_capitolo-02.xhtml#point(/1/4/6/409:0)" progress="0.508571">
+                <text>del giudizio circa la sua insufficienza, inadeguatezza, incapacità di partecipare in modo contributivo. Non è stato favorito a diventare, l’adolescenza non è stata fatta e dunque non è esitata nella costruzione di una identità affidabile, non ha affinato il gusto, non sa cosa vuole, sa cosa faccia contenta sua madre ma non se stesso.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:606fee10-fb1e-4e96-a30d-8d73d64edf9d</dc:identifier>
+        <dc:date>2023-08-06T21:46:18Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p008_capitolo-02.xhtml#point(/1/4/6/165:1)" end="OEBPS/p008_capitolo-02.xhtml#point(/1/4/6/167:0)" progress="0.4">
+                <text>Nessuno può nulla, sulle vite che non gli competono.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:cd192c8a-758f-432a-88ef-3f73c8bcf0e5</dc:identifier>
+        <dc:date>2023-08-09T05:57:54Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p008_capitolo-02.xhtml#point(/1/4/6/1049:1)" end="OEBPS/p008_capitolo-02.xhtml#point(/1/4/6/1054/1:431)" progress="0.742857">
+                <text>Le famiglie contemporanee sentono che il figlio assesta loro un duro colpo, se osa fare scelte come figlio del suo tempo, anziché come figlio dei suoi genitori.
+ Moltissimi padri e moltissime madri vivono come una bruciante ferita narcisistica che i loro rampolli e le loro rampolle somiglino loro meno del previsto, per esempio perché non trovano nulla di sconveniente nel fare delle scelte opportune, anziché opportunistiche.
+ Di conseguenza, per quanto possa sembrare assurdo e contro natura, non è raro che questi giovani adulti vivano la casa come un luogo sfavorevole all’evoluzione, con genitori che esercitano su di loro un controllo asfissiante e serratissimo, usando l’arma delle frasi fatte e del diritto naturale di ruolo. Convinti di poterla passare liscia, pronunciano solennemente frasi del tipo: «Sono tuo padre, dammi retta, ci sono già</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:97d14911-e376-42a1-9860-80f1176b4428</dc:identifier>
+        <dc:date>2023-08-07T09:55:02Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p008_capitolo-02.xhtml#point(/1/4/6/418/1:128)" end="OEBPS/p008_capitolo-02.xhtml#point(/1/4/6/420:0)" progress="0.514286">
+                <text> mancata autorizzazione a essere se stessi.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:98c5e36a-057f-4411-8ab2-221633150407</dc:identifier>
+        <dc:date>2023-08-06T22:45:04Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p008_capitolo-02.xhtml#point(/1/4/6/378/1:257)" end="OEBPS/p008_capitolo-02.xhtml#point(/1/4/6/384:0)" progress="0.497143">
+                <text>
+ I voti a scuola sono un giudizio: vale per lo zero come per il dieci. Un’assoluzione è un giudizio tanto quanto una condanna. Lodare un risultato artistico è un giudizio, così come fare una recensione negativa.
+ Ho come l’impressione che al giorno d’oggi sbagliamo a prendere le misure con il giudizio e di conseguenza ne siamo spaventati a morte: il fatto che non venga favorita un’adeguata educazione a riceverlo gli fa una cattiva pubblicità.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:426bad3d-c381-4cac-85bd-58598040013a</dc:identifier>
+        <dc:date>2023-08-07T20:42:17Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p008_capitolo-02.xhtml#point(/1/4/6/701:1)" end="OEBPS/p008_capitolo-02.xhtml#point(/1/4/6/703:0)" progress="0.594286">
+                <text>Questo modello famigliare alleva figli come estensioni dei genitori e li mantiene tali il più a lungo possibile dentro a una tela intricata di sacrifici, rinunce, sensi di colpa, promesse di lealtà, silenzi e alleanze finalizzati a non allontanarsi mai troppo, allo scopo di non arrivare a mettere in discussione equilibri precarissimi.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:e01445cf-247e-446f-91e0-4c3ad7867709</dc:identifier>
+        <dc:date>2023-08-06T21:45:36Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p008_capitolo-02.xhtml#point(/1/4/6/156/1:183)" end="OEBPS/p008_capitolo-02.xhtml#point(/1/4/6/158:0)" progress="0.4">
+                <text>Uno stile che non appartiene loro in forma autoctona, ma che al contrario hanno ereditato da noi adulti, che abbiamo confuso la descrizione di una vita di significato e pienezza con il raggiungimento degli obiettivi minimi di sicurezza per un’esistenza omologata a quella di tutti gli altri: lavoro, stipendio fisso, casa comprata per investire sul mattone, matrimonio eterosessuale, figli, gli uomini da una parte e le donne a casa, lo studio finalizzato a trovare un impiego, le scelte fatte per ottenere i risultati, gli sforzi volti ad avere qualcosa di concreto in cambio… finendo così per essere più spesso polli in batteria, che ragazzi intenti a suonarla.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:a3b6ca7d-f180-4da1-bd35-d4b93d58511c</dc:identifier>
+        <dc:date>2023-08-06T22:39:48Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p008_capitolo-02.xhtml#point(/1/4/6/322/1:2)" end="OEBPS/p008_capitolo-02.xhtml#point(/1/4/6/323:0)" progress="0.474286">
+                <text> grande assente dalle tavole rotonde sociali sembra essere l’argomento che riguarda il Sé: Valerio, Clara, Guenda e gli altri denunciano, ognuno a loro modo, di non avvertire lo spazio per parlare, tra le cose importanti, di loro stessi, della loro quiddità. Per usare un termine forse poco preciso, ma che a intuito potremmo capire tutti: della propria anima – di più: della sua verità.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:12e7615a-386a-460d-9679-7fb56d337fcd</dc:identifier>
+        <dc:date>2023-08-06T11:29:07Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p008_capitolo-02.xhtml#point(/1/4/6/76/1:1090)" end="OEBPS/p008_capitolo-02.xhtml#point(/1/4/6/77:0)" progress="0.36">
+                <text>ciascuno di noi può ambire a vivere solo la propria vita, senza fare da supplente in quella degli altri. Può addolorarci, ma non va perso di vista che «rispetto» altro non significhi che questo.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:8416fd1f-11ff-4833-901c-3cfaccea843e</dc:identifier>
+        <dc:date>2023-08-06T22:41:06Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p008_capitolo-02.xhtml#point(/1/4/6/329:1)" end="OEBPS/p008_capitolo-02.xhtml#point(/1/4/6/341:0)" progress="0.48">
+                <text>Il punto non è il mancato raggiungimento del sapere, bensì la perdita del senso. E, come ho sentito giustamente dire dall’etnopsichiatra Salvatore Inglese, se il primo è vitale, la seconda è traumatica.
+ Sì, perché il senso farcisce. Dà gusto e croccantezza. Riempie.
+ Colloca e fa ordine in alternativa alla follia.
+ Il senso sa rispondere alle domande, spiega, fa trovare preparati.
+ Il senso unisce, permette l’incontro, la condivisione.
+ Il senso incoraggia.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:f87f72a5-f36d-4b28-8cdf-b9c4053e8c25</dc:identifier>
+        <dc:date>2023-08-06T21:43:07Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p008_capitolo-02.xhtml#point(/1/4/6/143:1)" end="OEBPS/p008_capitolo-02.xhtml#point(/1/4/6/144/1:609)" progress="0.388571">
+                <text>Mi spiegò che a lei non servisse riuscire, per essere felice: il fatto stesso di fare delle esperienze anche diverse tra loro e non tutte finalizzate a un risultato le dava delle sensazioni. Belle o brutte che fossero, le riconosceva come segnali di vitalità. Questo le permetteva di sperimentarsi, vedere che effetto le facesse, scremare cosa fosse adatto a lei e cosa no. Le dava l’idea di stare scegliendo dal quasi sconfinato menu delle offerte della vita. Soffriva, molto e in solitudine – cosa che le faceva male ma non paura. In qualche modo, anche nel dolore avvertiva una dolcezza, un esistere.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:62bd8c5d-61d1-4748-aaf3-080350299247</dc:identifier>
+        <dc:date>2023-08-09T12:57:19Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p009_capitolo-03.xhtml#point(/1/4/6/117:1)" end="OEBPS/p009_capitolo-03.xhtml#point(/1/4/6/119:0)" progress="0.851429">
+                <text>Sono stanchi perché portano avanti una campagna sul senso che ritengono che, se non fanno loro, non avrebbe la credibilità di fare nessuno. Quindi, tra le maglie della loro tolleranza non passa uno spillo. Per loro, avere dei valori non significa più costruire le vite attorno ai principi tradizionali omologanti per tutti, ma dare valore alla soggettività dei propri.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:50fdd559-7efe-4651-84ee-540c53a25acd</dc:identifier>
+        <dc:date>2023-08-09T12:54:23Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p009_capitolo-03.xhtml#point(/1/4/6/61:1)" end="OEBPS/p009_capitolo-03.xhtml#point(/1/4/6/62/3:43)" progress="0.834286">
+                <text>Così, accade che non ci si approfitti del potere di essere diventati grandi abbastanza al punto da scegliersi una vita da vivere a propria immagine e somiglianza: già, perché diversamente dai venticinquenni, i trentacinquenni in linea di massima come vorrebbero che fosse, quella vita, lo sanno. Nel cuore di se stessi, l’hanno intuita.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:458ceb93-ef38-4ab3-acaf-bc571a215a60</dc:identifier>
+        <dc:date>2023-08-09T12:58:15Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p009_capitolo-03.xhtml#point(/1/4/6/122/1:261)" end="OEBPS/p009_capitolo-03.xhtml#point(/1/4/6/124/1:284)" progress="0.851429">
+                <text>
+ È solo che combattono ogni minuto con il rischio che l’alternativa sia rassegnarsi a farsi andare bene quello che non sta loro bene, entrando così a fare parte del gruppo dei loro coetanei che scelgono di non scegliere, e finire per essere, dopo qualche altro anno, gli adulti in </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:f92efd7b-b79d-4707-b1bb-47c1e26dc2b0</dc:identifier>
+        <dc:date>2023-08-09T12:52:59Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p009_capitolo-03.xhtml#point(/1/4/6/50/1:625)" end="OEBPS/p009_capitolo-03.xhtml#point(/1/4/6/50/3:108)" progress="0.828571">
+                <text>Sembra non concedere alcuno spazio all’idea che possa ancora scegliere, che la partita sia apertissima, che ha piena facoltà di precisare sempre meglio la sua strada. </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:e359857d-d33d-4efe-8d33-6a436fde3f71</dc:identifier>
+        <dc:date>2023-08-09T13:13:29Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p010_capitolo-04.xhtml#point(/1/4/6/128/1:59)" end="OEBPS/p010_capitolo-04.xhtml#point(/1/4/6/132:0)" progress="0.92">
+                <text>
+ I giovani adulti al cospetto del loro malessere dimostrano maggiore incoscienza, ovvero sono disposti a dargli appuntamento, guardarlo in faccia, nominarlo, viverselo. Non hanno idea di come fare, ma non hanno ancora rinunciato all’autenticità come soluzione.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:ea51b088-2395-46fd-bc0b-b8eba4622128</dc:identifier>
+        <dc:date>2023-08-09T13:14:28Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p010_capitolo-04.xhtml#point(/1/4/6/144/1:41)" end="OEBPS/p010_capitolo-04.xhtml#point(/1/4/6/146:0)" progress="0.925714">
+                <text>ripartire tutti insieme dall’autorizzarci a essere quello che siamo, qualunque cosa significhi per ciascuno di noi, perché se riteniamo di dover essere solo perfetti, nessuno potrà mai diventare niente. Niente di vero, niente di realistico, niente di tridimensionale, niente di spontaneo, niente di interessante, niente di affabulante, niente di felice. Niente di soggettivo, niente di unico. Niente di sano.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:a518c55e-b0ca-49e7-96fa-eacea97ade5a</dc:identifier>
+        <dc:date>2023-08-09T13:17:34Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/p011_conclusione.xhtml#point(/1/4/6/16/1:204)" end="OEBPS/p011_conclusione.xhtml#point(/1/4/6/16/1:636)" progress="0.942857">
+                <text>Azzurra? Sai che io ti voglio proprio bene? E sai perché ti voglio bene? Perché sei simpatica”. Mi ha detto così, e mi ha fatto emozionare. Con i miei, io ero abituata a essere voluta bene se andavo bene. Se facevo le cose bene. Se andavo bene a scuola. Se agivo come volevano loro. Non penso che significhi che non mi vogliano bene davvero, ma sento che il loro affetto è vincolato a quello che faccio, non a quello che sono.</text>
+            </fragment>
+        </target>
+    </annotation>
+</annotationSet>

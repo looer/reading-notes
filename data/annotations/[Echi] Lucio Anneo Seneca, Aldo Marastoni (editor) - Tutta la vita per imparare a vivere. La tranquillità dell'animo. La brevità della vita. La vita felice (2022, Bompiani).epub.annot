@@ -1,0 +1,227 @@
+
+<annotationSet xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://ns.adobe.com/digitaleditions/annotations">
+    <publication>
+        <dc:title>Tutta la vita per imparare a vivere</dc:title>
+        <dc:creator>Lucio Anneo Seneca</dc:creator>
+        <dc:description>EDGT1926072</dc:description>
+        <dc:language>it</dc:language>
+    </publication>
+    <annotation>
+        <dc:identifier>urn:uuid:ed3ad9c5-8d80-45e1-8ef1-7b26f84828df</dc:identifier>
+        <dc:date>2024-03-09T15:44:05Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/_0050_testo_03.xhtml#point(/1/4/170/1:224)" end="OEBPS/Text/_0050_testo_03.xhtml#point(/1/4/172/1:1)" progress="0.270833">
+                <text>la povertà, se accompagnata dalla frugalità, può trasformarsi in una forma di ricchezza.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:28d6d74a-7996-4e6b-ad23-a1649e708f9e</dc:identifier>
+        <dc:date>2024-03-09T11:26:24Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/_0050_testo_03.xhtml#point(/1/4/48/1:53)" end="OEBPS/Text/_0050_testo_03.xhtml#point(/1/4/49:1)" progress="0.166667">
+                <text> la conseguenza del vizio è una sola: lo scontento di sé. Esso nasce dalla variabilità dell’animo, da passioni timorose insoddisfatte, poiché costoro non osano tutto quello che desiderano o non lo ottengono, ma restano protesi nella speranza del tutto. Sono individui instabili, incostanti, come inevitabile che accada a chi pencola. Prendono tutte le strade per soddisfare i loro desideri, suggeriscono a se stessi imprese disoneste e difficili e vi si costringono, però, quando la fatica resta senza premio, provano rimorso per l’inutile vergogna e si dolgono non d’aver voluto cose disoneste, ma d’averle volute senza esito.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:c3af4317-0f6e-4acf-8e2f-73e702494601</dc:identifier>
+        <dc:date>2024-03-13T07:19:04Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/_0050_testo_03.xhtml#point(/1/4/212/1:4)" end="OEBPS/Text/_0050_testo_03.xhtml#point(/1/4/212/1:205)" progress="0.3125">
+                <text>Che c’è di brutto a tornare al luogo donde sei venuto? È destinato a vivere male chi non vuole saper morir bene. La prima cosa da deprezzare è la vita: tirare il fiato è un bene da valutare poco.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:51c07430-73b9-447f-8fbe-c1fe04db0374</dc:identifier>
+        <dc:date>2024-03-13T07:18:53Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/_0050_testo_03.xhtml#point(/1/4/212/1:410)" end="OEBPS/Text/_0050_testo_03.xhtml#point(/1/4/213:1)" progress="0.3125">
+                <text>tante volte si muore per paura della morte.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:f21019e2-3f8f-4d8c-b609-4955990f5586</dc:identifier>
+        <dc:date>2024-03-09T11:33:12Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/_0050_testo_03.xhtml#point(/1/4/84/1:6)" end="OEBPS/Text/_0050_testo_03.xhtml#point(/1/4/85:1)" progress="0.197917">
+                <text>Se ti ritirerai nello studio, sfuggirai a ogni disgusto della vita, non bramerai che giunga la notte per tedio del giorno, non sarai gravoso a te stesso e inutile agli altri; ti attirerai molti amici e si daranno convegno, attorno a te, tutti i migliori. La virtù, infatti, per quanto oscura, non resta mai nascosta, ma dà segni di sé: chiunque ne sarà degno, la riconoscerà alle tracce.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:886392cc-56b7-4852-9f48-5573383a52e2</dc:identifier>
+        <dc:date>2024-03-08T13:10:04Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/_0050_testo_03.xhtml#point(/1/4/38/1:4)" end="OEBPS/Text/_0050_testo_03.xhtml#point(/1/4/39:0)" progress="0.15625">
+                <text>Non servono, quindi, le norme severe attraverso le quali siamo già passati: opporti, in certi casi, a te stesso, adirarti con te stesso, rimproverarti con severità; ma serve l’ultimo dei precetti: aver fiducia in te stesso, credere che stai camminando sulla retta via, non lasciartene stornare dalle molte orme traverse di chi erra qua e là o vaga nei pressi del sentiero giusto.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:f176e447-942a-436a-b53d-29e37631b7bc</dc:identifier>
+        <dc:date>2024-03-08T13:10:12Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/_0050_testo_03.xhtml#point(/1/4/40/1:4)" end="OEBPS/Text/_0050_testo_03.xhtml#point(/1/4/40/3:79)" progress="0.15625">
+                <text>Quello che cerchi è un risultato importante, il più elevato, vicino a Dio: l’imperturbabilità. Questa fermezza d’animo, che i Greci chiamano eutimia e che è oggetto di un ottimo volume di Democrito, io la chiamo tranquillità.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:969d172b-c682-4913-af7e-e3ada8938af5</dc:identifier>
+        <dc:date>2024-03-09T15:41:22Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/_0050_testo_03.xhtml#point(/1/4/154/1:285)" end="OEBPS/Text/_0050_testo_03.xhtml#point(/1/4/156/1:1)" progress="0.260417">
+                <text>È più sopportabile, l’ho detto, e più facile il non acquistare che il perdere; per questo motivo, coloro che la fortuna non ha mai degnato d’uno sguardo, li vedrai più sereni di coloro che essa ha tradito.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:1b85739a-cf74-4ed8-b84a-79c8a2eefb48</dc:identifier>
+        <dc:date>2024-03-09T11:32:12Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/_0050_testo_03.xhtml#point(/1/4/76/1:328)" end="OEBPS/Text/_0050_testo_03.xhtml#point(/1/4/77:1)" progress="0.197917">
+                <text>Il magnanimo, però, ha vasto spazio per dispiegare liberamente se stesso anche nella vita privata, e non accade agli uomini quello che accade ai leoni e alle belve, la cui baldanza viene mortificata dalle gabbie; le azioni più grandi degli uomini maturano nel ritiro.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:67a52ee2-278c-4749-8694-e4355b5c8ffa</dc:identifier>
+        <dc:date>2024-03-09T11:30:42Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/_0050_testo_03.xhtml#point(/1/4/70/1:5)" end="OEBPS/Text/_0050_testo_03.xhtml#point(/1/4/71:0)" progress="0.1875">
+                <text>Dobbiamo, dunque, renderci conto che la nostra sofferenza non è provocata da difetti di luogo, ma da difetto nostro: ci sentiamo deboli ogni volta che dobbiamo sopportare e non sappiamo avvezzarci né a fatica, né a piacere, né a noi stessi, né a una qualunque esperienza che duri un tantino. Questo ha condotto certuni alla morte; dato che, con il loro continuo mutar proposito, ricadevano nelle stesse abitudini e non davano spazio a cambiamenti, la vita e il mondo stesso incominciarono a venir loro a noia, e si posero la classica domanda di chi si strugge nel benessere: «Sempre le stesse cose, fino a quando?»</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:a67ea0fc-4e55-46ae-b35b-684d99e3c664</dc:identifier>
+        <dc:date>2024-03-09T15:52:27Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/_0050_testo_03.xhtml#point(/1/4/206/1:4)" end="OEBPS/Text/_0050_testo_03.xhtml#point(/1/4/206/1:278)" progress="0.302083">
+                <text>Questo mio discorso riguarda gli imperfetti, i mediocri, i poco assennati, non il saggio. Quest’ultimo non deve avanzare timidamente, passo passo: ha sufficiente sicurezza di sé per poter affrontare la fortuna senza esitazioni e senza doversi mai ritirare davanti a essa.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:770a8e76-cbc3-495c-9fe6-ef26c9c8a229</dc:identifier>
+        <dc:date>2024-03-09T14:54:58Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/_0050_testo_03.xhtml#point(/1/4/140/1:4)" end="OEBPS/Text/_0050_testo_03.xhtml#point(/1/4/140/1:429)" progress="0.25">
+                <text>Nulla, tuttavia, potrà rasserenarti l’animo quanto un’amicizia fedele e affettuosa. Che conforto è disporre di persone di tal cuore che puoi seppellirvi tranquillamente ogni segreto, di tal coscienza che ti incute minor soggezione della tua, di conversazione che dia sollievo alle tue ansie, di pareri che ti facilitino le decisioni, di serenità che dissipi la tua tristezza, e che ti basti vederle per provare gioia! </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:b8e6661d-1f09-4611-9de7-a36617428760</dc:identifier>
+        <dc:date>2024-03-14T07:09:46Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/_0050_testo_05.xhtml#point(/1/4/4/1:515)" end="OEBPS/Text/_0050_testo_05.xhtml#point(/1/4/4/1:557)" progress="0.4375">
+                <text>La vita è breve, l’arte è lunga.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:82f35c2d-6a74-4168-b7ab-062c603dbd49</dc:identifier>
+        <dc:date>2024-03-14T07:16:07Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/_0050_testo_05.xhtml#point(/1/4/44/1:494)" end="OEBPS/Text/_0050_testo_05.xhtml#point(/1/4/45:1)" progress="0.479167">
+                <text>Perciò desiderava ritirarsi; quella speranza, quel pensiero lo ristoravano dalle fatiche. E quello era il desiderio rimasto all’uomo che poteva appagare tutti i desideri.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:82f13561-00f5-4647-a3f3-8a0d787d2ac3</dc:identifier>
+        <dc:date>2024-08-05T21:03:27Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/_0050_testo_05.xhtml#point(/1/4/132/1:4)" end="OEBPS/Text/_0050_testo_05.xhtml#point(/1/4/133:1)" progress="0.552083">
+                <text>La vita, invece, per coloro che la passano lontani da ogni impegno, perché non deve risultare spaziosa? Di essa nulla è delegato ad altri, nulla è disperso qua e là, nulla è andato alla fortuna, va perduto per negligenza, è sottratto per largizioni, nulla è inutilizzato: per così dire, è tutta un reddito. Per breve che sia, basta e abbonda. Quindi, quando verrà l’ultimo giorno, il saggio non esiterà ad avviarsi alla morte con passo sicuro.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:f61529ee-0656-4169-bf89-e73c8f8ee144</dc:identifier>
+        <dc:date>2024-03-14T07:09:40Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/_0050_testo_05.xhtml#point(/1/4/4/1:230)" end="OEBPS/Text/_0050_testo_05.xhtml#point(/1/4/4/1:311)" progress="0.4375">
+                <text>la vita pianta tutti in asso proprio nel momento in cui s’apprestano a viverla.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:aa257f87-2fb6-49d9-b085-a51d01b296fc</dc:identifier>
+        <dc:date>2024-08-31T19:18:43Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/_0050_testo_05.xhtml#point(/1/4/200/1:4)" end="OEBPS/Text/_0050_testo_05.xhtml#point(/1/4/201:1)" progress="0.625">
+                <text>La vita più breve e più tormentata è quella di coloro che dimenticano il passato, trascurano il presente e temono il futuro: quando giungono alla fine, quei miseri s’accorgono troppo tardi d’essersi impegnati per tanto tempo a non far nulla.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:7ed7827e-c230-45d2-ad46-7b8005c08d5a</dc:identifier>
+        <dc:date>2024-12-20T10:12:11Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/_0050_testo_07.xhtml#point(/1/4/18/1:4)" end="OEBPS/Text/_0050_testo_07.xhtml#point(/1/4/18/1:212)" progress="0.708333">
+                <text>Domandiamoci, dunque, qual è la cosa migliore da fare, non qual è la più usuale, e che cosa ci metta in possesso di una felicità eterna, non che cosa piaccia al volgo, il peggior interprete della verità.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:8107fb83-48ab-4218-87dc-7dff07a8562d</dc:identifier>
+        <dc:date>2024-12-26T07:49:36Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/_0050_testo_07.xhtml#point(/1/4/48/1:291)" end="OEBPS/Text/_0050_testo_07.xhtml#point(/1/4/50/1:97)" progress="0.739583">
+                <text>Non si può dire felice nessun uomo che si sia estraniato dalla verità.
+			 [3] La vita felice è dunque quella che si fonda costantemente su un giudizio retto e definitivo.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:bf9c22dc-cee1-42c6-9f45-5f6625c625d5</dc:identifier>
+        <dc:date>2024-12-26T07:55:20Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/_0050_testo_07.xhtml#point(/1/4/80/1:3)" end="OEBPS/Text/_0050_testo_07.xhtml#point(/1/4/80/1:351)" progress="0.760417">
+                <text> L’uomo non deve lasciarsi corrompere né sopraffare dalle cose esterne, deve puntare esclusivamente su se stesso, fiducioso nelle sue capacità e pronto anche a risultati indesiderati, artefice della sua vita. La sua fiducia sia accompagnata dal sapere, il suo sapere dalla fermezza; resti, cioè, ben fermo quanto ha deciso una volta per tutte:</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:8235206c-bb6e-44a1-8c32-82e260a8dc30</dc:identifier>
+        <dc:date>2024-12-26T07:56:11Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/_0050_testo_07.xhtml#point(/1/4/84/1:727)" end="OEBPS/Text/_0050_testo_07.xhtml#point(/1/4/86/1/1:5)" progress="0.770833">
+                <text>il sommo bene è l’armonia interiore; dove c’è accordo e unità, debbono esserci le virtù, dove c’è disaccordo, ci sono i vizi.</text>
+            </fragment>
+        </target>
+    </annotation>
+</annotationSet>

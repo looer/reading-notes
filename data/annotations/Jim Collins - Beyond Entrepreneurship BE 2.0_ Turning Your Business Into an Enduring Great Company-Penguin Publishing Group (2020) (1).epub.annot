@@ -1,0 +1,233 @@
+
+<annotationSet xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://ns.adobe.com/digitaleditions/annotations">
+    <publication>
+        <dc:identifier>9780399564246</dc:identifier>
+        <dc:title>BE 2.0 (Beyond Entrepreneurship 2.0)</dc:title>
+        <dc:creator>Jim Collins</dc:creator>
+        <dc:description>&lt;b&gt;From Jim Collins, the most influential business thinker of our era, comes an ambitious upgrade of his classic, &lt;i&gt;Beyond Entrepreneurship&lt;/i&gt;, that includes all-new findings and world-changing insights.&lt;/b&gt;&lt;br&gt;What's the roadmap to create a company that not only survives its infancy but thrives, changing the world for decades to come? &lt;br&gt;Nine years before the publication of his epochal bestseller &lt;i&gt;Good to Great&lt;/i&gt;, Jim Collins and his mentor, Bill Lazier, answered this question in their bestselling book, &lt;i&gt;Beyond Entrepreneurship&lt;/i&gt;.&lt;br&gt;&lt;i&gt;Beyond Entrepreneurship &lt;/i&gt;left a definitive mark on the business community, influencing the young pioneers who were, at that time, creating the technology revolution that was birthing in Silicon Valley. Decades later, successive generations of entrepreneurs still turn to the strategies outlined in &lt;i&gt;Beyond Entrepreneurship&lt;/i&gt; to answer the most pressing business questions. &lt;br&gt;&lt;i&gt;BE 2.0&lt;/i&gt; is a new and improved version of the book...</dc:description>
+        <dc:language>en-US</dc:language>
+    </publication>
+    <annotation>
+        <dc:identifier>urn:uuid:f7d718af-2e1e-4f5c-b9f7-252265b77f31</dc:identifier>
+        <dc:date>2025-01-27T22:01:48Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/07_Chapter_1_Bill_and_Me.xhtml#point(/1/4/2/4/4/150/1:40)" end="OEBPS/xhtml/07_Chapter_1_Bill_and_Me.xhtml#point(/1/4/2/4/4/151:0)" progress="0.0645161">
+                <text>Well, Jim, if you don’t love doing it, you won’t stay with it long enough to ever really get good at it.” Then he added, “Life is just too short not to enjoy what you’re doing. If we can’t make this fun, we should stop doing it!”</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:976a6bad-7ed5-4eb4-9334-902466f1139f</dc:identifier>
+        <dc:date>2025-01-27T21:50:08Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/07_Chapter_1_Bill_and_Me.xhtml#point(/1/4/2/4/4/34/3:32)" end="OEBPS/xhtml/07_Chapter_1_Bill_and_Me.xhtml#point(/1/4/2/4/4/34/5:91)" progress="0.0410557">
+                <text>In building his company and living his life, Hewlett adhered to a simple motto that he oft repeated: “Never stifle a generous impulse.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:5f51007d-6975-4c8d-b84a-6bd3a3efcf99</dc:identifier>
+        <dc:date>2025-01-27T21:53:31Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/07_Chapter_1_Bill_and_Me.xhtml#point(/1/4/2/4/4/63:5)" end="OEBPS/xhtml/07_Chapter_1_Bill_and_Me.xhtml#point(/1/4/2/4/4/65:0)" progress="0.0469208">
+                <text>	 If you spend your life keeping your options open, that’s exactly what you’ll do . . . spend your life keeping your options open.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:6a39f1cb-ad22-4198-b4f4-90b33af3fff1</dc:identifier>
+        <dc:date>2025-01-27T21:59:29Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/07_Chapter_1_Bill_and_Me.xhtml#point(/1/4/2/4/4/132/3:5)" end="OEBPS/xhtml/07_Chapter_1_Bill_and_Me.xhtml#point(/1/4/2/4/4/133:0)" progress="0.058651">
+                <text>Be very careful what you commit to,” Bill advised. “Because there’s no honorable way to fail a commitment freely made.”</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:9cd9a00b-f561-4388-8c90-9a2b815f7bc0</dc:identifier>
+        <dc:date>2025-01-27T21:56:26Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/07_Chapter_1_Bill_and_Me.xhtml#point(/1/4/2/4/4/103:6)" end="OEBPS/xhtml/07_Chapter_1_Bill_and_Me.xhtml#point(/1/4/2/4/4/106/1:173)" progress="0.0527859">
+                <text>“How do you know if you have a great relationship?” I asked.
+					 Bill thought about it for a moment, then answered, “If you were to ask each person in the relationship who benefits more from the relationship, both would answer, ‘I do.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:8277aef1-7359-4ddc-a882-292b495abb70</dc:identifier>
+        <dc:date>2025-01-27T21:51:19Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/07_Chapter_1_Bill_and_Me.xhtml#point(/1/4/2/4/4/48/1:466)" end="OEBPS/xhtml/07_Chapter_1_Bill_and_Me.xhtml#point(/1/4/2/4/4/50/1:2)" progress="0.0439883">
+                <text>Bill believed that most people fail to achieve their audacious big dreams because they don’t fully commit at the crucial moment.
+					 To</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:c871991d-d67b-4df2-90bf-02225beba443</dc:identifier>
+        <dc:date>2025-01-27T22:16:12Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/08_Chapter_2_Great_Visio.xhtml#point(/1/4/2/4/4/22/1:4)" end="OEBPS/xhtml/08_Chapter_2_Great_Visio.xhtml#point(/1/4/2/4/4/22/3:1)" progress="0.0791789">
+                <text>what’s that metric? The percentage of key seats on the bus filled with the right people for those seats.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:f31e97a7-36c6-4614-ae8f-94831fd6ba0e</dc:identifier>
+        <dc:date>2025-01-27T22:24:21Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/08_Chapter_2_Great_Visio.xhtml#point(/1/4/2/4/10/23:6)" end="OEBPS/xhtml/08_Chapter_2_Great_Visio.xhtml#point(/1/4/2/4/10/24/3:164)" progress="0.0997067">
+                <text>One of the most destructive myths is that a founder-entrepreneur or small-business leader will almost inevitably hit his or her managerial limit and need to be replaced with a “real” CEO to build the company. Steve Jobs 1.0 bought into that myth and it nearly killed Apple; it took Steve Jobs 2.0 to save it. </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:b84a1cf3-857a-42ce-b024-677963bb592b</dc:identifier>
+        <dc:date>2025-01-27T22:32:45Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/08_Chapter_2_Great_Visio.xhtml#point(/1/4/2/4/10/94/3:178)" end="OEBPS/xhtml/08_Chapter_2_Great_Visio.xhtml#point(/1/4/2/4/10/95:1)" progress="0.11437">
+                <text>But if you do meaningful work you enjoy with people you love, you’ve truly won the lottery.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:7d372da5-439c-43b1-9b6f-376ec1e15304</dc:identifier>
+        <dc:date>2025-01-27T22:34:50Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/08_Chapter_2_Great_Visio.xhtml#point(/1/4/2/4/10/114/1:82)" end="OEBPS/xhtml/08_Chapter_2_Great_Visio.xhtml#point(/1/4/2/4/10/114/1:254)" progress="0.120235">
+                <text>Take care of your people, not your career. Every responsibility you get, every minibus you drive, every unit you lead—no matter how small—make it a pocket of greatness.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:311c388f-1b92-4b62-8379-f0f282b499d4</dc:identifier>
+        <dc:date>2025-01-27T22:29:58Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/08_Chapter_2_Great_Visio.xhtml#point(/1/4/2/4/10/87:6)" end="OEBPS/xhtml/08_Chapter_2_Great_Visio.xhtml#point(/1/4/2/4/10/88/1:141)" progress="0.111437">
+                <text>To practice “first who” means recruiting all the time, keeping yourself highly attuned to stumbling upon great talent wherever you might </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:d1155a5c-1a8f-454f-b176-d34537dc26c0</dc:identifier>
+        <dc:date>2025-01-27T22:37:03Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/08_Chapter_2_Great_Visio.xhtml#point(/1/4/2/4/10/130/1:604)" end="OEBPS/xhtml/08_Chapter_2_Great_Visio.xhtml#point(/1/4/2/4/10/130/1:747)" progress="0.1261">
+                <text>First, you get great people. Then you need to give them something big to do. If you pick something big enough, you’ll need more great people.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:c82b0ab5-f3e3-48dd-8650-d268c5cb1d7a</dc:identifier>
+        <dc:date>2025-01-27T22:16:39Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/08_Chapter_2_Great_Visio.xhtml#point(/1/4/2/4/4/25:6)" end="OEBPS/xhtml/08_Chapter_2_Great_Visio.xhtml#point(/1/4/2/4/4/28/6/3:0)" progress="0.0791789">
+                <text>What makes for a key seat? Any seat meeting any one of the following three conditions qualifies as key:
+					 
+						
+							 The person in that seat has the power to make significant people decisions.
+						
+						
+							 Failure in the seat could expose the entire enterprise to significant risk or potential catastrophe.
+						
+						
+							 Success in the seat would have a significantly outsized impact on the company’s success.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:c78dca28-bb8d-43e8-aad8-337b7a9e3f33</dc:identifier>
+        <dc:date>2025-01-27T22:09:33Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/08_Chapter_2_Great_Visio.xhtml#point(/1/4/2/4/4/11:6)" end="OEBPS/xhtml/08_Chapter_2_Great_Visio.xhtml#point(/1/4/2/4/4/12/1:143)" progress="0.0733138">
+                <text>You need the right people far more than you need the right business idea, especially since any specific business idea is likely to fail anyway.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:314a168d-1a70-41d5-967b-8c59c8398d60</dc:identifier>
+        <dc:date>2025-01-31T04:40:39Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/08_Chapter_2_Great_Visio.xhtml#point(/1/4/2/4/10/187:6)" end="OEBPS/xhtml/08_Chapter_2_Great_Visio.xhtml#point(/1/4/2/4/10/189:0)" progress="0.146628">
+                <text>We live in a world rich in success but impoverished in meaning. A life of relentless work without meaning is brutal and dark. Most of us will never have the depth of love in our daily work that Manchester had with his fellow Marines. But we can move closer to it by building a culture where people depend on people. And in so doing, you will give people something of immeasurable value—work that matters. And that is truly great.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:fd91412d-3910-48a6-84dd-b7d42bbdfa91</dc:identifier>
+        <dc:date>2025-01-31T04:44:09Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/09_Chapter_3_Leadership_.xhtml#point(/1/4/4/36/1:3)" end="OEBPS/xhtml/09_Chapter_3_Leadership_.xhtml#point(/1/4/4/36/1:194)" progress="0.155425">
+                <text> function of leadership—the number-one responsibility of a leader—is to catalyze a clear and shared vision for the company and to secure commitment to and vigorous pursuit of that vision.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:3349ae8b-c9d6-4b0b-a2b3-840e651b1d95</dc:identifier>
+        <dc:date>2025-01-31T04:49:45Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/09_Chapter_3_Leadership_.xhtml#point(/1/4/4/50/20/1:595)" end="OEBPS/xhtml/09_Chapter_3_Leadership_.xhtml#point(/1/4/4/50/22/3:8)" progress="0.16129">
+                <text>As James MacGregor Burns taught in his classic text, Leadership, we should never confuse brute power with leadership.
+				 True leadership only exists if people follow when they would otherwise have the freedom to not follow.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:f1f716f4-aa04-4d8b-bfcd-6f9a95b81953</dc:identifier>
+        <dc:date>2025-01-31T04:50:52Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/09_Chapter_3_Leadership_.xhtml#point(/1/4/4/50/24/5:234)" end="OEBPS/xhtml/09_Chapter_3_Leadership_.xhtml#point(/1/4/4/50/25:0)" progress="0.164223">
+                <text>Leadership is the art of getting people to want to do what must be done.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:bddbdcc7-c48f-4854-80bf-2423bae75bf2</dc:identifier>
+        <dc:date>2025-01-31T04:51:08Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/09_Chapter_3_Leadership_.xhtml#point(/1/4/4/50/26/1:48)" end="OEBPS/xhtml/09_Chapter_3_Leadership_.xhtml#point(/1/4/4/50/26/1:237)" progress="0.164223">
+                <text>, as a leader, it’s your responsibility to figure out what must be done. You might do this by your own insight and instinct or, more likely, via dialogue and debate with the right people;</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:d5f35b9d-3c0b-4166-b1fb-285a27ca36f7</dc:identifier>
+        <dc:date>2025-01-31T04:52:07Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/09_Chapter_3_Leadership_.xhtml#point(/1/4/4/50/26/1:292)" end="OEBPS/xhtml/09_Chapter_3_Leadership_.xhtml#point(/1/4/4/50/26/3:10)" progress="0.164223">
+                <text>it’s not about getting people to do what must be done but about getting them to want to do it.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:292b6ca9-dfe2-4f65-9f20-1b39094c94db</dc:identifier>
+        <dc:date>2025-02-01T03:53:57Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/09_Chapter_3_Leadership_.xhtml#point(/1/4/4/130/1:200)" end="OEBPS/xhtml/09_Chapter_3_Leadership_.xhtml#point(/1/4/4/131:0)" progress="0.184751">
+                <text>Just remember that the objective is to make a decision, not to pulverize it with analysis.</text>
+            </fragment>
+        </target>
+    </annotation>
+</annotationSet>

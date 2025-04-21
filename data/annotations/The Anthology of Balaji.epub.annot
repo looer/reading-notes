@@ -1,0 +1,921 @@
+
+<annotationSet xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://ns.adobe.com/digitaleditions/annotations">
+    <publication>
+        <dc:identifier>B0CKJ8TXT8</dc:identifier>
+        <dc:title>The Anthology of Balaji: A Guide to Technology, Truth, and Building the Future</dc:title>
+        <dc:creator>Eric Jorgenson</dc:creator>
+        <dc:description>A Guide to Technology, Truth, and Building the Future</dc:description>
+        <dc:language>en</dc:language>
+    </publication>
+    <annotation>
+        <dc:identifier>urn:uuid:8c6892ef-37fd-4e37-b7f7-d74100fb0d4a</dc:identifier>
+        <dc:date>2023-12-16T21:55:19Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0009_split_002.html#point(/1/4/2/14/1:144)" end="text/part0009_split_002.html#point(/1/4/2/15:0)" progress="0.166008">
+                <text>The reason speed has value is because time has value; the reason time has value is because human life spans are finite.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:efa3814c-c220-45c5-b51c-0be904b96696</dc:identifier>
+        <dc:date>2023-12-16T21:54:49Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0009_split_002.html#point(/1/4/2/9:4)" end="text/part0009_split_002.html#point(/1/4/2/11:0)" progress="0.166008">
+                <text>If the purpose of technology is to reduce scarcity, then the ultimate purpose of technology is to eliminate mortality.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:20da5d7f-f7c5-410e-8720-a76ff14be182</dc:identifier>
+        <dc:date>2023-12-16T21:58:14Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0009_split_003.html#point(/1/4/2/21:4)" end="text/part0009_split_003.html#point(/1/4/2/23:0)" progress="0.177866">
+                <text>Technology’s first law: whatever can be done over the internet will be done over the internet. (Though it might take a while for any given phenomenon to move online.) The statement might sound obvious, but the implications are far-reaching.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:a0ba5eaf-84cf-4c9c-8d04-3179fefc2a8b</dc:identifier>
+        <dc:date>2023-12-16T21:56:40Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0009_split_003.html#point(/1/4/2/6/1:39)" end="text/part0009_split_003.html#point(/1/4/2/7:1)" progress="0.173913">
+                <text>people pay for the value provided to them. They pay for the impact on them, not the cost to provide it.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:8c765e22-88ff-40a5-953c-c9689a15540a</dc:identifier>
+        <dc:date>2023-12-16T22:03:03Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0009_split_004.html#point(/1/4/2/38/3:68)" end="text/part0009_split_004.html#point(/1/4/2/39:0)" progress="0.193676">
+                <text>Systemic risk happens when you stop taking risks and get stuck with a system that no longer improves.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:e9f916f8-1b58-4f09-a59d-a19f1979fb2f</dc:identifier>
+        <dc:date>2023-12-16T21:58:59Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0009_split_004.html#point(/1/4/2/5:4)" end="text/part0009_split_004.html#point(/1/4/2/6/1:54)" progress="0.181818">
+                <text>Regulation is the primary barrier for many businesses.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:f73ea724-5a83-4048-85a1-2385388c0ba2</dc:identifier>
+        <dc:date>2023-12-18T16:28:04Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0009_split_005.html#point(/1/4/2/23:4)" end="text/part0009_split_005.html#point(/1/4/2/25:0)" progress="0.201581">
+                <text>The issue that stems from abstraction is people get alienated from complexity and start to believe things are easy. That’s just humans being humans. Actually, putting all those things behind an easy interface is ridiculously hard. It’s really, really, really hard to do. It’s really hard to make something easy.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:978450e3-df11-4e47-87fb-b748512ae3bf</dc:identifier>
+        <dc:date>2023-12-19T21:56:19Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0010_split_004.html#point(/1/4/2/36/5:12)" end="text/part0010_split_004.html#point(/1/4/2/36/27:39)" progress="0.252964">
+                <text>. They’re not forced into twelve years of one-size-fits-all quasi-jail at modern American public schools. Instead, they can self-educate, self-advance, and level up. I think lots of kids are going to be remote working at a much earlier age. We certainly will have 20-something billionaires. We’ll probably have a </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:067cd670-874f-4dae-ac79-a88898b441ac</dc:identifier>
+        <dc:date>2023-12-19T21:51:57Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0010_split_004.html#point(/1/4/2/5:4)" end="text/part0010_split_004.html#point(/1/4/2/7:1)" progress="0.241107">
+                <text>One of the most interesting things I’ve learned is how much the twentieth century was the product of centralizing technologies: centralized broadcast media (movies, news, radio) as well as centralized production (factories) of centralized armies (tanks, aircraft, nukes), which were all run by extremely powerful centralized states. It can be said the twentieth century was the centralized century.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:fc51d7f4-bc98-48f0-9120-c0757eb0b06f</dc:identifier>
+        <dc:date>2023-12-26T00:08:50Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0011_split_005.html#point(/1/4/2/4/1:3)" end="text/part0011_split_005.html#point(/1/4/2/8/2/3:0)" progress="0.304348">
+                <text> wealth becomes digital. Everything becomes a set of digital instructions. A printer or robot then executes those instructions to affect the real world. Amazon Prime, drop shipping, food delivery, ride-sharing…all of them involve a digital frontend and a human backend.
+			 Over time, more pieces are getting automated, so the backend becomes digital too. AI (in general) and virtual influencers (specifically) are obvious examples of this trend, where the human backend is no longer as necessary.
+			 
+				 
+					 Even when the goods themselves can’t be digitized, the interfaces to them will be.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:1dd6aea6-a789-4778-bc74-b92c3fc56d91</dc:identifier>
+        <dc:date>2023-12-26T00:10:02Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0011_split_005.html#point(/1/4/2/17:3)" end="text/part0011_split_005.html#point(/1/4/2/19:0)" progress="0.3083">
+                <text>	 I’m increasingly thinking of the physical world as a printout of digital wealth. Ask yourself: what can hitting a button do? In 2010, one button could print a PDF. In 2020, one button can deliver any item. In 2030, maybe one button can build anything.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:5e58c39b-7692-43c1-a622-b25bb1981d4c</dc:identifier>
+        <dc:date>2023-12-26T00:10:50Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0012_split_001.html#point(/1/4/2/3:4)" end="text/part0012_split_001.html#point(/1/4/2/5:0)" progress="0.316206">
+                <text>Drones are going to be a very big deal. There are different kinds of drones, not just flying drones. There are swimming drones and walking drones and so on. Think about how drones could affect construction.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:675b608c-fc25-4c86-84dc-7ecbd97b97d4</dc:identifier>
+        <dc:date>2023-12-26T08:12:12Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0012_split_001.html#point(/1/4/2/18/5:33)" end="text/part0012_split_001.html#point(/1/4/2/19:0)" progress="0.320158">
+                <text>With industrial robotics, management becomes code running automation.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:9f4bb269-894c-4e82-84da-53e24c66ec15</dc:identifier>
+        <dc:date>2023-12-26T00:11:10Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0012_split_001.html#point(/1/4/2/5:4)" end="text/part0012_split_001.html#point(/1/4/2/6/1:130)" progress="0.316206">
+                <text>Drones won’t be just autonomous. You will be able to teleport into a drone and control something on the other side of the world.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:4a275d89-1e77-4505-bfac-f9fff6adfea9</dc:identifier>
+        <dc:date>2023-12-26T08:15:39Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0012_split_002.html#point(/1/4/2/29:4)" end="text/part0012_split_002.html#point(/1/4/2/31:1)" progress="0.332016">
+                <text>Future historians may note this was the era of sugar, caffeine, opioids, and social media, just like previous eras were in part driven by nicotine and alcohol. Maybe there’s always a dominant drug of the age, even if we don’t see it.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:602cd2d5-afc8-410d-8a39-75857a1738b9</dc:identifier>
+        <dc:date>2023-12-26T08:14:08Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0012_split_002.html#point(/1/4/2/11:4)" end="text/part0012_split_002.html#point(/1/4/2/13:0)" progress="0.328063">
+                <text>We view healthcare as an institutional responsibility, yet a doctor is with you for only thirty minutes, and you are with your body all of the time. If you bring a doctor data from the internet, you are either right (and undermining them) or wrong (and ignorant). Either way, self-care is disincentivized. Yet, even very competent doctors can’t substitute for self-care.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:557dcf02-2da1-4a7b-9ca9-980cb7385b3c</dc:identifier>
+        <dc:date>2023-12-26T08:16:49Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0012_split_002.html#point(/1/4/2/41:4)" end="text/part0012_split_002.html#point(/1/4/2/43:0)" progress="0.335968">
+                <text>The overabundance of sugar is why people are so fat now. It’s why diabetes is such an epidemic. Sugar starts messing up your gut microbiome and causes other issues. It’s very difficult to escape, like secondhand smoke. It’s in almost everything. You have to really try to not eat sugar.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:b0a5795e-7deb-4384-af2f-756989bf8e11</dc:identifier>
+        <dc:date>2023-12-26T08:14:14Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0012_split_002.html#point(/1/4/2/13:4)" end="text/part0012_split_002.html#point(/1/4/2/15:1)" progress="0.328063">
+                <text>This is interesting, because we accept we are personally responsible for our fitness. A personal trainer is viewed as a helper at most.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:2ee62c90-a3f2-4336-9506-277e187fcba7</dc:identifier>
+        <dc:date>2023-12-26T08:14:53Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0012_split_002.html#point(/1/4/2/22/2/1:6)" end="text/part0012_split_002.html#point(/1/4/2/22/2/3:0)" progress="0.332016">
+                <text>Self-measurement may ultimately resolve all nutrition controversies.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:5b247977-b232-427e-896a-4b98cea6c720</dc:identifier>
+        <dc:date>2023-12-26T23:33:44Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0012_split_004.html#point(/1/4/2/11:4)" end="text/part0012_split_004.html#point(/1/4/2/12/3:156)" progress="0.355731">
+                <text>Humans have been living with technology in this way forever. Fire arguably made us human. Richard Wrangham’s book Catching Fire describes how the invention of fire allowed humans to outsource some of our metabolism to the fire and allocate more scarce calories for brain development.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:5362b02b-5b34-4cc7-a39a-3fbf5586c8f1</dc:identifier>
+        <dc:date>2023-12-26T23:32:19Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0012_split_004.html#point(/1/4/2/3:4)" end="text/part0012_split_004.html#point(/1/4/2/5:0)" progress="0.355731">
+                <text>The goal of transhumanism is simply to become the absolute best version of yourself. I think all of tech will be focused on it in five to ten years.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:6985ef4c-2682-4ea6-8336-ece7911f4266</dc:identifier>
+        <dc:date>2023-12-26T23:36:37Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0014_split_001.html#point(/1/4/2/26/2/1:6)" end="text/part0014_split_001.html#point(/1/4/2/26/2/3:0)" progress="0.383399">
+                <text>Imagine if we optimized for number of independent replications over number of citations.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:ef1dbf08-15af-4d11-9554-73e3dd183800</dc:identifier>
+        <dc:date>2023-12-26T23:43:16Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0014_split_005.html#point(/1/4/2/16/2/1:6)" end="text/part0014_split_005.html#point(/1/4/2/16/2/3:0)" progress="0.422925">
+                <text>You can’t delete history anymore.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:fc37cd96-fe39-44e8-b60d-9210e2580a8d</dc:identifier>
+        <dc:date>2023-12-26T23:45:02Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0014_split_005.html#point(/1/4/2/29:4)" end="text/part0014_split_005.html#point(/1/4/2/30/5:206)" progress="0.426877">
+                <text>People put data on-chain because they will earn money for supplying it. People pay for the information because they can trade off of it or use it to provide services. Each individual oracle has an incentive to put its data online.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:f8b7ecb1-58fd-48e9-bb76-0f8a8b61c322</dc:identifier>
+        <dc:date>2023-12-26T23:42:48Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0014_split_005.html#point(/1/4/2/8/1:116)" end="text/part0014_split_005.html#point(/1/4/2/9:1)" progress="0.422925">
+                <text>There’s actually no contention over who owns what Bitcoin, which is amazing, because it’s a trillion-dollar piece of international property. That’s the kind of thing people usually fight over. That says something.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:99873973-44ec-4395-8750-0da4cfd7542c</dc:identifier>
+        <dc:date>2023-12-27T09:31:19Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0015_split_001.html#point(/1/4/2/20/1:120)" end="text/part0015_split_001.html#point(/1/4/2/21:1)" progress="0.454545">
+                <text>If we can, social media is a superstimulus we need to identify and consciously limit in our information diets.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:bfdb3af0-5b82-4cb3-85ab-94af4cff9385</dc:identifier>
+        <dc:date>2023-12-28T08:37:50Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0016_split_001.html#point(/1/4/2/33:4)" end="text/part0016_split_001.html#point(/1/4/2/35:1)" progress="0.505929">
+                <text>Infotainment should be filtered out of your information diet. Returning to the analogy between your nutritional diet and your information diet…having a cookie from time to time is fine, but if you’re eating only cookies and you’re not eating healthy food, your health is going to be messed up. Your life is going to get worse.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:78a278a4-7cab-4528-800d-e094240f0821</dc:identifier>
+        <dc:date>2023-12-28T08:35:36Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0016_split_001.html#point(/1/4/2/15:4)" end="text/part0016_split_001.html#point(/1/4/2/17:0)" progress="0.498024">
+                <text>Journalist Gautham Nagesh said, “Content is a lousy business to be in, unless you’ve got information worth paying for.” Put mathematically: differential profits from acting on an article must routinely exceed the differential cost of purchasing that information.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:9ffbd740-2c39-4158-bdca-1a61e534e891</dc:identifier>
+        <dc:date>2023-12-29T09:14:22Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0016_split_002.html#point(/1/4/2/5:4)" end="text/part0016_split_002.html#point(/1/4/2/7:0)" progress="0.509881">
+                <text>Every day, first thing, most people get a blend of randomness all at once. In this high-dimensional space, you’re being pulled in a bunch of different directions, not really making progress. Progress is doing some math today and doing some more math in the same area tomorrow. A little bit of compounding progress along the same direction each day adds up to something, but time spent on these sites add up to nothing.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:d6c574ff-eb71-4521-aa58-91af0ccdc1df</dc:identifier>
+        <dc:date>2024-01-09T23:47:47Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0017_split_004.html#point(/1/4/2/20/2/1:6)" end="text/part0017_split_004.html#point(/1/4/2/20/2/3:1)" progress="0.581028">
+                <text>An “important feed” will be very different from the “news feed.” What is important often is not new, and what is new often is not important.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:0e831213-cd91-45b5-b89b-8c8fe7f9ed3e</dc:identifier>
+        <dc:date>2024-01-09T23:51:24Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0017_split_006.html#point(/1/4/2/20/1:207)" end="text/part0017_split_006.html#point(/1/4/2/24/7:1)" progress="0.596838">
+                <text>Perhaps we will see “full stack writers” who go from writing articles to producing movies themselves, like the full stack developer.
+			 Some principles:
+			 
+				Every citizen is a citizen journalist.
+				Every company is a media company.
+				Media scales.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:e6f65456-eb41-4dc1-a7bc-e6d7f8677864</dc:identifier>
+        <dc:date>2024-01-09T23:52:52Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0017_split_007.html#point(/1/4/2/4/1:3)" end="text/part0017_split_007.html#point(/1/4/2/5:0)" progress="0.600791">
+                <text>Dollowers” (dollar-weighted followers) are an important part of the future. Normal followers are nonpaying commenters, and subscribers are quiet paying supporters. But dollowers are engaged and pay creators. They often support individuals rather than institutions.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:243f6bb6-8c94-43f7-a955-dea7ae30621c</dc:identifier>
+        <dc:date>2024-01-10T07:32:51Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0017_split_007.html#point(/1/4/2/26/2/4/1:20)" end="text/part0017_split_007.html#point(/1/4/2/26/2/5:0)" progress="0.608696">
+                <text>Every citizen is becoming a journalist, and every company is becoming a media company.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:d1cbf27b-669f-43da-abdf-0b4194d8d95e</dc:identifier>
+        <dc:date>2024-01-10T07:38:48Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0019_split_002.html#point(/1/4/2/11:4)" end="text/part0019_split_002.html#point(/1/4/2/12/1:120)" progress="0.632411">
+                <text>You can write a piece of software on a computer and then set up a website, and people will pay money for your software. </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:88580582-f8ce-4ba1-af54-395ce538ec6a</dc:identifier>
+        <dc:date>2024-01-10T07:39:14Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0019_split_002.html#point(/1/4/2/12/1:155)" end="text/part0019_split_002.html#point(/1/4/2/13:1)" progress="0.632411">
+                <text>With no natural resources, just by hitting keys, you created a pleasing configuration of electrons.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:22e9f1d8-e071-4b09-996d-4091b009e55b</dc:identifier>
+        <dc:date>2024-01-10T07:40:19Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0019_split_003.html#point(/1/4/2/4/2/1:6)" end="text/part0019_split_003.html#point(/1/4/2/4/2/3:1)" progress="0.640316">
+                <text>The less money you need, the less dependent you are.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:a710c137-67e0-4b4f-bc08-5cc5e8d8f5ea</dc:identifier>
+        <dc:date>2024-01-10T07:40:50Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0019_split_003.html#point(/1/4/2/8/1:183)" end="text/part0019_split_003.html#point(/1/4/2/8/1:265)" progress="0.640316">
+                <text>Saving money and separating from organizations made me intellectually independent.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:a262314e-2fbc-4b80-a298-78d98b121c57</dc:identifier>
+        <dc:date>2024-01-10T07:44:26Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0019_split_004.html#point(/1/4/2/16/2/1:6)" end="text/part0019_split_004.html#point(/1/4/2/16/2/5:1)" progress="0.656126">
+                <text>Can you believe the Wright brothers went into the air without approval from the FAA or *any* kind of collective decision-making?
+					 They decided to fly just because they could.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:3f3f60e7-81b6-4406-a536-0aad9291f3b8</dc:identifier>
+        <dc:date>2024-01-11T07:27:31Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0020_split_001.html#point(/1/4/2/54/2/1:6)" end="text/part0020_split_001.html#point(/1/4/2/54/2/3:0)" progress="0.719368">
+                <text>Whenever a new technology is coming out, figure out how to use it for something transformative while minimizing your technical and legal risk.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:bc766939-5a5a-4a24-8f89-5b02a5f1459f</dc:identifier>
+        <dc:date>2024-01-11T07:31:03Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0020_split_002.html#point(/1/4/2/18/1:115)" end="text/part0020_split_002.html#point(/1/4/2/19:1)" progress="0.727273">
+                <text>Humans still need to comprehend all those documents. The problem may be in the analog-to-digital interaction. If we want to actualize as fast as we can compute, zero-delay robotic task completion will be the true productivity unlock. We haven’t gone full digital yet. As long as humans are still in the loop, we won’t get the full benefits of digital productivity.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:ac758314-8b4f-4688-a12b-2205d99c4ca4</dc:identifier>
+        <dc:date>2024-01-11T07:35:07Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0020_split_002.html#point(/1/4/2/54/6/8:17)" end="text/part0020_split_002.html#point(/1/4/2/54/6/8:103)" progress="0.73913">
+                <text>Work toward the ultimate goal of hitting the “Enter” key to build a building with </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:83a3f5f0-7480-4fa4-a5b5-bb6e76d21303</dc:identifier>
+        <dc:date>2024-01-11T07:35:45Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0020_split_002.html#point(/1/4/2/54/10/4:13)" end="text/part0020_split_002.html#point(/1/4/2/54/11:1)" progress="0.73913">
+                <text>Implement mobile orders, payments, and reservations. A/B test dynamic menus with supply chain integrations, and use robots for food preparation and delivery.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:15272e79-518a-4405-b46d-1ca53503a37d</dc:identifier>
+        <dc:date>2024-01-11T07:29:08Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0020_split_002.html#point(/1/4/2/4/1:66)" end="text/part0020_split_002.html#point(/1/4/2/5:1)" progress="0.72332">
+                <text>Paul Graham: a startup is about growth. A startup is a business built to grow extremely rapidly. Rapid growth usually requires some sort of new technology that invalidates the assumptions of incumbents, whether incumbent politicians, incumbent businesses, or incumbent ideas.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:ae9d62e4-b9bc-4755-88d3-19e6a4309ce2</dc:identifier>
+        <dc:date>2024-01-11T07:38:25Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0020_split_003.html#point(/1/4/2/18/1:40)" end="text/part0020_split_003.html#point(/1/4/2/18/1:188)" progress="0.743083">
+                <text>is. If you are not constrained by competition, you want to charge the highest possible price at the beginning to get profitable as soon as possible.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:e46915fd-d640-4571-8521-901190d726c4</dc:identifier>
+        <dc:date>2024-01-11T07:43:11Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0020_split_003.html#point(/1/4/2/50/1:124)" end="text/part0020_split_003.html#point(/1/4/2/50/1:203)" progress="0.754941">
+                <text>, the vast majority of people will pay $0 no matter how many features you add.)</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:741b205d-b75c-4e88-ade1-2780c37d48a9</dc:identifier>
+        <dc:date>2024-01-11T07:39:34Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0020_split_003.html#point(/1/4/2/18/1:471)" end="text/part0020_split_003.html#point(/1/4/2/20/1:7)" progress="0.743083">
+                <text>Paying customers often are more tolerant of bugs. They feel invested in the product.
+			 Fourth,</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:1b96350f-c9d4-406a-bf76-dded0be790f6</dc:identifier>
+        <dc:date>2024-01-11T07:38:50Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0020_split_003.html#point(/1/4/2/18/1:341)" end="text/part0020_split_003.html#point(/1/4/2/18/1:422)" progress="0.743083">
+                <text>Free or heavily discounted customers generally don’t value the product as much </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:8546ecc8-6657-4ee0-90d2-7e918ce3f588</dc:identifier>
+        <dc:date>2024-01-11T07:44:05Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0020_split_003.html#point(/1/4/2/56/2/3:6)" end="text/part0020_split_003.html#point(/1/4/2/56/2/15:1)" progress="0.754941">
+                <text>Product—What are you selling?
+					 Person—To whom?
+					 Purpose—Why are they buying it?
+					 Pricing—At what price?
+					 Priority—Why now?
+					 Prestige—And why from you?
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:36d29385-df92-4c6c-a9b7-7f5ec4782170</dc:identifier>
+        <dc:date>2024-01-11T07:42:05Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0020_split_003.html#point(/1/4/2/35:4)" end="text/part0020_split_003.html#point(/1/4/2/37:0)" progress="0.750988">
+                <text>Do market sizing calculations early and often. Market size determines how much money you can raise, which determines how many employees you can support. Assume the average startup employee costs $100,000 “all in,” including salary, health insurance, parking spaces, computers, etc.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:7475605b-63c6-409c-a9bc-117e6d76841e</dc:identifier>
+        <dc:date>2024-02-03T15:07:53Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0020_split_007.html#point(/1/4/2/36/2/1:6)" end="text/part0020_split_007.html#point(/1/4/2/36/2/3:0)" progress="0.806324">
+                <text>Both the best and worst CEOs have this in common: the company could run without them.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:fa22bed5-edd0-4b2e-a0ef-ebcef45a2b59</dc:identifier>
+        <dc:date>2024-02-04T16:40:54Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0020_split_007.html#point(/1/4/2/41:4)" end="text/part0020_split_007.html#point(/1/4/2/43:0)" progress="0.810277">
+                <text>Use the same technique for dividing up labor between a manager and an employee. Do a two-by-two table with four quadrants: What does the manager expect from themself? What does the manager expect from the employee? What does the employee expect from themself? What does the employee expect from the manager?</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:17e4bd0d-6ed5-4f93-b9d4-e7c8feaa7479</dc:identifier>
+        <dc:date>2024-02-20T04:16:06Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0020_split_009.html#point(/1/4/2/23:4)" end="text/part0020_split_009.html#point(/1/4/2/29:0)" progress="0.826087">
+                <text>Say you have a problem like, “How do we increase sales?” or “How do we raise capital?” Start by making a list —of prospective doctors to sell to or VCs to fundraise from.
+			 Then do a ranking function on them. “Which zip code is this doctor in? Is she likely to prescribe this test?” or “Has this VC invested in companies like ours before?”
+			 Then iterate brutally through the ranked list. The key thing is setting a limit. You say, “All right, I’m going to do 150 of these. If I don’t get any hits on them, I’m going to try a new strategy.” This concept of list, rank, and iterate is a great way of structuring unstructured problems. That’s something I owe Ramji.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:cbdae65b-079d-423b-9eda-370393d6106f</dc:identifier>
+        <dc:date>2024-02-20T04:22:21Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0020_split_010.html#point(/1/4/2/18/2/1:5)" end="text/part0020_split_010.html#point(/1/4/2/18/2/3:1)" progress="0.833992">
+                <text>	 If you don’t write history, you will not be the winner.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:321adca9-9c50-4e54-8c9a-026a05bc5263</dc:identifier>
+        <dc:date>2024-02-20T04:23:31Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0020_split_010.html#point(/1/4/2/23:4)" end="text/part0020_split_010.html#point(/1/4/2/25:1)" progress="0.837945">
+                <text>You need some degree of idealism and determination. In building a startup, you cannot be purely economically motivated. At least I couldn’t, because many times the rational thing to do is quit. The rational thing to do is quit and get a decent job where they pay you well and you don’t have as much responsibility. There’s nothing wrong with that. If you’re a rational human being, that’s probably a pretty good thing to do.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:20b9af7f-d053-455c-b05e-6eb9d7b409cb</dc:identifier>
+        <dc:date>2024-02-20T04:23:41Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0020_split_010.html#point(/1/4/2/22/1:1)" end="text/part0020_split_010.html#point(/1/4/2/23:0)" progress="0.837945">
+                <text>Haters actually just hate themselves, though. They are rooting for somebody else’s failure because they don’t have the courage to try themselves. They can no longer make calculated bets because, to protect their egos, they’ve convinced themselves everything is going to fail.)</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:997ac71c-6c54-45dc-b5cf-3112b594a2cd</dc:identifier>
+        <dc:date>2024-02-20T04:24:14Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0020_split_010.html#point(/1/4/2/25:4)" end="text/part0020_split_010.html#point(/1/4/2/26/1:97)" progress="0.837945">
+                <text>The reason to do a startup is to build something you can’t buy. Elon cannot buy a trip to Mars.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:59144992-d0ea-4e4f-bb24-e17b585ba403</dc:identifier>
+        <dc:date>2024-02-20T04:24:47Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0020_split_010.html#point(/1/4/2/27:4)" end="text/part0020_split_010.html#point(/1/4/2/28/1:117)" progress="0.837945">
+                <text>Businessman and investor Ben Horowitz has a great blog post about founders’ persistence called “Nobody Cares.” </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:d8d2b5a3-dcbf-492b-af39-5131c0ce72d6</dc:identifier>
+        <dc:date>2024-02-20T04:25:27Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0020_split_010.html#point(/1/4/2/33:4)" end="text/part0020_split_010.html#point(/1/4/2/35:0)" progress="0.841897">
+                <text>All the mental energy you use to elaborate your misery would be far better used trying to find the one seemingly impossible way out of your current mess. It’s best to spend zero time on what you could have done and all of your time on what you might do. Because in the end, nobody cares, just run your company.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:c740efa3-85c8-4295-912d-7ee8a72218df</dc:identifier>
+        <dc:date>2024-02-20T04:25:38Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0020_split_010.html#point(/1/4/2/35:4)" end="text/part0020_split_010.html#point(/1/4/2/36/1:125)" progress="0.841897">
+                <text>Mark Zuckerburg also said something like this: “When you feel boxed in, if you’re smart enough, there’s usually a move.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:6009f3dd-6180-4861-ab84-93536e616701</dc:identifier>
+        <dc:date>2024-02-20T04:27:39Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0021_split_001.html#point(/1/4/2/13:4)" end="text/part0021_split_001.html#point(/1/4/2/15:0)" progress="0.849802">
+                <text>Economist and philosopher John Maynard Keynes said, “Practical men, who believe themselves to be quite exempt from any intellectual influences, are usually the slaves of some defunct economist.” Meaning, if you don’t know what intellectual software you’re running, you’re running something subconsciously.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:617c87f4-fcaf-4603-8d0a-e3322a7fb0ed</dc:identifier>
+        <dc:date>2024-02-20T04:28:21Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0021_split_001.html#point(/1/4/2/17:4)" end="text/part0021_split_001.html#point(/1/4/2/19:0)" progress="0.853755">
+                <text>As individual productivity rises, the amount of consensus needed to build something falls. Today a few people (or even just one) can prove a crazy idea works. Increased productivity leads directly to increased individual independence. Higher productivity means smaller groups. Smaller groups means less averaging. Less averaging means higher variation in outcomes.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:17647ee6-1638-402d-9488-6f1a1facefff</dc:identifier>
+        <dc:date>2024-02-20T04:30:15Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0021_split_002.html#point(/1/4/2/8/1:260)" end="text/part0021_split_002.html#point(/1/4/2/9:0)" progress="0.857708">
+                <text>That’s my single biggest productivity hack: stack all meetings on (for example) Monday and Thursday. Then you are always no more than three days from a meeting, yet you get five focus days per week.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:651abaec-680e-4b30-a1c0-6eca2999526e</dc:identifier>
+        <dc:date>2024-02-20T04:32:23Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0021_split_002.html#point(/1/4/2/21:4)" end="text/part0021_split_002.html#point(/1/4/2/23:1)" progress="0.86166">
+                <text>What you choose to load into your brain first thing in the morning is the most precious, precious space. Perhaps your first few hours should be offline with pen and paper, writing things out. Some offline time is good, so you don’t just immediately jack into the internet.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:7a2f0f4f-4849-42bc-88bd-72378d628e91</dc:identifier>
+        <dc:date>2024-02-20T04:32:32Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0021_split_002.html#point(/1/4/2/20/2/1:6)" end="text/part0021_split_002.html#point(/1/4/2/20/2/3:0)" progress="0.86166">
+                <text>Don’t just focus on economics alone, because you can overoptimize and distort financial metrics at the expense of health.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:2a67555d-5029-40f6-bf17-268d6d4a414b</dc:identifier>
+        <dc:date>2024-02-20T04:33:06Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0021_split_002.html#point(/1/4/2/18/1:71)" end="text/part0021_split_002.html#point(/1/4/2/18/1:181)" progress="0.86166">
+                <text>I actually think daily fitness and eating properly is on a straight line to transhumanism and reversing aging.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:c65608b5-93c3-46c7-9b42-2d1132345932</dc:identifier>
+        <dc:date>2024-02-20T04:33:43Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0021_split_002.html#point(/1/4/2/25:4)" end="text/part0021_split_002.html#point(/1/4/2/27:1)" progress="0.865613">
+                <text>When you get up, set aside some focus time. Now you have at least a few hours each day where you’re moving the ball forward in your own self-determined direction. Say you get up at seven or eight, work out until nine, and stay offline until 1:00 p.m. You’ve done deep work for four hours straight. No one in the world can bother you, no one can get in touch with you, no one can tweet at you. You are offline to the entire world. That’s good because you are able to push forward on your priorities. Then you connect and synchronize. You push all your updates. Now you’re on the attack.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:453fee34-d16b-4a98-84f5-7fa8387c1f0a</dc:identifier>
+        <dc:date>2024-02-20T04:34:09Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0021_split_002.html#point(/1/4/2/27:4)" end="text/part0021_split_002.html#point(/1/4/2/29:0)" progress="0.865613">
+                <text>Drive your work forward before the rest of the world rushes in. You know it’s going to rush in, but you want to hold it back and drive your focus forward as much as you can, and then let the water of the day rush in.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:b83e8008-4656-497d-96b0-32f5ea398687</dc:identifier>
+        <dc:date>2024-02-20T04:34:37Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0021_split_002.html#point(/1/4/2/30/1:182)" end="text/part0021_split_002.html#point(/1/4/2/31:0)" progress="0.865613">
+                <text>Win off Twitter to win on Twitter. Pretty much anything you want, you cannot actually win on Twitter itself. You have to win off Twitter and announce on Twitter.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:42135ed6-542d-42b0-8034-507ccb7106b8</dc:identifier>
+        <dc:date>2024-02-20T04:35:38Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0021_split_003.html#point(/1/4/2/5:4)" end="text/part0021_split_003.html#point(/1/4/2/9:1)" progress="0.869565">
+                <text>The newest technical papers and the oldest books are the best sources of arbitrage. They contain the least popular facts and the most monetizable truths. What do you know to be true that others cannot or will not bring themselves to admit? There is your competitive advantage.
+			 I read a lot of old books and new technical journals. I’m less focused on the contemporaneous and more focused on finding things that are true but that most people don’t know.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:c961c27d-7860-4d53-94ea-c7bcf8b73fa1</dc:identifier>
+        <dc:date>2024-02-20T04:36:43Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0021_split_003.html#point(/1/4/2/13:4)" end="text/part0021_split_003.html#point(/1/4/2/15:0)" progress="0.869565">
+                <text>Technical journals and old books are what I read with intent, as opposed to tech news, which I get in my peripheral vision.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:ff2d3d5a-ce09-4b77-b5e2-b42d90a39d18</dc:identifier>
+        <dc:date>2024-02-20T04:37:01Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0021_split_003.html#point(/1/4/2/9:4)" end="text/part0021_split_003.html#point(/1/4/2/10/1:238)" progress="0.869565">
+                <text>Brian Chesky, founder of Airbnb, learned from a bunch of articles written in the late 1800s about rooming houses. Room sharing was much more popular around 1900 than in 1950. He saw solutions in a sharing economy from a hundred years ago.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:c411b389-f313-4e1a-a47e-3527c1c62b5a</dc:identifier>
+        <dc:date>2024-02-20T04:37:16Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0021_split_003.html#point(/1/4/2/11:4)" end="text/part0021_split_003.html#point(/1/4/2/13:0)" progress="0.869565">
+                <text>Technical journals are another source of underappreciated truths. In biomedical papers, you will see that life extension and youth extension for mice is much more advanced than people think. Brain-machine interfaces are also much more advanced than the general public realizes. We have mice telepathically controlling devices. We can do fantastic things with tissue regeneration as well. The technology is here, being held back by the FDA or a lack of distribution.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:f0b4eff3-98f7-43b0-926a-c938c10ae283</dc:identifier>
+        <dc:date>2024-02-20T04:37:23Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0021_split_003.html#point(/1/4/2/16/2/1:6)" end="text/part0021_split_003.html#point(/1/4/2/16/2/3:0)" progress="0.873518">
+                <text>You are what you read.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:a66e89cb-0400-4ec9-a52f-5194b50573db</dc:identifier>
+        <dc:date>2024-02-20T04:39:03Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0021_split_003.html#point(/1/4/2/27:4)" end="text/part0021_split_003.html#point(/1/4/2/29:1)" progress="0.87747">
+                <text>Learning with intent to use filters down information, and you can snap things into use immediately. That’s why I think a purpose-driven life is good. You have a purpose, and you think often about what that purpose is.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:94372e45-e868-4325-b47f-dbcab7cc83eb</dc:identifier>
+        <dc:date>2024-02-20T04:40:10Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0021_split_004.html#point(/1/4/2/5:4)" end="text/part0021_split_004.html#point(/1/4/2/8/13:0)" progress="0.881423">
+                <text>You can understand any mathematical concept in six ways: verbal, visual, algebraic, numerical, computational, and historical.
+			 
+				Verbal—explain in words
+				Visual—make a graph
+				Algebraic—write the equation
+				Numerical—do a numerical example
+				Computational—code a solver or algorithm
+				Historical—tell where it came from</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:2c494768-abf8-4860-9c79-b2ca6b182624</dc:identifier>
+        <dc:date>2024-02-20T04:42:15Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0021_split_005.html#point(/1/4/2/15:4)" end="text/part0021_split_005.html#point(/1/4/2/16/11:63)" progress="0.889328">
+                <text>The ideal is you are a full-stack engineer and full-stack creator. That’s using both your right brain and left brain. </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:1c7a8927-8d0a-4057-8081-d6fc0f02de61</dc:identifier>
+        <dc:date>2024-02-20T04:44:50Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0021_split_005.html#point(/1/4/2/29:4)" end="text/part0021_split_005.html#point(/1/4/2/31:0)" progress="0.897233">
+                <text>Becoming a full-stack creator is also important. Social media is about to become far, far, far more lucrative and monetizable than people realize. They think it’s over or stagnant. But we’re just getting started. Many who want to build billion-dollar companies will have to also build million-person media followings.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:7611bcab-4912-4217-9e34-d0b7fafcc4bc</dc:identifier>
+        <dc:date>2024-02-20T04:49:36Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0021_split_006.html#point(/1/4/2/25:4)" end="text/part0021_split_006.html#point(/1/4/2/27:0)" progress="0.905138">
+                <text>The other interesting thing is VCs are incentivized to build people up. As an investor, you want to invest in somebody and make them richer than yourself. Peter Thiel invested $500,000 in a young Mark Zuckerberg building Facebook. Thiel earned a billion dollars on that investment, but obviously Zuckerberg earned many billions. Being incentivized to make other people richer, to build people up, is very unusual.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:457e2aa4-3ea3-46fa-bf78-46e1ae9c598c</dc:identifier>
+        <dc:date>2024-02-20T04:54:00Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0023_split_001.html#point(/1/4/2/49:4)" end="text/part0023_split_001.html#point(/1/4/2/51:1)" progress="0.928854">
+                <text>Test-Driven Development with Python: Obey the Testing Goat: Using Django, Selenium, and JavaScript by Harry Percival
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:aac2c403-14dd-40f3-8c86-c334611ddd00</dc:identifier>
+        <dc:date>2024-02-20T04:54:07Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0023_split_001.html#point(/1/4/2/41:4)" end="text/part0023_split_001.html#point(/1/4/2/45:1)" progress="0.928854">
+                <text>Visual Complex Functions by Elias Wegert
+			 This fun book proposes plotting all complex functions as colored contour plots. That’s kind of an obvious idea, but it’s carried through systematically here.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:bdbec2c3-8837-4d65-8788-34d9ca7cea58</dc:identifier>
+        <dc:date>2024-02-20T04:54:21Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0023_split_001.html#point(/1/4/2/53:4)" end="text/part0023_split_001.html#point(/1/4/2/59:1)" progress="0.932806">
+                <text>For Founders
+			 Where Is My Flying Car? by Josh Storrs Hall
+			 Just read it.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:f76bfafa-e205-4ae8-99ef-89f637c60ca5</dc:identifier>
+        <dc:date>2024-02-20T04:54:50Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0023_split_001.html#point(/1/4/2/71:4)" end="text/part0023_split_001.html#point(/1/4/2/75:0)" progress="0.932806">
+                <text>The Sovereign Individual by James Dale Davidson and Lord William Rees-Mogg
+			 If you want to find startup ideas, here’s the book. It came out in the late ’90s. It’s the most prescient thing in the world. With most bestsellers, you can distill 300 pages into a one-page summary. This book is the opposite. You can take one page and turn it into a PhD thesis.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:8ebc1352-7cc2-4ba3-ae6d-85aaac8d6710</dc:identifier>
+        <dc:date>2024-02-20T04:55:54Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0023_split_001.html#point(/1/4/2/95:4)" end="text/part0023_split_001.html#point(/1/4/2/99:0)" progress="0.936759">
+                <text>The Gray Lady Winked by Ashley Rindsberg
+			 I give this a 10/10 recommendation. Everybody in crypto should read it. I put this up there with The Sovereign Individual.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:1805f91b-5cf9-4ad4-b844-f60ac12d9ad0</dc:identifier>
+        <dc:date>2024-02-20T04:56:42Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0023_split_001.html#point(/1/4/2/99:4)" end="text/part0023_split_001.html#point(/1/4/2/107:1)" progress="0.940711">
+                <text>Merchants of Truth by Jill Abramson
+			 Jill Abramson, former editor of the New York Times, explains how business imperatives and pageviews drove the editorial process.
+			 The Journalist and the Murderer by Janet Malcolm
+			 Describing how journalists “befriend and betray” their subjects for clicks, this book is taught in journalism schools as something of a how-to manual.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:d1701d1c-a4ed-4a48-bf8c-a2470b360c6f</dc:identifier>
+        <dc:date>2024-02-20T04:57:24Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0023_split_001.html#point(/1/4/2/115:4)" end="text/part0023_split_001.html#point(/1/4/2/117:1)" progress="0.940711">
+                <text>Who We Are and How We Got Here by David Reich
+</text>
+            </fragment>
+        </target>
+    </annotation>
+</annotationSet>

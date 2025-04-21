@@ -1,0 +1,19 @@
+
+<annotationSet xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://ns.adobe.com/digitaleditions/annotations">
+    <publication>
+        <dc:identifier>da8b1627-ac23-481f-9ac3-8b1f029df79e</dc:identifier>
+        <dc:title>Ultime notizie dal Sud</dc:title>
+        <dc:creator>Luis Sepúlveda</dc:creator>
+        <dc:language>it</dc:language>
+    </publication>
+    <annotation>
+        <dc:identifier>urn:uuid:820954b6-2790-4559-93de-a064198e3d15</dc:identifier>
+        <dc:date>2025-03-25T02:52:42Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="index_split_000.html#point(/1/4/1037/1:41)" end="index_split_000.html#point(/1/4/1037/3:1)" progress="0.619718">
+                <text>Poderoso ca-ballero es don Dinero.</text>
+            </fragment>
+        </target>
+    </annotation>
+</annotationSet>

@@ -1,0 +1,141 @@
+
+<annotationSet xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://ns.adobe.com/digitaleditions/annotations">
+    <publication>
+        <dc:identifier>701f5d2c-9b35-49d2-9b9d-3d9c9db9f416</dc:identifier>
+        <dc:title>The Minimalist Entrepreneur: How Great Founders Do More with Less</dc:title>
+        <dc:creator>Sahil Lavingia</dc:creator>
+        <dc:description>&lt;b&gt;&lt;b&gt;&amp;ldquo;Pay attention.&amp;rdquo;&amp;mdash;Jason Fried&lt;/b&gt;&lt;br&gt; &lt;br&gt;A revolutionary roadmap for building startups that go the distance&lt;/b&gt;&lt;br&gt; &amp;#160;&lt;br&gt; Now more than ever, you don&amp;rsquo;t need a fancy office, Ivy League degree, or millions of dollars in venture capital to launch a business that matters for the communities you care most about. Software, the internet, and remote work have made it possible for entrepreneurs to start for free, make a customer of anyone, and grow a profitable, sustainable company from anywhere.&amp;#160;&lt;br&gt;   &lt;br&gt; Packed with hard-won, battle-tested lessons from Lavingia&amp;rsquo;s own journey of building Gumroad, a platform for creators to sell their work, &lt;i&gt;The Minimalist Entrepreneur&lt;/i&gt; teaches founders how to:&lt;br&gt; &amp;#160;&lt;br&gt; &amp;#160;&amp;#160;&amp;bull;&amp;#160; start then learn&lt;br&gt; &amp;#160;&amp;#160;&amp;bull;&amp;#160; build a community, then solve a problem for them&lt;br&gt; &amp;#160;&amp;#160;&amp;bull;&amp;#160; charge for something even before you&amp;rsquo;ve built anything&lt;br&gt;...</dc:description>
+        <dc:language>en</dc:language>
+    </publication>
+    <annotation>
+        <dc:identifier>urn:uuid:09cafb31-4f8a-41f8-9de7-db407811d1db</dc:identifier>
+        <dc:date>2022-12-24T09:01:54Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="index_split_003.html#point(/1/4/20/3:404)" end="index_split_003.html#point(/1/4/20/3:587)" progress="0.0555556">
+                <text>Each company goes about things their own way depending on the specific community they’re building for, but they all focus on problem-solving and not taking themselves too seriously.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:1ac920c9-0553-472c-ae44-bd2d9da90604</dc:identifier>
+        <dc:date>2022-12-30T23:29:42Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="index_split_005.html#point(/1/4/24/1/2/2:195)" end="index_split_005.html#point(/1/4/24/2/1/1/1/1:5)" progress="0.0888889">
+                <text>Minimalist entrepreneurs aim to be profitable from day one or soon after, because profit is oxygen for businesses. And they do that by selling a product to customers, not by selling their users to advertisers. START</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:1fca8c25-127f-454b-b052-f6cc61bcf6d3</dc:identifier>
+        <dc:date>2022-12-28T23:33:31Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="index_split_005.html#point(/1/4/18/1:70)" end="index_split_005.html#point(/1/4/19/1/1/1:3)" progress="0.0833333">
+                <text>There is something profoundly beautiful in a value-oriented mission and a genuine purpose driven by your own lived experience. This is what being a minimalist entrepreneur is all about: making a difference while making a living. The</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:0c33e17a-c138-48ba-aacf-e92936842695</dc:identifier>
+        <dc:date>2023-02-02T05:02:30Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="index_split_007.html#point(/1/4/43/3:4)" end="index_split_007.html#point(/1/4/43/3:183)" progress="0.172222">
+                <text>“1% Rule”: On the internet, they say, 1 percent create, 9 percent contribute, and 90 percent consume. They’ve shown this rule to be true when applied to sites like Wikipedia</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:1f11cb20-b72d-4e60-b051-1dff8037f9fa</dc:identifier>
+        <dc:date>2023-02-02T04:54:07Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="index_split_007.html#point(/1/4/17/1:203)" end="index_split_007.html#point(/1/4/18/1:4)" progress="0.155556">
+                <text>you don’t have to bring your whole self to every community you join, but you do have to bring a slice of yourself. And that part needs to be authentic to its core. It’s the combination of time and vulnerability that leads to relationships and growth. Part</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:e45ce7f3-e5c2-4d09-9fc4-13e737f109ad</dc:identifier>
+        <dc:date>2023-02-02T05:03:03Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="index_split_007.html#point(/1/4/44/1:58)" end="index_split_007.html#point(/1/4/46:0)" progress="0.172222">
+                <text> someone who doesn’t. And it will continue to grow from there. 
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:1d29a67b-0bd7-4de3-adb3-37603d66ccbc</dc:identifier>
+        <dc:date>2023-02-02T05:04:17Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="index_split_007.html#point(/1/4/46/3:234)" end="index_split_007.html#point(/1/4/47:0)" progress="0.177778">
+                <text>While it’s better to lurk rather than needlessly comment, it’s even better to add value into the community even if you don’t feel that you’re ready. If you struggle with this, as many do, remind yourself that if you have something to add, it’s selfish to keep it to yourself!</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:0b9505f4-53e6-4da6-9102-d8b5e85f191d</dc:identifier>
+        <dc:date>2023-02-02T05:05:57Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="index_split_007.html#point(/1/4/50/1/1/1:3)" end="index_split_007.html#point(/1/4/50/4/1/1:19)" progress="0.183333">
+                <text>Work in Public” “Teach Everything You Know” “Create Every Day</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:6dcf0338-39e6-47f2-a4fa-0135dbb83906</dc:identifier>
+        <dc:date>2023-02-02T05:08:17Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="index_split_007.html#point(/1/4/54/3:553)" end="index_split_007.html#point(/1/4/56:0)" progress="0.183333">
+                <text>Chances are, if you’ve learned something, there’s probably a good portion of your community that would find value in learning that same thing from you, even if you aren’t the world’s leading authority on the subject.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:c491a585-595d-4015-94f2-1c170b4351ab</dc:identifier>
+        <dc:date>2023-03-19T23:37:22Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="index_split_007.html#point(/1/4/113/1:245)" end="index_split_007.html#point(/1/4/114:0)" progress="0.227778">
+                <text>And if you build a product to solve your own problem, you will have at least one user—more than most startups ever get. Plus, you can talk to that user every single second of the day!</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:2835c812-21e4-4512-967c-2d5e71e63f4f</dc:identifier>
+        <dc:date>2023-03-19T23:39:05Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="index_split_007.html#point(/1/4/118/1/1/2:69)" end="index_split_007.html#point(/1/4/118/3/1/1/1:0)" progress="0.233333">
+                <text>And the more successful it is, the longer you will work on it. So it’s important to find something you want to work on, for people you want to work for. To build a successful business, you need to build something people love. To stick with it, you need to build something you love working on. </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:b3a666dc-5841-4814-a9d0-7ccb15a9b418</dc:identifier>
+        <dc:date>2023-03-19T23:39:25Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="index_split_007.html#point(/1/4/118/3/1/2:1)" end="index_split_007.html#point(/1/4/118/4/1/1/1:0)" progress="0.233333">
+                <text>There should be a clear path to charging people money for something of value, in a way that feels obvious. If it makes sense, it’ll make cents. </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:5e29234c-2106-4221-9231-2d0ae7eec98e</dc:identifier>
+        <dc:date>2023-03-19T23:44:13Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="index_split_009.html#point(/1/4/5/1:355)" end="index_split_009.html#point(/1/4/6:0)" progress="0.25">
+                <text>Every founder, even the most successful ones, knows nothing at the beginning, and learns from there. This is about interests, not skills. Instead of focusing on the things you do not know, focus on the things you do.</text>
+            </fragment>
+        </target>
+    </annotation>
+</annotationSet>

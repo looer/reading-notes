@@ -1,0 +1,20 @@
+
+<annotationSet xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://ns.adobe.com/digitaleditions/annotations">
+    <publication>
+        <dc:identifier>ca513124-72cd-491e-a415-a9accb399886</dc:identifier>
+        <dc:title>Le rose di Acatama</dc:title>
+        <dc:creator>Luis Sepulveda</dc:creator>
+        <dc:description>&lt;p&gt;Letteratura sudamericana, cilena&lt;/p&gt;</dc:description>
+        <dc:language>it</dc:language>
+    </publication>
+    <annotation>
+        <dc:identifier>urn:uuid:64b779e6-b92d-4628-845c-b09d511e3835</dc:identifier>
+        <dc:date>2025-03-11T17:12:26Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/index_split_000.html#point(/1/4/35:4)" end="OEBPS/Text/index_split_000.html#point(/1/4/37:0)" progress="0.0365854">
+                <text>Non conosco l'uomo che si ferma sulla riva del fiume, che respira a fondo e sorride riconoscendo i profumi che aleggiano nell'aria. Non lo conosco, ma so che quell'uomo è mio fratello.</text>
+            </fragment>
+        </target>
+    </annotation>
+</annotationSet>

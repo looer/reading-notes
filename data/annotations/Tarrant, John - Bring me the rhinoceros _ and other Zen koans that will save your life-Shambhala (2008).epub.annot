@@ -1,0 +1,326 @@
+
+<annotationSet xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://ns.adobe.com/digitaleditions/annotations">
+    <publication>
+        <dc:identifier>9780834823495</dc:identifier>
+        <dc:title>Bring Me the Rhinoceros</dc:title>
+        <dc:creator>John Tarrant</dc:creator>
+        <dc:description>&lt;p&gt; Bring Me the Rhinoceros is an unusual guide to happiness and a can opener for your thinking. For fifteen hundred years, Zen koans have been passed down through generations of masters, usually in private encounters between teacher and student. This book deftly retells more than a dozen traditional koans, which are partly paradoxical questions dangerous to your beliefs and partly treasure boxes of ancient wisdom. Koans show that you don't have to impress people or change into an improved, more polished version of yourself. Instead you can find happiness by unbuilding, unmaking, throwing overboard, and generally subverting unhappiness. John Tarrant brings the heart of the koan tradition out into the open, reminding us that the old wisdom remains as vital as ever, a deep resource available to anyone in any place or time.&lt;/p&gt;</dc:description>
+        <dc:language>en</dc:language>
+    </publication>
+    <annotation>
+        <dc:identifier>urn:uuid:2bf9db67-7f84-4be6-b9b4-094e31e9baaf</dc:identifier>
+        <dc:date>2025-01-24T20:00:53Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/intro.html#point(/1/4/28/2:251)" end="OEBPS/intro.html#point(/1/4/29:0)" progress="0.0921986">
+                <text>Happiness is not an add-on to what you already are; it requires you to become a different person from the one who set off seeking it.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:5cd3d884-37e0-44a3-b043-423467316325</dc:identifier>
+        <dc:date>2025-01-24T20:46:46Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/intro.html#point(/1/4/58/1:14)" end="OEBPS/intro.html#point(/1/4/59:0)" progress="0.113475">
+                <text>they trusted doubt and rewarded questions. This is rare in religion and an example of the Zen way of treating what is usually thought of as a problem—in this case, doubt—as a strength.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:58e66f10-4a44-40f0-99aa-e3df42281568</dc:identifier>
+        <dc:date>2025-01-25T01:01:55Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/chapter01.html#point(/1/4/70/1:246)" end="OEBPS/chapter01.html#point(/1/4/70/1:330)" progress="0.141844">
+                <text>this sense of his unimportance allowed him to be clear about what needed to be done.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:43eca42a-f2e6-406f-bf22-e882f8f2f41a</dc:identifier>
+        <dc:date>2025-01-25T01:25:49Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/chapter01.html#point(/1/4/148/1:238)" end="OEBPS/chapter01.html#point(/1/4/150/1:300)" progress="0.184397">
+                <text>If you practice “don’t know” mind for long enough, perhaps you can learn how to be good at anything.
+ While emptiness is what’s left when you take away the thoughts and beliefs that you have constructed around an event, not knowing is a way to move in the absence of such thoughts. It’s a creative possibility. Not knowing who you are allows you to meet an event without pretending it is something </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:92548d8f-e11c-4f9c-80f4-4b8a00c75a28</dc:identifier>
+        <dc:date>2025-01-25T01:24:15Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/chapter01.html#point(/1/4/143:1)" end="OEBPS/chapter01.html#point(/1/4/147:0)" progress="0.184397">
+                <text>Straightaway the man said, “Perhaps it’s because you didn’t eat enough ice cream last night.”
+ Everyone laughed because either statement could have been true or untrue. Not knowing why the boy had a headache, everyone felt free.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:a4f2cde4-6002-4bc6-8c11-e6a6fb2b6f70</dc:identifier>
+        <dc:date>2025-01-25T03:40:43Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/chapter02.html#point(/1/4/79:1)" end="OEBPS/chapter02.html#point(/1/4/80/5:4)" progress="0.255319">
+                <text>Through the koans I stopped trying to improve myself. The koan had made me more interested in my actual life, and less interested in an ideal or spiritual life. There’s a sense of staying with things, and of commitment as in my marriage, but at the same time there’s not that fear of what would happen if something didn’t work. I really don’t care if we are in this house or have that TV.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:68e6f493-92c6-492f-b90e-71568856db3e</dc:identifier>
+        <dc:date>2025-01-26T01:06:25Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/chapter03.html#point(/1/4/94/1:442)" end="OEBPS/chapter03.html#point(/1/4/94/1:573)" progress="0.29078">
+                <text>That was bringing the rhinoceros. Holding the thought of what should have or could have happened was trying to mend the broken fan.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:410d8bb4-ff92-4694-aea2-96276f0c418e</dc:identifier>
+        <dc:date>2025-01-26T01:08:00Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/chapter03.html#point(/1/4/98/3:171)" end="OEBPS/chapter03.html#point(/1/4/100:0)" progress="0.297872">
+                <text>When disaster is here, and you want to be happy, the happiness has to happen here, the dancing and the music here, even while there is disaster. Where else would you find happiness?
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:f3214ffb-4837-40ec-b5d5-2af8fe169e9c</dc:identifier>
+        <dc:date>2025-01-26T01:13:38Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/chapter04.html#point(/1/4/15:1)" end="OEBPS/chapter04.html#point(/1/4/20:0)" progress="0.312057">
+                <text>Zhaozhou asked, “How can I know the Way if I don’t turn toward it?”
+ Nanquan said, “The Way is not about knowing or not knowing. When you know something you are deluded, and when you don’t know, you are just empty-headed. When you reach the Way beyond doubt, it is as vast and infinite as space. You can’t say it’s right or wrong.” With these words, Zhaozhou had sudden understanding.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:672194cf-44d0-4c8b-ad0b-9722fafbb1cd</dc:identifier>
+        <dc:date>2025-01-26T01:17:18Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/chapter04.html#point(/1/4/42/1:3)" end="OEBPS/chapter04.html#point(/1/4/44/1:28)" progress="0.319149">
+                <text>What is the Way?”
+ “Ordinary mind is the Way,</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:a70389a8-f059-4b42-8b4d-9e7ac1e38a67</dc:identifier>
+        <dc:date>2025-01-26T01:14:19Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/chapter04.html#point(/1/4/32/3:75)" end="OEBPS/chapter04.html#point(/1/4/32/3:100)" progress="0.312057">
+                <text>whole point of a journey.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:ac593d83-bbd1-49a1-9d13-1638e56aa301</dc:identifier>
+        <dc:date>2025-01-26T01:50:51Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/chapter05.html#point(/1/4/166/1:182)" end="OEBPS/chapter05.html#point(/1/4/166/3:59)" progress="0.404255">
+                <text>Just staying with the questions, life grows calmer and more interesting.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:c705c557-15f0-4dc6-911d-f17f5a9658ba</dc:identifier>
+        <dc:date>2025-01-26T01:56:23Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/chapter05.html#point(/1/4/182/1:239)" end="OEBPS/chapter05.html#point(/1/4/182/1:364)" progress="0.41844">
+                <text>Perhaps it is when you meet a real impasse that the true purpose of your life begins to unfold and your true journey begins. </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:47d1dd1d-4ae7-40fa-a826-0a95261fbdb6</dc:identifier>
+        <dc:date>2025-01-26T01:53:25Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/chapter05.html#point(/1/4/174/1:4)" end="OEBPS/chapter05.html#point(/1/4/174/1:130)" progress="0.411348">
+                <text>what do you presume to be alive that might be dead? Work, even good work, can become soulless; some friendships grow rote. And</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:fb2f0575-5663-4c73-a2d5-35434e5adc4d</dc:identifier>
+        <dc:date>2025-01-26T02:44:34Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/chapter06.html#point(/1/4/64/1:858)" end="OEBPS/chapter06.html#point(/1/4/66:0)" progress="0.468085">
+                <text>The point of this koan might be found in truly living your life rather than living it perfectly or even respectably.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:6ac24a9f-97ce-4218-b0a2-8ed39de78136</dc:identifier>
+        <dc:date>2025-01-26T12:31:08Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/chapter07.html#point(/1/4/48/1:325)" end="OEBPS/chapter07.html#point(/1/4/50:0)" progress="0.489362">
+                <text>The beauty of common things shocks you, there is nothing boring about them. It is this experience that people talk about when they speak of enlightenment, or intimacy, or a profound change of heart. It’s a happy moment.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:d6a19d9e-f269-4d97-908d-1f0653a55b80</dc:identifier>
+        <dc:date>2025-01-26T12:38:15Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/chapter07.html#point(/1/4/71:1)" end="OEBPS/chapter07.html#point(/1/5:0)" progress="0.510638">
+                <text>And that’s what meditation is like really, doing nothing, looking at nothing in particular, relishing the plainness, the life in between.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:9a078d2c-6b24-4d18-b3c4-4a150700da08</dc:identifier>
+        <dc:date>2025-01-26T12:29:25Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/chapter07.html#point(/1/4/44/1:372)" end="OEBPS/chapter07.html#point(/1/4/44/5:133)" progress="0.48227">
+                <text>The Tibetans have the word bardo, which is often applied to the imagined realm you travel through after death. Bardo means “between,” and all human states are actually bardos: Waking is a between state, and dreaming while you sleep is a between.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:fba7942a-0f66-4e92-9917-7897f15bac82</dc:identifier>
+        <dc:date>2025-01-26T15:58:45Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/chapter08.html#point(/1/4/41:1)" end="OEBPS/chapter08.html#point(/1/4/42/1:120)" progress="0.51773">
+                <text>Usually people work hard to make things happen. Yet it might be that things happen by themselves, coming out of nowhere.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:1a71e4b8-7776-4d22-961c-1d16612ddf26</dc:identifier>
+        <dc:date>2025-01-26T15:58:59Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/chapter08.html#point(/1/4/32/5:69)" end="OEBPS/chapter08.html#point(/1/4/32/5:169)" progress="0.51773">
+                <text>What if you did check and found that nothing was wrong? Then you might go on a journey just for fun.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:dfd174a9-f9da-4f6e-99c4-daad7518b01d</dc:identifier>
+        <dc:date>2025-01-26T15:59:04Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/chapter08.html#point(/1/4/32/5:262)" end="OEBPS/chapter08.html#point(/1/4/34:0)" progress="0.51773">
+                <text>whatever part of life they have is complete.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:26dceb2a-e894-412a-a2e9-4c5005d68e39</dc:identifier>
+        <dc:date>2025-01-26T15:59:15Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/chapter08.html#point(/1/4/31:1)" end="OEBPS/chapter08.html#point(/1/4/32/3:1)" progress="0.51773">
+                <text>TIME ORGANIZES ITSELF INTO JOURNEYS.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:76ed33af-7163-47bd-8e1e-3c7612921048</dc:identifier>
+        <dc:date>2025-01-28T03:45:15Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/chapter12.html#point(/1/4/86/1:196)" end="OEBPS/chapter12.html#point(/1/4/88:0)" progress="0.744681">
+                <text>If you are busy thinking that you should be kind, you might miss the reality that kindness is already present, in you.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:2e788df9-abec-4473-9d38-c17a354aae7e</dc:identifier>
+        <dc:date>2025-01-29T21:01:36Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/chapter13.html#point(/1/4/36/5:89)" end="OEBPS/chapter13.html#point(/1/4/36/7:159)" progress="0.765957">
+                <text>: “Are you afraid of this happiness?”3 Happiness requires a certain surrender. You have to give up your idea of happiness in order to discover what happiness is. It’s like the child not thinking </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:c716787f-b6da-4bb3-a411-3f0bb843f14b</dc:identifier>
+        <dc:date>2025-01-29T22:04:12Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/chapter13.html#point(/1/4/94/1:228)" end="OEBPS/chapter13.html#point(/1/4/96:0)" progress="0.808511">
+                <text>Compassion has to start somewhere, and embracing your own life is itself the beginning of a change of heart. Some people do speak of a koan as a lover in their arms.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:24d43947-9f8a-4fdf-a2f9-75caa62ca717</dc:identifier>
+        <dc:date>2025-01-29T22:13:27Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/chapter13.html#point(/1/4/104/1:255)" end="OEBPS/chapter13.html#point(/1/4/104/3:74)" progress="0.815603">
+                <text>Happiness is a great risk to your own sense of yourself. You have to forget who you are in order to be happy, or to do anything wholeheartedly.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:c8124f89-ff5b-4d76-a1fa-1eb11ee57a3d</dc:identifier>
+        <dc:date>2025-01-29T22:14:31Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/chapter13.html#point(/1/4/104/3:485)" end="OEBPS/chapter13.html#point(/1/4/106:0)" progress="0.822695">
+                <text>And not one of these things would bring happiness if it did occur.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:c4e6ec30-5208-431f-bb2e-e25321cb3164</dc:identifier>
+        <dc:date>2025-01-29T22:20:16Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/chapter13.html#point(/1/4/122/1:129)" end="OEBPS/chapter13.html#point(/1/4/124:0)" progress="0.829787">
+                <text>, I stopped knowing what I couldn’t do or live up to.”
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:afe53e9c-e2d2-4072-b68e-dac316c54d99</dc:identifier>
+        <dc:date>2025-01-30T03:49:43Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/chapter14.html#point(/1/4/64/1:231)" end="OEBPS/chapter14.html#point(/1/4/66:0)" progress="0.865248">
+                <text>What has changed is that he doesn’t torment himself with his thoughts. He has breakfast, goes to work, comes home, has dinner, plays with the children, reads a novel. He lives. He does not require the moment to be different in order to be happy. He is happy.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:d80caf4e-352f-4a7a-b6d4-f782accb21ea</dc:identifier>
+        <dc:date>2025-01-30T03:51:43Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/chapter14.html#point(/1/4/72/1:125)" end="OEBPS/chapter14.html#point(/1/4/74:0)" progress="0.87234">
+                <text>Without your fictions, life has a simplicity that is full of beauty.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+</annotationSet>

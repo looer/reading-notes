@@ -1,0 +1,38 @@
+
+<annotationSet xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://ns.adobe.com/digitaleditions/annotations">
+    <publication>
+        <dc:identifier>9780593653425</dc:identifier>
+        <dc:title>The Creative Act</dc:title>
+        <dc:creator>Rick Rubin</dc:creator>
+        <dc:description>&lt;b&gt;From the legendary music producer, a master at helping people connect with the wellsprings of their creativity, comes a beautifully crafted book many years in the making that offers that same deep wisdom to all of us.&lt;br&gt;&quot;A gorgeous and inspiring work of art on creation, creativity, the work of the artist. It will gladden the hearts of writers and artists everywhere, and get them working again with a new sense of meaning and direction. A stunning accomplishment.&amp;rdquo;&amp;#160;&amp;mdash;Anne Lamott&lt;/b&gt;&lt;br&gt;&amp;ldquo;&lt;i&gt;I set out to write a book about what to do to make a great work of art. Instead, it revealed itself to be a book on how to be.&amp;rdquo; &amp;mdash;Rick Rubin&lt;/i&gt;&lt;br&gt;Many famed music producers are known for a particular sound that has its day. Rick Rubin is known for something else: creating a space where artists of all different genres and traditions can home in on who they really are and what they really offer. He has made a practice of helping people transcend their...</dc:description>
+        <dc:language>en-US</dc:language>
+    </publication>
+    <annotation>
+        <dc:identifier>urn:uuid:3a0cb0ed-e3bb-4c35-828e-f385fd225a3f</dc:identifier>
+        <dc:date>2024-01-06T00:32:32Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/008_Tuning_In.xhtml#point(/1/4/2/47:4)" end="OEBPS/xhtml/008_Tuning_In.xhtml#point(/1/4/2/49:1)" progress="0.0606061">
+                <text>How do we pick up on a signal that can neither be heard nor be defined? The answer is not to look for it. Nor do we attempt to predict or analyze our way into it. Instead, we create an open space that allows it. A space so free of the normal overpacked condition of our minds that it functions as a vacuum. Drawing down the ideas that the universe is making available.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:8d414ddf-914d-4ac3-8de0-11cb270ca7b3</dc:identifier>
+        <dc:date>2024-01-06T16:30:02Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/011_Poem.xhtml#point(/1/4/2/1:4)" end="OEBPS/xhtml/011_Poem.xhtml#point(/1/4/2/15:1)" progress="0.0757576">
+                <text>Turning something from an idea
+			 into a reality
+			 can make it seem smaller.
+			 It changes from unearthly to earthly.
+			 The imagination has no limits.
+			 The physical world does.
+			 The work exists in both.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+</annotationSet>

@@ -1,0 +1,750 @@
+
+<annotationSet xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://ns.adobe.com/digitaleditions/annotations">
+    <publication>
+        <dc:identifier>B01MYMUGQL</dc:identifier>
+        <dc:title>101 Essays That Will Change The Way You Think</dc:title>
+        <dc:creator>Brianna Wiest</dc:creator>
+        <dc:description>Over the past few years, Brianna Wiest has gained renown for her deeply moving, philosophical writing. This new compilation of her published work features pieces on why you should pursue purpose over passion, embrace negative thinking, see the wisdom in daily routine, and become aware of the cognitive biases that are creating the way you see your life. Some of these pieces have never been seen; others have been read by millions of people around the world. Regardless, each will leave you thinking: this idea changed my life.</dc:description>
+        <dc:language>en</dc:language>
+    </publication>
+    <annotation>
+        <dc:identifier>urn:uuid:f687c7df-3dd1-4c5d-ac28-adc4ee32fe11</dc:identifier>
+        <dc:date>2025-03-02T01:31:14Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0007.html#point(/1/4/2/15:4)" end="text/part0007.html#point(/1/4/2/17:1)" progress="0.0465116">
+                <text>A lack of routine is just a breeding ground for perpetual procrastination. It gives us gaps and spaces in which our subconscious minds can say: “well, you can take a break now,” when in fact, you have a deadline. But if you’re used to taking a break at that point in time, you’ll allow it simply because “you always do.”
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:a5c540d8-7bde-4037-9c95-1e5556c4ed69</dc:identifier>
+        <dc:date>2025-03-02T01:33:00Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0008.html#point(/1/4/2/14/8/1:76)" end="text/part0008.html#point(/1/4/2/14/9:1)" progress="0.0523256">
+                <text>The presence of indifference is a sign you’re on the wrong path. Fear means you’re trying to move toward something you love, but your old beliefs, or unhealed experiences, are getting in the way. (Or, rather, are being called up to be healed.)
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:c96ed738-2bc7-4db9-8786-96b5668d788e</dc:identifier>
+        <dc:date>2025-03-02T02:53:27Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0010.html#point(/1/4/2/15:4)" end="text/part0010.html#point(/1/4/2/17:0)" progress="0.0755814">
+                <text>The main thing socially intelligent people understand is that your relationship to everyone else is an extension of your relationship to yourself.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:cdb8fc88-7a70-497d-b412-871bb829f162</dc:identifier>
+        <dc:date>2025-03-02T02:52:34Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0010.html#point(/1/4/2/14/23:5)" end="text/part0010.html#point(/1/4/2/14/24/2/3:6)" progress="0.0755814">
+                <text>They listen to hear, not respond.  While listening to other people speak, they focus on what is being said, not how they are going to respond. This is also known as the meta practice of “holding space.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:965b7ae1-36fc-48cc-b264-2902e9bcabbd</dc:identifier>
+        <dc:date>2025-03-02T02:54:19Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0011.html#point(/1/4/2/8/4/1:37)" end="text/part0011.html#point(/1/4/2/8/5:1)" progress="0.0784884">
+                <text>Feeling lost is actually a sign you’re becoming more present in your life—you’re living less within the narratives and ideas that you premeditated and more in the moment at hand. Until you’re used to this, it will feel as though you’re off-track (you aren’t).
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:7b1fecc2-9f44-4a17-9f3f-2a3856ac2528</dc:identifier>
+        <dc:date>2025-03-02T18:45:32Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0013.html#point(/1/4/2/24/1:90)" end="text/part0013.html#point(/1/4/2/24/1:153)" progress="0.101744">
+                <text>We’re more invested in how we’re perceived than who we are,</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:0368b681-8ba8-46ab-894c-7100d7156d3a</dc:identifier>
+        <dc:date>2025-03-09T12:34:08Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0016.html#point(/1/4/2/20/14/4/1:187)" end="text/part0016.html#point(/1/4/2/20/14/4/1:268)" progress="0.127907">
+                <text>Practicing feeling good is simply taking a moment to literally let yourself feel.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:169bc53a-e03a-4fd0-ad4f-932dc2682a33</dc:identifier>
+        <dc:date>2025-03-09T04:00:31Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0016.html#point(/1/4/2/20/9:5)" end="text/part0016.html#point(/1/4/2/20/10/4/1:245)" progress="0.125">
+                <text>People delay action once they know truth—and the interim between knowing and doing is the space where suffering thrives. Most of the time, it’s not about not knowing what to do (or not knowing who you are). It’s about the resistance between what’s right and what’s easy, what’s best in the long v. short term. We hear our instincts; we just don’t listen.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:8ab80f26-c9c7-43a1-bd5e-d37cc691d28a</dc:identifier>
+        <dc:date>2025-03-09T12:35:17Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0016.html#point(/1/4/2/20/16/2/1:787)" end="text/part0016.html#point(/1/4/2/20/18/1:11)" progress="0.130814">
+                <text>The commonality is a sense of purpose, belonging, and love: things you can choose to feel and cultivate, regardless of physical/material circumstance.
+				Most people</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:9dab69ac-c744-4c91-a478-3e63c80a3f20</dc:identifier>
+        <dc:date>2025-03-09T04:00:46Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0016.html#point(/1/4/2/20/10/4/1:246)" end="text/part0016.html#point(/1/4/2/20/10/4/1:323)" progress="0.125">
+                <text>This is the single most common root of discomfort: the space between knowing </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:9712377f-098f-429e-907c-26813708cb15</dc:identifier>
+        <dc:date>2025-03-09T12:44:03Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0016.html#point(/1/4/2/26/2/2/2/1:1)" end="text/part0016.html#point(/1/4/2/26/2/3:0)" progress="0.133721">
+                <text>Hendricks, Gay. The Big Leap: Conquer Your Hidden Fear and Take Life to the Next Level. 2010. HarperOne.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:070ab9be-d339-421d-b871-0e8e31ea6b0a</dc:identifier>
+        <dc:date>2025-03-02T18:51:52Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0016.html#point(/1/4/2/11:4)" end="text/part0016.html#point(/1/4/2/13:0)" progress="0.119186">
+                <text>Happiness is not a rush of positive emotion elicited by random events that affirm the way you think something should go. Not sustainable happiness, anyway. The real stuff is the product of an intentional, mindful, daily practice, and it begins with choosing to commit to it.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:62ea5240-4231-4024-a4d8-ea1b0c90cde5</dc:identifier>
+        <dc:date>2025-03-09T12:39:39Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0016.html#point(/1/4/2/20/22/4/3:11)" end="text/part0016.html#point(/1/4/2/20/25:0)" progress="0.133721">
+                <text>Worrying conditions us to the worst possible outcomes so they don’t cause as much pain if they come to pass. We’re thinking through every irrational possibility so we can account for it, prepare for it, before it surprises us. We try to imagine every “bad” thing a person could say about us so they’re not the first to do it. But this does not change anything. You still won’t expect difficult things to arise. You will never know what people are really thinking, or how often. You will not be able to prepare to cope with your irrational fears, because there’s no basis in a reality you could possibly get ready to deal with. You cannot beat fear to the finish line. You are not cheating your way around pain. You’re actively pursuing more and more of it.
+				Happy people are often perceived as being naive and vulnerable.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:c3b5625b-d5bb-4e75-9356-9b396f5e0bfa</dc:identifier>
+        <dc:date>2025-03-09T12:34:19Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0016.html#point(/1/4/2/20/14/4/1:313)" end="text/part0016.html#point(/1/4/2/20/15:0)" progress="0.127907">
+                <text>meditate on some things you’re grateful for, and let it wash over you as much as possible. Seek what’s positive, and you’ll find that your threshold for feeling it expands as you decide it can.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:b095d56e-29ef-4fba-8ee4-d399603696bb</dc:identifier>
+        <dc:date>2025-03-02T18:51:32Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0016.html#point(/1/4/2/10/1:144)" end="text/part0016.html#point(/1/4/2/10/1:239)" progress="0.119186">
+                <text>Nobody wants to believe happiness is a choice, because that puts responsibility in their hands.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:b5a86f3c-3d35-438b-9cf2-4401ba9a019b</dc:identifier>
+        <dc:date>2025-03-09T04:01:06Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0016.html#point(/1/4/2/20/10/4/1:323)" end="text/part0016.html#point(/1/4/2/20/10/4/3:7)" progress="0.125">
+                <text>and doing. We’re culturally addicted to procrastination, but we’re also just as enamored by deflection. By not acting immediately, we think we’re creating space for the truth to shift, when we’re really only creating discomfort so that we can sense it more completely (though we’re suffering needlessly in the process</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:72249e1d-3213-4a8d-9810-01c2a2097281</dc:identifier>
+        <dc:date>2025-03-02T18:53:26Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0016.html#point(/1/4/2/20/4/3:7)" end="text/part0016.html#point(/1/4/2/20/4/5:0)" progress="0.122093">
+                <text>Most things people do are in an effort to “earn” love. Many desires, dreams, and ambitions are built out of a space of severe lack. It’s for this reason that some of the most emotionally dense people are also the most successful: They use their desire for acceptance, love, wholeness, as fuel—for better and for worse.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:0a867da7-1cb0-4b2c-a9f9-bce487bd83f1</dc:identifier>
+        <dc:date>2025-03-09T12:37:50Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0016.html#point(/1/4/2/20/19:5)" end="text/part0016.html#point(/1/4/2/20/20/4/1:195)" progress="0.130814">
+                <text>People believe that suffering makes them worthy. To have wonderful things in our lives without having suffered for them somehow translates to us feeling as though we haven’t truly “earned” them and therefore, they are not completely ours.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:0b04ffad-ca7e-43f7-89ba-7c9966c5c64e</dc:identifier>
+        <dc:date>2025-03-02T18:52:23Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0016.html#point(/1/4/2/16/1:93)" end="text/part0016.html#point(/1/4/2/17:0)" progress="0.119186">
+                <text>as soon as our circumstances extend beyond the amount of happiness we’re accustomed to and comfortable feeling, we unconsciously begin to self-sabotage.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:3faec831-b52b-4e76-b0fe-e8858a51a7ea</dc:identifier>
+        <dc:date>2025-03-09T12:43:39Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0017.html#point(/1/4/2/10/1:253)" end="text/part0017.html#point(/1/4/2/12/1:4)" progress="0.136628">
+                <text>It is meaningful work. It is flow. It is the purpose that sears identity and builds character and channels our energy toward something greater than the insatiable, daily pursuit of our fleeting desires.
+			 Just</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:fa5e0a7c-2a1f-4a47-a79e-4945070fa782</dc:identifier>
+        <dc:date>2025-03-10T00:16:52Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0018.html#point(/1/4/2/17:4)" end="text/part0018.html#point(/1/4/2/19:1)" progress="0.148256">
+                <text>You will never be ready for the things that matter, and waiting to feel ready before you start acting is how the knowing-doing gap widens. It’s uncomfortable to work, to stretch the capacity of your tolerance, to be vulnerable with someone you care deeply about, but it is never more comfortable than going your whole life without the things you really want.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:dd63785d-8c2e-4e16-9690-ad6ac2e489cc</dc:identifier>
+        <dc:date>2025-03-10T00:17:05Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0018.html#point(/1/4/2/19:4)" end="text/part0018.html#point(/1/4/2/20/1:238)" progress="0.148256">
+                <text>Anxiety builds in our idle hours. Fear and resistance thrive when we’re avoiding the work. Most things aren’t as hard or as trying as we chalk them up to be. They’re ultimately fun and rewarding and expressions of who we really are.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:0abb24ae-7fbe-4b6a-9965-adcaa3eaeb81</dc:identifier>
+        <dc:date>2025-03-09T12:52:55Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0018.html#point(/1/4/2/12/1:133)" end="text/part0018.html#point(/1/4/2/16/1:8)" progress="0.148256">
+                <text>altering your mindset to focus on the discomfort you will face if you don’t do the thing in front of you, as opposed to the discomfort you will face if you do.
+			 If left unchecked, the knowing-doing gap will leave you a shell of the person you intended to be. It will wreck your most intimate, passionate relationships, keep you from the kind of daily productivity required to achieve any goal worth working toward. It will keep you in a manic state of indecision (do I, or don’t I? Which feeling do I let guide me?). You have to take control for yourself, and you can do so by considering the big picture. The alternative. The way your life will be if you don’t do this thing. 
+			 How will</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:1a9d8fdf-254b-4287-baec-6e1a63429b0b</dc:identifier>
+        <dc:date>2025-03-09T12:44:57Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0018.html#point(/1/4/2/10/1:93)" end="text/part0018.html#point(/1/4/2/10/1:295)" progress="0.145349">
+                <text>Modern society (innovation, culture, wealth, success) is designed to convince us that a “good life” is one that is most comfortable, or able to provide us with a sense of being pain-free and secure.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:e8e5ba28-d81d-49e1-b670-40df49d4c594</dc:identifier>
+        <dc:date>2025-03-10T00:17:58Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0018.html#point(/1/4/2/20/1:399)" end="text/part0018.html#point(/1/4/2/23:1)" progress="0.151163">
+                <text>It’s easier to act your way into a new way of thinking rather than think your way into a new way of acting, so do one little thing today and let the momentum build.
+			 And thank whatever force within you that knows there’s something bigger for you—the one that’s pushing you to be comfortable with less.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:d1f01296-a3a5-4e9b-8e16-01027a2ffd42</dc:identifier>
+        <dc:date>2025-03-10T00:25:59Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0019.html#point(/1/4/2/6/121:5)" end="text/part0019.html#point(/1/4/2/6/123:1)" progress="0.165698">
+                <text>Your stories. The strange and simple and beautiful things you’ve experienced and how you can better share them with other people.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:8765d766-78cd-4bb9-8d7b-6f7e718f8397</dc:identifier>
+        <dc:date>2025-03-10T00:26:08Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0019.html#point(/1/4/2/6/123:5)" end="text/part0019.html#point(/1/4/2/6/127:1)" progress="0.165698">
+                <text>What you will be motivated by when fear is no longer an option.
+				What you are motivated to do when fear is no longer an option.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:b80ab967-d489-4cd5-a2f8-3e6fb538d200</dc:identifier>
+        <dc:date>2025-03-10T02:58:54Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0021.html#point(/1/4/2/19:3)" end="text/part0021.html#point(/1/4/2/21:0)" progress="0.188953">
+                <text>	 If you’re wondering “what you should do with your life,” it’s likely that you’re in the limbo between realizing you don’t want what you once did, and giving yourself permission to want what you want now.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:e7609935-6575-4703-b2f6-80ad2583c306</dc:identifier>
+        <dc:date>2025-03-17T01:52:54Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0024.html#point(/1/4/2/6/8/3:11)" end="text/part0024.html#point(/1/4/2/6/9:0)" progress="0.212209">
+                <text>The emotion most associated with fear is interest, believe it or not. It’s even been said that fear has two invisible faces: one that wants to flee and the other that wants to investigate. This is to say, nothing is generally “scary” to us unless some part of us also wants to understand it, knows we are a part of it, and feels as though it will become part of our experience.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:6f9f277d-3732-4454-86ab-92266c6460ef</dc:identifier>
+        <dc:date>2025-03-18T01:57:44Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0027.html#point(/1/4/2/6/131:5)" end="text/part0027.html#point(/1/4/2/6/133:0)" progress="0.258721">
+                <text>Dream bigger. If you feel as though you’re constantly running through the same issues in your mind, you’ve yet to visualize a future that is greater than your present. When you have something more important to work toward—or someone to be better for—the obsession with little, made-up problems will quickly dissolve.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:1cf93eac-7f5a-4491-a2cb-4bac79e34dd2</dc:identifier>
+        <dc:date>2025-03-18T02:00:52Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0027.html#point(/1/4/2/6/185:5)" end="text/part0027.html#point(/1/4/2/6/187:1)" progress="0.261628">
+                <text>Recognize that fear is an indicator that something is powerful and worthwhile. The deeper the fear, the deeper the love.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:27557804-ac64-40be-a1a8-baa49f43946d</dc:identifier>
+        <dc:date>2025-03-18T02:01:40Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0027.html#point(/1/4/2/6/193:5)" end="text/part0027.html#point(/1/4/2/6/195:0)" progress="0.261628">
+                <text>Nobody is thinking about you the way you are thinking about you. They’re all thinking about themselves.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:9d281f43-16dc-4a6a-a4f8-581db0e1c287</dc:identifier>
+        <dc:date>2025-03-18T01:56:45Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0027.html#point(/1/4/2/6/115:5)" end="text/part0027.html#point(/1/4/2/6/117:1)" progress="0.255814">
+                <text>Practice happiness. External events don’t create meaning or fulfillment or contentment; how we think about them does. If you’re operating on a scarcity mindset, you’ll always be unhappy, no matter what you have or get.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:79c7aaa1-a5e7-4c29-a424-0722ea3891c0</dc:identifier>
+        <dc:date>2025-03-18T02:00:03Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0027.html#point(/1/4/2/6/163:5)" end="text/part0027.html#point(/1/4/2/6/165:1)" progress="0.261628">
+                <text>Let yourself be loved as the person you are. You’ll quickly see how the main person judging you is you.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:63b12f14-6c14-4408-a446-eff70e628e5c</dc:identifier>
+        <dc:date>2025-03-18T01:58:28Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0027.html#point(/1/4/2/6/151:5)" end="text/part0027.html#point(/1/4/2/6/153:0)" progress="0.258721">
+                <text>Connect with people. Connect with people. Connect with people.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:2ef20c30-dfb8-4109-b5a9-34b2ff74dcaf</dc:identifier>
+        <dc:date>2025-03-18T02:01:26Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0027.html#point(/1/4/2/6/188/1:3)" end="text/part0027.html#point(/1/4/2/6/188/3:4)" progress="0.261628">
+                <text>The obstacle is the way.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:c37f2ac0-6ae3-44df-a5b5-1fc511dc832b</dc:identifier>
+        <dc:date>2025-03-18T01:59:58Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0027.html#point(/1/4/2/6/161:5)" end="text/part0027.html#point(/1/4/2/6/163:1)" progress="0.261628">
+                <text>Focus on getting better, but let go of the end goal. You get better, not perfect.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:65b0dc81-0ad4-4792-bcae-a30b149d82ef</dc:identifier>
+        <dc:date>2025-03-18T02:01:34Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0027.html#point(/1/4/2/6/191:5)" end="text/part0027.html#point(/1/4/2/6/193:1)" progress="0.261628">
+                <text>Challenge yourself to think of possibilities you never imagined before, as often as you can. Let your mind explore itself and grow.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:06a8700b-b635-4ae6-8402-302bde7d7cf4</dc:identifier>
+        <dc:date>2025-03-18T01:55:34Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0027.html#point(/1/4/2/6/99:5)" end="text/part0027.html#point(/1/4/2/6/101:0)" progress="0.252907">
+                <text>Work on developing your mental strength. Train your mind like you would your body. Work on focusing, thinking, imagining. This is the single best thing you can possibly do for your life.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:8293e68b-a18f-4802-969a-0d56bee063dc</dc:identifier>
+        <dc:date>2025-03-18T01:59:23Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0027.html#point(/1/4/2/6/165:5)" end="text/part0027.html#point(/1/4/2/6/167:0)" progress="0.261628">
+                <text>Stop judging other people. See everyone with dignity, with a story, with reasons for why they are how they are and why they do what they do. The more you accept other people, the more you’ll accept yourself, and vice versa.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:cfcfe409-4e81-45fa-900f-6bbd2107b648</dc:identifier>
+        <dc:date>2025-03-18T02:09:09Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0028.html#point(/1/4/2/27:4)" end="text/part0028.html#point(/1/4/2/31:0)" progress="0.270349">
+                <text>You’ll seldom be inspired by work that is coming from a core truth, and that’s because it shows you something about yourself. Not just something, the truest truth—that’s what makes the process so goddamn unbearable.
+			 And that’s why we reach for structure, that’s what makes us stopper the process. That’s why we want inspiration and validation and external support.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:433346ee-5b04-4822-a565-f9e317b558ef</dc:identifier>
+        <dc:date>2025-03-18T02:04:52Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0028.html#point(/1/4/2/5:4)" end="text/part0028.html#point(/1/4/2/6/1:87)" progress="0.267442">
+                <text>Being creative is as innate to being human as eating, talking, walking and thinking is.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:fc88b29d-6fea-406d-a693-cf81f15c0971</dc:identifier>
+        <dc:date>2025-03-18T02:05:03Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0028.html#point(/1/4/2/12/1:263)" end="text/part0028.html#point(/1/4/2/12/1:358)" progress="0.267442">
+                <text>. I wanted to be able to write and create just because. Just because I’m alive and breathing </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:1ce4dbec-22db-4c59-882d-49108124afc7</dc:identifier>
+        <dc:date>2025-03-18T02:06:05Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0028.html#point(/1/4/2/24/1:67)" end="text/part0028.html#point(/1/4/2/25:1)" progress="0.270349">
+                <text>It is almost imperative that you are completely mindful of the moment, creating from a place of simply allowing whatever is going through you to flow out.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:bef05699-1007-45e9-b6ad-8ee9bc6db879</dc:identifier>
+        <dc:date>2025-03-18T02:05:58Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0028.html#point(/1/4/2/24/1:9)" end="text/part0028.html#point(/1/4/2/24/1:66)" progress="0.270349">
+                <text>anything creative tends to be most hampered by end goals.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:3c8fa6ae-e85b-417e-aa14-dc4be1b9e415</dc:identifier>
+        <dc:date>2025-03-18T02:06:26Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0028.html#point(/1/4/2/21:4)" end="text/part0028.html#point(/1/4/2/22/1:158)" progress="0.267442">
+                <text>It comes down to imagining writing (or painting, or singing, or whatever it is you do) as coming as naturally as breathing does: It’s an effortless process,</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:5daa2f1b-c97c-4919-af5d-0d959728ad70</dc:identifier>
+        <dc:date>2025-03-18T02:09:19Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0028.html#point(/1/4/2/31:4)" end="text/part0028.html#point(/1/4/2/33:0)" progress="0.270349">
+                <text>In the true essence of real Zen, the most creativity can be fostered when you learn to do so without passing judgment, similar to how observing your thoughts and feelings objectively are the path to peace as well.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:e12f9295-2266-4b5e-85e6-fbfc6004afff</dc:identifier>
+        <dc:date>2025-03-18T02:03:53Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0028.html#point(/1/4/2/10/1:35)" end="text/part0028.html#point(/1/4/2/11:1)" progress="0.267442">
+                <text>the most effective creative process is one that follows the art of Zen—meditation, mindfulness, intuition, non-resistance, non-judgment, etc.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:c33471e6-10e6-4200-86b6-352c264024bc</dc:identifier>
+        <dc:date>2025-04-01T02:51:24Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0029.html#point(/1/4/2/20/1:128)" end="text/part0029.html#point(/1/4/2/21:0)" progress="0.276163">
+                <text>What we do know is that people who are able to create happy lives for themselves right here and right now are the ones who think that way.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:7804bd49-3cae-4530-9cd6-472de1255c98</dc:identifier>
+        <dc:date>2025-04-01T02:51:19Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0029.html#point(/1/4/2/15:4)" end="text/part0029.html#point(/1/4/2/19:0)" progress="0.276163">
+                <text>Society (likes to believe) it thrives when we are extrinsically motivated. At least, this is how capitalism runs, this is how people stay in power, this is how we are kept small. When people believe that they are victims, they forfeit their power.
+			 They funnel their energy on other people’s ideas, dreams, products.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:0fdde0d2-387f-4cf5-9951-83c521a06104</dc:identifier>
+        <dc:date>2025-04-01T02:50:03Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0029.html#point(/1/4/2/9:4)" end="text/part0029.html#point(/1/4/2/10/1:245)" progress="0.276163">
+                <text>You either see yourself as a victim of what happens to you, or as someone given opportunity to change, grow, see differently, and expand. You either see uncomfortable feelings as suffering you have to deal with or signals you have to learn from.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:8af36c84-f870-404b-bb49-3dc942dd372d</dc:identifier>
+        <dc:date>2025-03-27T12:11:30Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0029.html#point(/1/4/2/5:4)" end="text/part0029.html#point(/1/4/2/7:0)" progress="0.276163">
+                <text>The single most powerful, liberating thing any one of us can do is choose to believe that everything is here to help us.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:b685ac30-67b8-405b-a03c-760ffacdc348</dc:identifier>
+        <dc:date>2025-04-01T02:51:52Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0029.html#point(/1/4/2/22/1:120)" end="text/part0029.html#point(/1/4/2/24/1:131)" progress="0.27907">
+                <text>If we want meaning we have to create it. If we want to find peace, we need to know there’s a purpose for suffering.
+			 You will either sit in discomfort for the rest of your life, or you will grow and be better for the things that are most difficult.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:bb48fe04-9c0f-48b4-a545-e5a1e79e132a</dc:identifier>
+        <dc:date>2025-04-01T02:54:11Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0030.html#point(/1/4/2/6/23:5)" end="text/part0030.html#point(/1/4/2/6/25:0)" progress="0.284884">
+                <text>You’ve ascribed happiness to a level of accomplishment rather than a state of being. You think that only some people can be happy because their life circumstances are ideal, rather than choosing to seek happiness in the moment and realizing that has nothing to do with it.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:b1b8d6ec-16ad-4c81-98d7-a86ce81e3c19</dc:identifier>
+        <dc:date>2025-04-01T02:59:00Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0033.html#point(/1/4/2/6/1:185)" end="text/part0033.html#point(/1/4/2/6/1:524)" progress="0.305233">
+                <text>In a world that is constantly demanding more and more of our attention, we can’t forget to give ourselves to what matters most: a glimpse at what’s happening right now. Everything you’ve ever dreamed, wanted, worked for, wished for and are waiting for stems from this moment. What you do now is not just something, it’s everything.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:7476c52b-001f-4c6b-835a-6607dca79e26</dc:identifier>
+        <dc:date>2025-04-01T02:58:32Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0033.html#point(/1/4/2/5:4)" end="text/part0033.html#point(/1/4/2/6/1:62)" progress="0.305233">
+                <text>Presence is all we have, yet it often becomes a last priority.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:9ece03bf-11cf-4a5a-9ff3-305b96b60bda</dc:identifier>
+        <dc:date>2025-04-01T02:59:25Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0033.html#point(/1/4/2/8/1:5)" end="text/part0033.html#point(/1/4/2/8/3:1)" progress="0.305233">
+                <text>All that exists is what’s in front of me.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:4adec053-cd92-4696-9fc3-3e41fe9af7fa</dc:identifier>
+        <dc:date>2025-04-01T03:03:02Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0034.html#point(/1/4/2/14/17:5)" end="text/part0034.html#point(/1/4/2/14/19:1)" progress="0.311047">
+                <text>What would be too good to believe if someone were to sit down and tell you what's coming next in your life?
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:fad081ba-2909-4368-b56b-bcd02cad65b2</dc:identifier>
+        <dc:date>2025-04-01T03:02:26Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0034.html#point(/1/4/2/14/3:5)" end="text/part0034.html#point(/1/4/2/14/7:0)" progress="0.311047">
+                <text>What would you stand for if you knew that nobody would judge you?
+				What would you do if you knew that nobody would judge you?</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:877350d6-e0dd-43e5-90a3-7ee382072983</dc:identifier>
+        <dc:date>2025-04-01T03:02:16Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0034.html#point(/1/4/2/14/21:5)" end="text/part0034.html#point(/1/4/2/14/23:0)" progress="0.311047">
+                <text>If you didn't have to work anymore, what would you do with your days?</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:5ff5bca4-b658-4fe3-bfa3-6ea2f0df7d9f</dc:identifier>
+        <dc:date>2025-04-01T16:11:38Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0037.html#point(/1/4/2/6/18/2/1:97)" end="text/part0037.html#point(/1/4/2/6/18/2/1:154)" progress="0.331395">
+                <text>enjoy what you do each day, no matter what you’re doing</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:800fb3cc-43d4-453e-a9a3-98dbc5271f8e</dc:identifier>
+        <dc:date>2025-04-01T16:10:44Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0037.html#point(/1/4/2/6/14/1:75)" end="text/part0037.html#point(/1/4/2/6/14/2/3:7)" progress="0.331395">
+                <text>You either don’t keep in touch enough or you get easily frustrated because you think that friends should make you feel “better” and “happy” in an unrealistic way. So you think that the only way to achieve that is to over-bond yourself to them or disregard them when they don’t fulfill the role you’ve imposed on them. (Hence your feeling as though you don’t have enough!</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:8c1399e4-5ffd-428a-8ece-846f19ec2074</dc:identifier>
+        <dc:date>2025-04-01T16:13:39Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0037.html#point(/1/4/2/6/26/1:55)" end="text/part0037.html#point(/1/4/2/6/26/2/1:88)" progress="0.334302">
+                <text>Losers wait to feel motivated. People who never get anything done wait to feel inspired.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:0e955986-d16c-496a-927e-6c54d425bc89</dc:identifier>
+        <dc:date>2025-04-01T16:16:38Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0037.html#point(/1/4/2/6/28/1:28)" end="text/part0037.html#point(/1/4/2/6/29:0)" progress="0.334302">
+                <text>Maladaptive daydreaming is when you imagine extensive fantasies of an alternative life that you don’t have to replace human interaction or general function. Most people experiencing it while listening to music and/or moving (walking, riding in a car, pacing, swinging, etc.) Rather than cope with issues in life, you just daydream to give yourself a “high” that eliminates the uncomfortable feeling.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:c84c7c3a-84d8-4119-bee9-d338ffdeb3f1</dc:identifier>
+        <dc:date>2025-04-01T16:16:50Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0037.html#point(/1/4/2/6/26/2/1:293)" end="text/part0037.html#point(/1/4/2/6/27:0)" progress="0.334302">
+                <text>You must learn to work without them, to gather your strength from purpose, not passion.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:c546a0cf-2ff2-4a44-8298-6ecae1e1581c</dc:identifier>
+        <dc:date>2025-04-01T16:13:30Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0037.html#point(/1/4/2/6/24/1:83)" end="text/part0037.html#point(/1/4/2/6/26/1:3)" progress="0.334302">
+                <text>Being uncomfortable and fearful means you definitely should. Being angry or indifferent means you definitely shouldn’t.
+				You</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:8aa53988-455f-4847-8700-f5706a616225</dc:identifier>
+        <dc:date>2025-04-01T16:12:51Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0037.html#point(/1/4/2/6/18/2/1:164)" end="text/part0037.html#point(/1/4/2/6/18/2/1:219)" progress="0.334302">
+                <text>learn to love saving more than frivolously spending.”</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:d9ab120c-1b8c-49d5-813f-4b326f481503</dc:identifier>
+        <dc:date>2025-04-01T16:12:26Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0037.html#point(/1/4/2/6/20/2/1:185)" end="text/part0037.html#point(/1/4/2/6/21:0)" progress="0.334302">
+                <text>If you assume you “have time” to do something, or that you’ll do it later, you probably don’t want it as much as you think you do. There isn’t more time. You don’t know. You could be dead tomorrow. It doesn’t mean you have to get everything done today, but that there’s rarely an excuse not to start.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:18ab3443-d9fd-462f-9735-0e1af643cda0</dc:identifier>
+        <dc:date>2025-04-08T01:13:12Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0040.html#point(/1/4/2/12/1:256)" end="text/part0040.html#point(/1/4/2/14/1:4)" progress="0.354651">
+                <text>It’s not to discover what you’d actually do if you didn’t have to worry about money (that’s not our reality), it’s about the essence of what you’d do and how you can incorporate that into your everyday life. Would you vacation, would you keep your current job? It just goes to show you whether you value relaxation or accomplishments or whatever else, and understanding what you value is crucial to understanding who you are.
+			 Take</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:83b1af23-6f07-4cb5-ba16-4c70719d15e8</dc:identifier>
+        <dc:date>2025-04-08T01:14:01Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0040.html#point(/1/4/2/16/1:357)" end="text/part0040.html#point(/1/4/2/17:0)" progress="0.357558">
+                <text>The first step is realizing that the “people” you worry about don’t really exist.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:8bdbebf4-0db2-4965-84b9-44c2cb759522</dc:identifier>
+        <dc:date>2025-04-08T01:14:30Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0040.html#point(/1/4/2/18/1:355)" end="text/part0040.html#point(/1/4/2/20/1:3)" progress="0.357558">
+                <text>. We’re jealous of the successful writer not because we also want to be lauded, but because we know we’re not doing the work to get there.
+			 Don</text>
+            </fragment>
+        </target>
+    </annotation>
+</annotationSet>

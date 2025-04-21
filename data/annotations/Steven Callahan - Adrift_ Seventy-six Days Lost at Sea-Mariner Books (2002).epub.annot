@@ -1,0 +1,20 @@
+
+<annotationSet xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://ns.adobe.com/digitaleditions/annotations">
+    <publication>
+        <dc:identifier>b7e5e88a-fb84-4179-a27e-ea360c5f5b69</dc:identifier>
+        <dc:title>Adrift</dc:title>
+        <dc:creator>Steven Callahan</dc:creator>
+        <dc:description>&lt;p&gt;Before The Perfect Storm, before In the Heart of the Sea, Steven Callahan's dramatic tale of survival at sea was on the New York Times bestseller list for more than thirty-six weeks. In some ways the model for the new wave of adventure books, Adrift is an undeniable seafaring classic, a riveting firsthand account by the only man known to have survived more than a month alone at sea, fighting for his life in an inflatable raft after his small sloop capsized only six days out. “Utterly absorbing&quot; (Newsweek), Adrift is a must-have for any adventure library.&lt;/p&gt;</dc:description>
+        <dc:language>en</dc:language>
+    </publication>
+    <annotation>
+        <dc:identifier>urn:uuid:d6caf541-8c93-461b-adc2-db28ac45de7c</dc:identifier>
+        <dc:date>2023-05-28T21:28:55Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/Adrift_split_014.html#point(/1/4/34/1:163)" end="OEBPS/Text/Adrift_split_014.html#point(/1/4/34/1:734)" progress="0.973822">
+                <text> often remind listeners that, whether you crawl into a hole or walk a high wire, nobody gets out of here alive. We cannot grow without challenge. Challenges routinely produce crises that severely test us. However, crises also offer us the greatest opportunities. People going through tough times typically feel isolated, and unsure what to do. When I face a crisis, I try to keep in mind a few simple concepts: we cannot control our destinies, but we can help to shape them; we must try to make life hop a bit, but we must also accept that we can only do the best we can.</text>
+            </fragment>
+        </target>
+    </annotation>
+</annotationSet>

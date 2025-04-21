@@ -1,0 +1,19 @@
+
+<annotationSet xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://ns.adobe.com/digitaleditions/annotations">
+    <publication>
+        <dc:identifier>18e44526-292d-464e-9083-f984e1b24547</dc:identifier>
+        <dc:title>Superhuman by Habit: A Guide to Becoming the Best Possible Version of Yourself, One Tiny Habit at a Time</dc:title>
+        <dc:creator>Tynan</dc:creator>
+        <dc:language>en</dc:language>
+    </publication>
+    <annotation>
+        <dc:identifier>urn:uuid:3de7578a-5977-4e9b-b1d9-eb51a858c872</dc:identifier>
+        <dc:date>2024-04-03T13:47:57Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/part0000_split_002.xhtml#point(/1/4/167:5)" end="OEBPS/Text/part0000_split_002.xhtml#point(/1/4/169:0)" progress="0.121622">
+                <text>Second, you should be very scared to fail to execute a habit, even once. By failing to execute, potentially you're not just losing a minor bit of progress, but rather threatening the cumulative benefits you'd accrue  by establishing a habit. This is a huge deal and should not be treated lightly. So make your habits relatively easy, but never miss doing them.</text>
+            </fragment>
+        </target>
+    </annotation>
+</annotationSet>

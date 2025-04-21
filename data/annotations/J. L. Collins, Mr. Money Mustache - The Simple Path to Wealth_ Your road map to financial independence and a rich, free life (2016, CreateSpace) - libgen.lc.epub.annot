@@ -1,0 +1,60 @@
+
+<annotationSet xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://ns.adobe.com/digitaleditions/annotations">
+    <publication>
+        <dc:identifier>4cfc2a63-5777-4b43-8eef-3439f51e3177</dc:identifier>
+        <dc:title>The Simple Path to Wealth: Your road map to financial independence and a rich, free life</dc:title>
+        <dc:creator>J Collins</dc:creator>
+        <dc:description>Your road map to financial independence and a rich, free life</dc:description>
+        <dc:language>en</dc:language>
+    </publication>
+    <annotation>
+        <dc:identifier>urn:uuid:44f9f372-6901-4059-a9ca-130a2ebb0ee4</dc:identifier>
+        <dc:date>2024-01-08T22:30:42Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0000_split_008.html#point(/1/4/4/20/9:5)" end="text/part0000_split_008.html#point(/1/4/4/20/11:0)" progress="0.0913462">
+                <text>If your lifestyle matches—or god forbid exceeds—your income, you are no more than a gilded slave.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:51f28c21-da85-4399-bdd1-52e72c611c44</dc:identifier>
+        <dc:date>2024-01-08T22:31:16Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0000_split_008.html#point(/1/4/4/20/15:5)" end="text/part0000_split_008.html#point(/1/4/4/20/17:0)" progress="0.0913462">
+                <text>You own the things you own and they in turn own you.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:287986b9-a881-479b-aa89-ff8f6243fb9f</dc:identifier>
+        <dc:date>2024-01-08T22:31:22Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0000_split_008.html#point(/1/4/4/20/17:5)" end="text/part0000_split_008.html#point(/1/4/4/20/19:0)" progress="0.0913462">
+                <text>Money can buy many things, but nothing more valuable than your freedom.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:6fa071d6-be22-42cf-9579-40ec0ea7effc</dc:identifier>
+        <dc:date>2024-01-08T22:31:33Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0000_split_008.html#point(/1/4/4/20/19:5)" end="text/part0000_split_008.html#point(/1/4/4/20/21:0)" progress="0.0913462">
+                <text>Life choices are not always about the money, but you should always be clear about the financial impact of the choices you make.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:c9b6dfde-bb3b-450e-98f3-1479b5610fa0</dc:identifier>
+        <dc:date>2024-01-09T23:02:09Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="text/part0000_split_013.html#point(/1/4/4/139:4)" end="text/part0000_split_013.html#point(/1/4/4/140/1:326)" progress="0.182692">
+                <text>Moreover, one of the more unfortunate results of spiraling college costs and debt is the way it has warped the very concept of higher education. Rather than the pursuit of learning and culture, it has become the pursuit of job training in an effort to secure employment that will justify the astounding cost and debt incurred.</text>
+            </fragment>
+        </target>
+    </annotation>
+</annotationSet>

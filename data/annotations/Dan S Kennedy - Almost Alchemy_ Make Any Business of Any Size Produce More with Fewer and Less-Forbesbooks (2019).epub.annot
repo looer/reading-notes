@@ -1,0 +1,50 @@
+
+<annotationSet xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://ns.adobe.com/digitaleditions/annotations">
+    <publication>
+        <dc:identifier>b3ef59bb-f035-4757-8beb-ea50ede293b7</dc:identifier>
+        <dc:title>Almost Alchemy: Make Any Business Of Any Size Produce More With Fewer And Less</dc:title>
+        <dc:creator>Dan S. Kennedy</dc:creator>
+        <dc:language>en</dc:language>
+    </publication>
+    <annotation>
+        <dc:identifier>urn:uuid:ade9eab0-d8b3-4edf-84b3-7cf800e85092</dc:identifier>
+        <dc:date>2025-01-18T04:46:36Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="index_split_009.html#point(/1/4/16/11:10)" end="index_split_009.html#point(/1/4/16/14:11)" progress="0.151515">
+                <text>Yet there is an important saying, Russian I think: only dead fish swim with
+the stream.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:1c758442-370e-4e79-9f5e-3369b584d933</dc:identifier>
+        <dc:date>2025-01-18T04:45:10Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="index_split_009.html#point(/1/4/8/5:121)" end="index_split_009.html#point(/1/4/9/3:72)" progress="0.143939">
+                <text>There is a literal conspiracy of charlatans, con artists, promoters and dunces acting in concert to get you to count the wrong things. This has multiplied with online, so-called e-commerce, and social media, for which you are told to count “new metrics”; likes, views, viral re-tweets, and just about anything else but money. But this only the newest incarnation of a time-honored deception.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:d704766e-9a1c-4675-8d2b-5b7fd11bde9d</dc:identifier>
+        <dc:date>2025-02-01T04:02:41Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="index_split_014.html#point(/1/4/37/4:208)" end="index_split_014.html#point(/1/4/38/1:4)" progress="0.340909">
+                <text>They take in new, served up information like some undiscerning glutton eats anything and everything served up at a buffet. They take in new information and then try to figure out IF it might be useful and actionable, and if so, how. Enormous amounts of time are wasted by this backasswards practice. This</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:e0d323c4-c8ec-4fd9-a289-1f9d69b1f32e</dc:identifier>
+        <dc:date>2025-02-01T04:02:59Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="index_split_014.html#point(/1/4/38/1:30)" end="index_split_014.html#point(/1/4/39:0)" progress="0.340909">
+                <text>discipline yourself and others to stop wading around in superfluous information and focus on profitable information.</text>
+            </fragment>
+        </target>
+    </annotation>
+</annotationSet>

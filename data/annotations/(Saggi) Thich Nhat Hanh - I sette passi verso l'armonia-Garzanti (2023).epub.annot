@@ -1,0 +1,168 @@
+
+<annotationSet xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://ns.adobe.com/digitaleditions/annotations">
+    <publication>
+        <dc:title>I sette passi verso l’armonia</dc:title>
+        <dc:creator>Thich Nhat Hanh</dc:creator>
+        <dc:description>EDGT2123800</dc:description>
+        <dc:language>it-IT</dc:language>
+    </publication>
+    <annotation>
+        <dc:identifier>urn:uuid:a2fe2b3c-8605-444a-a859-0d036699102c</dc:identifier>
+        <dc:date>2024-02-05T11:27:34Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/e9788811011019_c0003.xhtml#point(/1/4/2/8/1:163)" end="OEBPS/Text/e9788811011019_c0003.xhtml#point(/1/4/2/10/1:2)" progress="0.088">
+                <text>Vogliamo scoprire chi siamo veramente e vogliamo capire il senso del nostro soffrire. La comprensione della sofferenza genera accettazione e amore, e questo è ciò che determina la qualità della nostra vita. Tutti abbiamo bisogno di essere compresi e amati. E tutti vogliamo comprendere e amare.
+			 La</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:f9b19707-03f7-47d2-a66d-8eba705f077b</dc:identifier>
+        <dc:date>2024-02-05T23:56:27Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/e9788811011019_c0003.xhtml#point(/1/4/2/22/13:116)" end="OEBPS/Text/e9788811011019_c0003.xhtml#point(/1/4/2/22/15:216)" progress="0.104">
+                <text>La concentrazione sul non-desiderio costituisce un’opportunità per prendersi del tempo, sedersi e cercare di capire cos’è la vera felicità. È un modo per scoprire che abbiamo già condizioni più che sufficienti per essere felici, proprio qui,</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:718f3aa6-336a-4209-9555-9f83afc61c3d</dc:identifier>
+        <dc:date>2024-02-17T01:36:30Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/e9788811011019_c0006.xhtml#point(/1/4/2/186/1:155)" end="OEBPS/Text/e9788811011019_c0006.xhtml#point(/1/4/2/187:0)" progress="0.536">
+                <text>Nello spirito del buddhismo, però, non appena avete un sogno, un’intenzione, un ideale, dovete viverlo. Il vostro sogno può essere realizzato proprio nel momento presente. Vivete la vostra vita in modo tale che ogni passo nella giusta direzione e ogni respiro lungo la strada diventino il compimento del vostro sogno. Il vostro sogno non vi allontana dal presente; al contrario, si fa realtà nel momento presente.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:c0b7b967-1920-43e1-9d4a-535e51da5fe7</dc:identifier>
+        <dc:date>2024-02-17T01:40:26Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/e9788811011019_c0006.xhtml#point(/1/4/2/214/1/1:2)" end="OEBPS/Text/e9788811011019_c0006.xhtml#point(/1/4/2/215:1)" progress="0.552">
+                <text>Sono arrivato; sono a casa» significa «Non voglio più correre». Ho corso per tutta la vitae non sono arrivato da nessuna parte. Ora voglio smettere. La mia destinazione è qui e ora, l’unico tempo e luogo in cui la vera vita è possibile.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:ae4a8319-2ca7-467f-9cb9-b6126adfee20</dc:identifier>
+        <dc:date>2024-02-17T04:52:31Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/e9788811011019_c0007.xhtml#point(/1/4/2/101:4)" end="OEBPS/Text/e9788811011019_c0007.xhtml#point(/1/4/2/103:0)" progress="0.616">
+                <text>In questo preciso istante, voi e la persona che amate siete entrambi nuovi, ed è per questo che siete entrambi liberi.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:1c92c0ae-fd36-407a-9183-897a8c6f8cb5</dc:identifier>
+        <dc:date>2024-02-17T01:46:35Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/e9788811011019_c0007.xhtml#point(/1/4/2/42/1:299)" end="OEBPS/Text/e9788811011019_c0007.xhtml#point(/1/4/2/42/1:702)" progress="0.576">
+                <text>State per iniziare una discussione. Ma poi vi ricordate di chiudere gli occhi e di contemplare l’impermanenza. Immaginate la persona che amate tra trecento anni. Non sarà altro che cenere. Potrebbero non volerci trecento anni; forse, sarete entrambi cenere tra trenta o cinquant’anni. All’improvviso, vi rendete conto di quanto sia sciocco essere arrabbiati e litigare. La vita è così preziosa.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:5ba91b5e-e918-4c7a-8037-c48d8211c86c</dc:identifier>
+        <dc:date>2024-02-17T01:46:31Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/e9788811011019_c0007.xhtml#point(/1/4/2/34/3:261)" end="OEBPS/Text/e9788811011019_c0007.xhtml#point(/1/4/2/36/1:3)" progress="0.576">
+                <text>vi spingerà a non aspettare: darete il massimo per fare la differenza, per rendere felice la persona che amate e per vivere il tipo di vita che vorreste vivere.
+			 Il </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:5135b817-2560-420b-90aa-0adf0df4aa16</dc:identifier>
+        <dc:date>2024-02-17T01:46:12Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/e9788811011019_c0007.xhtml#point(/1/4/2/42/1:982)" end="OEBPS/Text/e9788811011019_c0007.xhtml#point(/1/4/2/44/1/1:6)" progress="0.576">
+                <text>La vostra rabbia si è trasformata in amore.
+			 Vivere</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:b8e0f09f-9fb6-4e7f-8353-13a6e07ffd35</dc:identifier>
+        <dc:date>2024-02-17T05:00:38Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/e9788811011019_c0008.xhtml#point(/1/4/2/17:4)" end="OEBPS/Text/e9788811011019_c0008.xhtml#point(/1/4/2/19:1)" progress="0.656">
+                <text>Potremmo passare la vita a rincorrere ricchezze, posizione sociale, influenza e piaceri della carne, nell’idea che tutte queste cose miglioreranno la qualità della nostra vita. Eppure, ci riduciamo a non avere più tempo da vivere. La nostra vita diventa solo un mezzo per fare soldi e diventare «qualcuno».
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:965339fc-3b3f-4ec6-96ac-a5ae7c190e21</dc:identifier>
+        <dc:date>2024-02-17T04:59:12Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/e9788811011019_c0008.xhtml#point(/1/4/2/3:4)" end="OEBPS/Text/e9788811011019_c0008.xhtml#point(/1/4/2/5:0)" progress="0.656">
+                <text>Non appena capiamo che in questo preciso istanteabbiamo già abbastanza, e siamo già abbastanza,la vera felicità diventa possibile.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:bef2759f-5972-4dff-9f2c-173cfd5a35bf</dc:identifier>
+        <dc:date>2024-02-17T05:47:11Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/e9788811011019_c0008.xhtml#point(/1/4/2/147:4)" end="OEBPS/Text/e9788811011019_c0008.xhtml#point(/1/4/2/148/1:177)" progress="0.736">
+                <text>Ogni giorno è pieno di gesti miracolosi: camminiamo, respiriamo, facciamo colazione e usiamo il bagno. L’arte di vivere consiste nel saper generare felicità in ogni momento.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:a75223a5-520e-4971-ab4e-5b1315fa60e5</dc:identifier>
+        <dc:date>2024-02-17T05:02:54Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/e9788811011019_c0008.xhtml#point(/1/4/2/32/1:248)" end="OEBPS/Text/e9788811011019_c0008.xhtml#point(/1/4/2/32/1:369)" progress="0.672">
+                <text>Se lavoriamo senza sosta, questo potrebbe dipendere proprio dalla paura originaria di non poter sopravvivere altrimenti. </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:d97c6b37-31fe-4b8a-9a45-811e38e482b1</dc:identifier>
+        <dc:date>2024-02-17T16:48:22Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/e9788811011019_c0009.xhtml#point(/1/4/2/26/1:296)" end="OEBPS/Text/e9788811011019_c0009.xhtml#point(/1/4/2/28/1/1:8)" progress="0.776">
+                <text>C’è addirittura chi pensa che se solo un certo partito politico fosse al potere, allora saremmo tutti felici. Ma sono soltanto idee che noi stessi abbiamo creato. Se le lasciamo andare, possiamo permetterci di toccare subito la felicità. La nostra idea di felicità può essere proprio l’ostacolo che ci impedisce di essere felici.
+			 Lasciare</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:bfd82bd5-7123-4203-b2c1-b1286ebf2396</dc:identifier>
+        <dc:date>2024-02-18T06:09:51Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/e9788811011019_c0011.xhtml#point(/1/4/2/25:4)" end="OEBPS/Text/e9788811011019_c0011.xhtml#point(/1/4/2/27:1)" progress="0.92">
+                <text>C’è bisogno di una rivoluzione, una sorta di rivoluzione gentile, di un qualche risveglio in ognuno di noi. Dobbiamo ribellarci. Dobbiamo dichiarare: «Non voglio continuare così! Questa non è vita. Non ho abbastanza tempo per vivere. Non ho abbastanza tempo per amare».
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:dbc37d76-fbb0-4c8d-b76e-aeaa0b9b9188</dc:identifier>
+        <dc:date>2024-02-18T06:11:11Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/e9788811011019_c0011.xhtml#point(/1/4/2/28/1:322)" end="OEBPS/Text/e9788811011019_c0011.xhtml#point(/1/4/2/31:1)" progress="0.92">
+                <text>Quando siamo felici, abbiamo l’energia e la forza necessarie per aiutare gli altri a fare lo stesso.
+			 Quando ci fermiamo a respirare, non stiamo certo perdendo tempo. La civiltà capitalista occidentale dice che «il tempo è denaro» e che dovremmo usare il nostro tempo per fare soldi. Non possiamo permetterci di fermarci a respirare o di goderci una passeggiata o ammirare il sole al tramonto. Non possiamo permetterci di perdere tempo. Ma il tempo è più prezioso del denaro. Il tempo è vita. Tornare al respiro e prendere coscienza di avere un corpo meraviglioso: ecco cos’è la vita.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+</annotationSet>

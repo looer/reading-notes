@@ -1,0 +1,19 @@
+
+<annotationSet xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://ns.adobe.com/digitaleditions/annotations">
+    <publication>
+        <dc:title>Finzioni</dc:title>
+        <dc:creator>Jorge Luis Borges</dc:creator>
+        <dc:description>EDGT27986</dc:description>
+        <dc:language>it</dc:language>
+    </publication>
+    <annotation>
+        <dc:identifier>urn:uuid:6254b82e-6e20-44dd-ba81-eac0f93fcb02</dc:identifier>
+        <dc:date>2025-04-04T20:13:44Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/e9788845973277_c02.html#point(/1/4/2/8/28/1:6)" end="OEBPS/Text/e9788845973277_c02.html#point(/1/4/2/8/28/1:244)" progress="0.109677">
+                <text>nelle consuetudini letterarie è onnipotente l’idea di un soggetto unico. È raro che i libri siano firmati. Non esiste il concetto di plagio: si è stabilito che tutte le opere sono opera di un solo autore, che è atemporale e anonimo.</text>
+            </fragment>
+        </target>
+    </annotation>
+</annotationSet>

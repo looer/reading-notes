@@ -1,0 +1,92 @@
+
+<annotationSet xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://ns.adobe.com/digitaleditions/annotations">
+    <publication>
+        <dc:identifier>9780063088887</dc:identifier>
+        <dc:title>Burn the Boats</dc:title>
+        <dc:creator>Matt Higgins</dc:creator>
+        <dc:description>&lt;p&gt;&lt;strong&gt;*A WALL STREET JOURNAL BESTSELLER!*&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;In this gripping rags-to-riches instant classic, Matt Higgins provides the blueprint he used to go from a desperate sixteen-year-old high school dropout caring for his sick mother in Queens, New York, to a shark on Shark Tank and the faculty of Harvard Business School. Told with raw emotion and radical transparency, Higgins writes the definitive tome on the oldest life hack in history: burn the boats. &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;From Sun Tzu to Julius Caesar, the ancient Israelites to Ukrainian President Volodymyr Zelensky, there's a bold and highly effective tactic seen throughout history&amp;#8212;when leaders want to motivate their troops for success, they destroy all opportunities for retreat, and&lt;strong&gt; &lt;/strong&gt;fully commit to the mission. They burn their boats; it's win or perish, and the clarity of sheer desperation propels them to victory.&lt;/p&gt;&lt;p&gt;But the conviction of crisis decision-making can also be harnessed in...</dc:description>
+        <dc:language>en-US</dc:language>
+    </publication>
+    <annotation>
+        <dc:identifier>urn:uuid:05141a34-7abd-4366-b764-949e22bdf023</dc:identifier>
+        <dc:date>2024-08-13T10:40:27Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="Introduction.xhtml#point(/1/4/2/34/1:175)" end="Introduction.xhtml#point(/1/4/2/34/1:512)" progress="0.0414938">
+                <text>“In ancient times,” writes Rabbi Naphtali Hoff, “Israelite armies would besiege enemy cities
+            from three sides only, leaving open the possibility of flight . . . They understood that so long as the enemy saw that they
+            had an escape route available, they would not fight with utmost earnestness and energy.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:cd7c51a1-6818-405d-9b15-60db8ea81f8c</dc:identifier>
+        <dc:date>2024-08-11T17:08:20Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="Introduction.xhtml#point(/1/4/2/35:20)" end="Introduction.xhtml#point(/1/4/2/36/5:110)" progress="0.0414938">
+                <text>Sun Tzu, the great Chinese general, military strategist, writer, and philosopher, echoes the same point. “The leader of an
+            army . . .” he wrote in his classic guide to military strategy, The Art of War, “carries his men deep into hostile territory before he shows his hand. He burns his boats and breaks his cooking pots.”2 He gives his men no option to return, and the only way they will eat again is to eat the food of their enemy.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:c7ec65f4-f105-4ef6-b5f2-f78d5409a486</dc:identifier>
+        <dc:date>2024-08-11T17:03:54Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="Introduction.xhtml#point(/1/4/2/16/5:71)" end="Introduction.xhtml#point(/1/4/2/16/5:207)" progress="0.033195">
+                <text>Greatness doesn’t emerge from hedging, hesitating, or submitting
+            to the naysayers that skulk in every corner of our lives.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:7d3199eb-7739-4dda-a991-95ff5ed6c6d4</dc:identifier>
+        <dc:date>2024-08-13T10:46:27Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="Introduction.xhtml#point(/1/4/2/53:19)" end="Introduction.xhtml#point(/1/4/2/57:1)" progress="0.0497925">
+                <text>  I see this same pattern in every business I invest in, and in every successful person I know. They understand that it’s all
+            on them, and that it doesn’t matter what other people do or even what they think. I’ll talk in the chapters ahead about how
+            important it is to trust your instincts and act. I’ve seen hesitation kill more dreams than speed ever will. And when you
+            hesitate, or when you hedge, or when you divide your attention between your goal and the safety net you think you need to
+            build, it all just begs the question: What are you waiting for?
+         
+         
+          *  *  *
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:0b810cc4-c738-4946-9a6f-ceea736abdd0</dc:identifier>
+        <dc:date>2024-08-11T17:03:00Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="Introduction.xhtml#point(/1/4/2/13:20)" end="Introduction.xhtml#point(/1/4/2/14/1:237)" progress="0.0290456">
+                <text>To accomplish something great, you have to give yourself no escape route, no chance to ever turn back. You throw away your backup plans and you push forward, no longer bogged down by the infinite ways in which we hedge our own successes.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:5616a013-612e-43fb-89c7-b18d14895a4b</dc:identifier>
+        <dc:date>2024-08-11T17:06:59Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="Introduction.xhtml#point(/1/4/2/30/3:105)" end="Introduction.xhtml#point(/1/4/2/31:0)" progress="0.0373444">
+                <text>. My philosophy informed my trust that the failure of Omnichannel would lead to something better, and I continued to press on in search of more freedom and more autonomy. I gave up my role with the Dolphins and I resigned from a number of boards, opening up opportunities to continue to burn the boats and seek even greater reward. </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:ca28c22f-9bc2-44df-a093-4d0d04223105</dc:identifier>
+        <dc:date>2024-12-16T22:17:28Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="Chapter_1_Trust_Your_Inst.xhtml#point(/1/4/2/45:20)" end="Chapter_1_Trust_Your_Inst.xhtml#point(/1/4/2/46/5:84)" progress="0.0746888">
+                <text>As Ralph Waldo Emerson wrote in his 1841 essay, “Self-Reliance” (a work that I return to again and again for inspiration), “A man should learn to detect and watch that gleam of light which flashes across his mind from within, more than the lustre of the firmament of bards and sages. Yet he dismisses without notice his thought, because it is his.</text>
+            </fragment>
+        </target>
+    </annotation>
+</annotationSet>

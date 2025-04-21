@@ -1,0 +1,20 @@
+
+<annotationSet xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://ns.adobe.com/digitaleditions/annotations">
+    <publication>
+        <dc:identifier>9788845901607</dc:identifier>
+        <dc:title>101 storie Zen</dc:title>
+        <dc:creator>Nyogen Senzaki</dc:creator>
+        <dc:description>«Lo Zen non è una setta ma un’esperienza». Da questa esperienza, che ha al suo centro la nozione di satori, &quot;illuminazione&quot;, è nata una letteratura immensa, dalle numerose ramificazioni, a partire dal sesto secolo in Cina (sotto il nome di Ch’an) e a partire dal dodicesimo secolo fino ai nostri giorni in Giappone (sotto il nome di Zen). Ciò che in Occidente ha finito per presentarsi spesso come moda banale è dunque una ricchissima tradizione religiosa, senza la quale è impensabile una grande parte della filosofia, della letteratura e dell’arte estremo-orientali. Per avvicinarsi a questo intricato complesso poche introduzioni sono altrettanto giuste nel tono, svelte e amabili come questa raccolta di storie Zen curata da Nyogen Senzaki e Paul Reps. Il lettore vi troverà una scelta dalla &quot;Raccolta di pietre e di sabbia&quot; di Muju, maestro giapponese del tredicesimo secolo, e da altri testi classici Zen, sino alla fine del secolo diciannovesimo. Con sobrietà e grazia Senzaki e Reps hanno saputo presentare in rapidi tratti apologhi capitali o ignoti, intrecciandoli con felice precisione, in modo che il lettore possa entrare in contatto immediato con le grandi questioni (e con le grandi soluzioni) dello Zen, contatto che troverebbe ben più difficilmente affidandosi a ponderosi manuali, contrari già nella loro costruzione allo spirito Zen – per eccellenza imprendibile e paradossale, irridente verso ogni sapienza soddisfatta, spesso nascosto dietro gli schermi del vuoto e del non sapere.</dc:description>
+        <dc:language>it</dc:language>
+    </publication>
+    <annotation>
+        <dc:identifier>urn:uuid:2396717f-6b21-4f2b-8d40-51393487fcb9</dc:identifier>
+        <dc:date>2024-05-22T00:02:20Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/Section0005.xhtml#point(/1/4/40/1:121)" end="OEBPS/Text/Section0005.xhtml#point(/1/4/41:0)" progress="0.333333">
+                <text>Non appena vai a letto, dormi come se quello fosse il tuo ultimo sonno. Non appena ti svegli, lascia subito il letto dietro di te come se avessi gettato via un paio di scarpe vecchie.</text>
+            </fragment>
+        </target>
+    </annotation>
+</annotationSet>

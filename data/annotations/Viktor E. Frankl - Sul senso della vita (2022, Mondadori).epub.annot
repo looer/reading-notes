@@ -1,0 +1,283 @@
+
+<annotationSet xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://ns.adobe.com/digitaleditions/annotations">
+    <publication>
+        <dc:title>Sul senso della vita</dc:title>
+        <dc:creator>Viktor E. Frankl</dc:creator>
+        <dc:description>EDGT2069422</dc:description>
+        <dc:language>it-IT</dc:language>
+    </publication>
+    <annotation>
+        <dc:identifier>urn:uuid:ab21b96b-7680-498e-9b1c-58091c3dff3e</dc:identifier>
+        <dc:date>2023-03-12T00:07:23Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/p004_introduzione.xhtml#point(/1/4/4/112/1:2)" end="OEBPS/Text/p004_introduzione.xhtml#point(/1/4/4/112/1:85)" progress="0.197674">
+                <text>Chi ha un perché per vivere, sopporta quasi ogni come» aveva affermato Nietzsche.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:df984c2f-b617-4975-ad19-e9f71693a904</dc:identifier>
+        <dc:date>2023-03-11T23:59:32Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/p004_introduzione.xhtml#point(/1/4/4/62/1:226)" end="OEBPS/Text/p004_introduzione.xhtml#point(/1/4/4/64:0)" progress="0.139535">
+                <text>La proposta di Frankl consisteva, piuttosto che nel solo cercare la felicità, nella ricerca di un senso e di uno scopo in ciò che la vita ci offre.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:c9b2c23b-0c07-4d1f-af25-f07267572f04</dc:identifier>
+        <dc:date>2023-03-11T23:59:44Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/p004_introduzione.xhtml#point(/1/4/4/64/1:8)" end="OEBPS/Text/p004_introduzione.xhtml#point(/1/4/4/64/1:103)" progress="0.139535">
+                <text>la felicità non può costituire un obiettivo; non sono i piaceri a dare significato alla vita.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:80859038-2052-4cc5-b3d3-290662113618</dc:identifier>
+        <dc:date>2023-03-12T00:01:24Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/p004_introduzione.xhtml#point(/1/4/4/67:1)" end="OEBPS/Text/p004_introduzione.xhtml#point(/1/4/4/70:0)" progress="0.151163">
+                <text>Frankl distingue tre modi principali per realizzare il significato della propria vita. In primo luogo c’è l’azione, per esempio la creazione di un’opera, che si tratti di un’opera d’arte o di un lavoro fatto per il puro piacere di farlo, qualcosa insomma che ci sopravviva e continui ad avere un impatto. In secondo luogo, è possibile trovare significato nell’apprezzamento della natura, dell’arte o, semplicemente, nell’amare le persone; Frankl cita Kierkegaard, secondo il quale la porta per la felicità si apre sempre verso l’esterno. In terzo luogo abbiamo il modo in cui un individuo si adatta e reagisce ai limiti inevitabili delle proprie possibilità esistenziali, per esempio di fronte alla morte o nel sopportare un destino terribile come quello dei campi di concentramento. In sintesi, le nostre vite acquistano significato attraverso le azioni, attraverso l’amore e attraverso la sofferenza.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:c8e986c7-6048-4a2e-84dc-5a72810e7a3f</dc:identifier>
+        <dc:date>2023-03-12T00:06:55Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/p004_introduzione.xhtml#point(/1/4/4/109:1)" end="OEBPS/Text/p004_introduzione.xhtml#point(/1/4/4/110/1:193)" progress="0.197674">
+                <text>Ma il suicidio, affermava Frankl, rappresenta l’acme della mancanza di senso: «il suicidio non è mai in grado di risolvere un problema», né di rispondere alla domanda che la vita ci pone.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:256adcee-118d-4c91-8685-939858999e24</dc:identifier>
+        <dc:date>2023-03-17T23:23:47Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/p006_capitolo-01.xhtml#point(/1/4/4/94/1:43)" end="OEBPS/Text/p006_capitolo-01.xhtml#point(/1/4/4/94/1:656)" progress="0.395349">
+                <text>: la morte è una parte significativa della vita, proprio come la sofferenza umana. Ambedue non rendono l’esistenza dell’uomo priva di senso, bensì sono proprio loro a conferirle significato. È proprio l’irripetibilità della nostra esistenza nel mondo, la transitorietà della nostra vita, l’irrevocabilità di tutto ciò con cui la riempiamo, o la lasciamo irrealizzata, è tutto questo a rendere la nostra esistenza carica di significato. Ma non è solo l’irripetibilità della singola vita intesa come un tutto a darle rilievo: è anche l’unicità di ogni giorno, di ogni ora, di ogni istante a </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:7337d3de-7d53-43ed-9e63-67813e7a1618</dc:identifier>
+        <dc:date>2023-03-13T08:18:36Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/p006_capitolo-01.xhtml#point(/1/4/4/52/1:184)" end="OEBPS/Text/p006_capitolo-01.xhtml#point(/1/4/4/52/1:990)" progress="0.313953">
+                <text>vita, ma è la vita stessa che le rivolge a noi, è lei a interrogarci! E siamo noi quelli tenuti a rispondere, a dover fornire una risposta all’interrogativo che la vita ci pone costantemente, alle «questioni vitali». La vita stessa non è altro che un essere-interrogati, tutto il nostro essere non è altro che un rispondere alla – o un rispondere della – vita, un esserne responsabili. Assumendo una posizione del genere, però, più nulla può spaventarci, nessun futuro, nessuna apparente mancanza di futuro. Ora, infatti, il presente è tutto, poiché racchiude l’interrogativo eternamente nuovo che la vita ci rivolge. Ora tutto dipende da cosa ci si aspetta da noi. Quello che ci riserva il futuro, invece, non abbiamo bisogno di saperlo, non più di quanto siamo in grado di conoscerlo.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:8c542637-9092-477c-a285-7b40926f29c0</dc:identifier>
+        <dc:date>2023-03-13T08:23:02Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/p006_capitolo-01.xhtml#point(/1/4/4/58/1:1312)" end="OEBPS/Text/p006_capitolo-01.xhtml#point(/1/4/4/58/1:1646)" progress="0.337209">
+                <text>ogni singolo essere umano è indispensabile e insostituibile. I compiti impostigli dalla vita sono solo i suoi, ed è solo a lui che è richiesto di assolverli. La vita di un uomo che non abbia soddisfatto fino in fondo il suo ambito relativamente ampio resta meno compiuta rispetto a chi soddisfi davvero il suo ambito più limitato.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:22aab9e0-2e7a-4ccc-bd4c-9415bc0e1e73</dc:identifier>
+        <dc:date>2023-03-12T00:10:49Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/p006_capitolo-01.xhtml#point(/1/4/4/6/1:346)" end="OEBPS/Text/p006_capitolo-01.xhtml#point(/1/4/4/6/5:246)" progress="0.232558">
+                <text>nel sistema economico degli ultimi decenni, però, la maggior parte dei lavoratori è stata umiliata e ridotta a mero strumento della vita economica. Non era più il lavoro a costituire un mezzo per raggiungere un fine, un mezzo per vivere o per alimentare la propria vita; piuttosto, erano l’uomo e la sua vita, la sua forza </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:ad090b2d-8048-4db4-a106-7ca2f38b0234</dc:identifier>
+        <dc:date>2023-03-17T23:17:57Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/p006_capitolo-01.xhtml#point(/1/4/4/82/1:799)" end="OEBPS/Text/p006_capitolo-01.xhtml#point(/1/4/4/84:0)" progress="0.372093">
+                <text>essere uomini non è altro che essere consapevoli e responsabili!
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:c9698f5f-50b8-479d-80c8-e439ecb3d9f0</dc:identifier>
+        <dc:date>2023-03-17T23:21:24Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/p006_capitolo-01.xhtml#point(/1/4/4/90/1:914)" end="OEBPS/Text/p006_capitolo-01.xhtml#point(/1/4/4/92:0)" progress="0.383721">
+                <text>Per il fatto e solo per il fatto che siamo mortali, che la nostra vita ha un termine finito, che il nostro tempo e le nostre possibilità sono limitati, solo questo ce la fa apparire significativa: intraprendere qualcosa, sfruttare e concretizzare un’opportunità, realizzarla, usare appieno il tempo. La morte significa essere costretti a farlo. Ed è proprio la morte a creare lo sfondo sul quale il nostro essere è appunto un essere-responsabili.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:93f5bddc-21ad-4dd8-9800-d7b55a91db26</dc:identifier>
+        <dc:date>2023-03-13T08:13:35Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/p006_capitolo-01.xhtml#point(/1/4/4/44/1:1)" end="OEBPS/Text/p006_capitolo-01.xhtml#point(/1/4/4/45:0)" progress="0.302326">
+                <text>Dormii e sognai
+ che la vita era gioia.
+ Mi svegliai e vidi
+ che la vita era dovere.
+ Lavorai ed ecco
+ che il dovere era gioia.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:2b37433d-cbc9-4f59-8272-3de780e5f76f</dc:identifier>
+        <dc:date>2023-03-12T00:10:32Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/p006_capitolo-01.xhtml#point(/1/4/4/6/1:229)" end="OEBPS/Text/p006_capitolo-01.xhtml#point(/1/4/4/6/1:340)" progress="0.232558">
+                <text>uomo ha la sua dignità – un essere umano non dovrebbe mai diventare solo un mezzo per raggiungere uno scopo.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:ac917f6b-79e6-46ca-9371-2daf5cab46ee</dc:identifier>
+        <dc:date>2023-03-17T23:18:26Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/p006_capitolo-01.xhtml#point(/1/4/4/82/1:521)" end="OEBPS/Text/p006_capitolo-01.xhtml#point(/1/4/4/82/1:693)" progress="0.372093">
+                <text>finché respira, finché è ancora dotato di consapevolezza, l’essere umano ha la responsabilità di rispondere agli interrogativi che la vita di volta in volta gli pone.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:6f66e2e6-db29-47ca-a0bf-338147c0359c</dc:identifier>
+        <dc:date>2023-03-17T23:15:12Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/p006_capitolo-01.xhtml#point(/1/4/4/68/1:285)" end="OEBPS/Text/p006_capitolo-01.xhtml#point(/1/4/4/70:0)" progress="0.348837">
+                <text>il solo fatto che tale persona esista dà senso al mondo, e a una vita al suo interno.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:d8647623-bfa0-4fe6-9e45-0a6d140dbd27</dc:identifier>
+        <dc:date>2023-03-17T23:22:07Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/p006_capitolo-01.xhtml#point(/1/4/4/92/1:42)" end="OEBPS/Text/p006_capitolo-01.xhtml#point(/1/4/4/92/1:386)" progress="0.383721">
+                <text>, la durata di una vita umana ci si rivela sostanzialmente irrilevante. Una vita lunga non è per forza significativa, così come una vita breve non è necessariamente priva di significato. Non giudichiamo certo la biografia di un individuo concreto dal numero di pagine del libro che la racchiude, bensì solo dalla sua ricchezza di contenuti.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:24418ae8-5692-4936-93c8-15e249700687</dc:identifier>
+        <dc:date>2023-03-13T08:14:46Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/p006_capitolo-01.xhtml#point(/1/4/4/50/1:678)" end="OEBPS/Text/p006_capitolo-01.xhtml#point(/1/4/4/52:0)" progress="0.313953">
+                <text>domanda non è più «Cosa devo aspettarmi dalla vita?», bensì «Cosa si aspetta la vita da me?». Quale compito mi aspetta nella vita?
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:444fd9cc-3ebe-4b8a-bd46-335df7557c96</dc:identifier>
+        <dc:date>2023-03-13T08:22:24Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/p006_capitolo-01.xhtml#point(/1/4/4/58/1:902)" end="OEBPS/Text/p006_capitolo-01.xhtml#point(/1/4/4/58/1:1249)" progress="0.325581">
+                <text>uomo dimenticava che il punto, nella vita, non è mai e poi mai la posizione in cui uno si trova, per esempio quale professione esercita, bensì soltanto il modo in cui occupa il suo posto, il suo ambito; l’importante non è l’ampiezza del raggio d’azione, ma piuttosto che i propri compiti vengano assolti, che la vita venga «adempiuta». </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:2e00c88f-7f3a-440d-aa59-cc7f9f137fdb</dc:identifier>
+        <dc:date>2023-03-13T08:12:46Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/p006_capitolo-01.xhtml#point(/1/4/4/40/1:252)" end="OEBPS/Text/p006_capitolo-01.xhtml#point(/1/4/4/41:0)" progress="0.302326">
+                <text>Il piacere, in sé, non è nulla che possa conferire significato all’esistenza; e dunque l’assenza di piacere non è in grado – lo vediamo già adesso – di privare di significato la vita.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:07dcedbe-dc2c-47ac-b8a5-2b181effaf61</dc:identifier>
+        <dc:date>2023-03-13T08:23:20Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/p006_capitolo-01.xhtml#point(/1/4/4/60/1:18)" end="OEBPS/Text/p006_capitolo-01.xhtml#point(/1/4/4/60/3:167)" progress="0.337209">
+                <text>ma allora come la mettiamo, per esempio, con i disoccupati?, dimenticando che la professione non è l’unico campo in cui si può dare attivamente significato alla propria esistenza. È solo il lavoro a dare senso alla vita?</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:ea31b710-5d8a-432a-ad59-22a43c80f86c</dc:identifier>
+        <dc:date>2023-03-19T12:53:53Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/p006_capitolo-01.xhtml#point(/1/4/4/96/1:7)" end="OEBPS/Text/p006_capitolo-01.xhtml#point(/1/4/4/96/1:138)" progress="0.395349">
+                <text>dal punto di vista biologico e fisico, la nostra vita è per sua natura transitoria. Nulla sopravvive – eppure, quanto ne rimane!</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:f123ac88-82d9-48c7-bbd3-e75d6047fc91</dc:identifier>
+        <dc:date>2023-03-19T12:55:11Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/p006_capitolo-01.xhtml#point(/1/4/4/96/1:523)" end="OEBPS/Text/p006_capitolo-01.xhtml#point(/1/4/4/98:0)" progress="0.406977">
+                <text>si trasforma progressivamente in energia che viene emanata e non torna più allo stato precedente. Ciò che noi «irradiamo» nel mondo, le «onde» che emanano dal nostro essere: ecco che cosa resterà di noi, quando il nostro essere se ne sarà andato da tempo.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:bf7fc32a-4156-4a89-963f-db8592f7c89c</dc:identifier>
+        <dc:date>2023-03-19T13:18:30Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/p006_capitolo-01.xhtml#point(/1/4/4/106/1:493)" end="OEBPS/Text/p006_capitolo-01.xhtml#point(/1/4/4/106/1:578)" progress="0.418605">
+                <text>Se non lo faccio io, chi lo farà? Ma se lo faccio solo per me stesso, cosa sono io? </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:a5fffd0f-b582-4f11-a900-d310d2df89e6</dc:identifier>
+        <dc:date>2023-03-19T13:19:06Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/p006_capitolo-01.xhtml#point(/1/4/4/106/1:589)" end="OEBPS/Text/p006_capitolo-01.xhtml#point(/1/4/4/107:0)" progress="0.430233">
+                <text> faccio ora, quando lo farò?». «Se non io…»: qui dentro c’è tutta l’unicità di ogni singola persona; «se per me…»: qui dentro c’è la mancanza di valore e di significato di tale unicità, se essa non diventa servizio; «e se non ora…»: qui dentro c’è l’irripetibilità di ogni singola situazione!</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:b58a8939-f35a-4aa8-adf1-3c964dbb5e1b</dc:identifier>
+        <dc:date>2023-03-19T13:20:21Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/p006_capitolo-01.xhtml#point(/1/4/4/110/1:200)" end="OEBPS/Text/p006_capitolo-01.xhtml#point(/1/4/4/111:0)" progress="0.430233">
+                <text>La vita non è qualcosa, è l’occasione per qualcosa!».</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:dabf350a-a811-42cc-9859-42c185eebf2e</dc:identifier>
+        <dc:date>2023-03-19T23:29:27Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/p007_capitolo-02.xhtml#point(/1/4/4/2/1:100)" end="OEBPS/Text/p007_capitolo-02.xhtml#point(/1/4/4/4:0)" progress="0.44186">
+                <text>: se la vita ha un significato, allora deve averlo anche la sofferenza.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+</annotationSet>

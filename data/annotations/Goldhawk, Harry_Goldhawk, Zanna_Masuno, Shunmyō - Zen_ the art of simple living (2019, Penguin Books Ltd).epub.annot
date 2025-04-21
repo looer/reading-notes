@@ -1,0 +1,32 @@
+
+<annotationSet xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://ns.adobe.com/digitaleditions/annotations">
+    <publication>
+        <dc:identifier>isbn:9780241371862</dc:identifier>
+        <dc:title>Zen</dc:title>
+        <dc:creator>Shunmyo Masuno</dc:creator>
+        <dc:description>&lt;p&gt;&lt;b&gt;'Does for mental clutter what Marie Kondo has done for household clutter' &lt;/b&gt;&lt;i&gt;Publisher's Weekly&lt;/i&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;A beautifully illustrated guide to slowing down, finding true happiness and feeling calm, by Zen Buddhist monk Shunmyo Masuno. &lt;/b&gt;&lt;br&gt;_________&lt;/p&gt;&lt;p&gt;&lt;i&gt;Zen is the perfect antidote to the chaos of modern life . . . &lt;/i&gt;&lt;/p&gt;&lt;p&gt;In clear, practical and easy to follow lessons - one a day for 100 days - renowned Buddhist monk Shunmyo Masuno draws on centuries of wisdom to show you how to apply the essence of Zen to modern life. &lt;/p&gt;&lt;p&gt;You will learn how to exhale deeply to eliminate negative emotions, to arrange your house simply to clear your thinking, to line up your shoes at night to bring order to your mind, to plant a single flower and watch it grow, to worry less about what you cannot control, and so much more . . .&lt;br&gt;&lt;i&gt;&lt;/i&gt;&lt;br&gt;&lt;i&gt;You will even make time to think about nothing at all.&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Simplify your life with the art of Zen, and learn how to feel more...</dc:description>
+        <dc:language>en</dc:language>
+    </publication>
+    <annotation>
+        <dc:identifier>urn:uuid:edd911ce-9995-4312-8165-58e18fcfa3ec</dc:identifier>
+        <dc:date>2025-04-08T03:22:11Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="EPUB/xhtml/chapter002.xhtml#point(/1/4/2/17:1)" end="EPUB/xhtml/chapter002.xhtml#point(/1/4/2/20:0)" progress="0.0798122">
+                <text>We are busy because there is no room in our heart.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:c6e852b9-f084-4a91-bcd0-a63ceb328cff</dc:identifier>
+        <dc:date>2025-04-08T03:22:23Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="EPUB/xhtml/chapter002.xhtml#point(/1/4/2/13:1)" end="EPUB/xhtml/chapter002.xhtml#point(/1/4/2/17:0)" progress="0.0798122">
+                <text>In Japanese, the character for ‘busy’ is written with the symbols for ‘lose’ and ‘heart’.
+ It’s not that we are busy because there isn’t enough time.</text>
+            </fragment>
+        </target>
+    </annotation>
+</annotationSet>

@@ -1,75 +1,44 @@
-# Nuxt Minimal Starter
+# Reading Notes
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+A simple application to manage and display book annotations.
+
+## Why
+
+I love reading books. I own a kobo and have many epub books. I usually highlight passages that I like but until now it has not being easy to consult them.
+
+This is a simple app to read book annotations.
+
+## Features
+- Parse and display book annotations
+- Sort annotations by date
+- Clean and simple interface
 
 ## Setup
 
-Make sure to install dependencies:
-
+1. Clone the repository:
 ```bash
-# npm
+git clone https://github.com/looer/reading-notes.git
+cd reading-notes
+```
+
+2. Install dependencies:
+```bash
 npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
 ```
 
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
+3. Run the development server:
 ```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
+npm start
 ```
 
-## Production
+## Using Your Own Annotations
 
-Build the application for production:
+Replace the annotations in the `data/annotations` directory
 
-```bash
-# npm
-npm run build
+## Sample Data
+The `data/annotations` directory contains my annotations to demonstrate the application's functionality.
 
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+## Project Structure
+- `app/`: Application source code
+- `data/`: Annotation files
+  - `annotations/`: Your annotations 

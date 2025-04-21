@@ -1,0 +1,586 @@
+
+<annotationSet xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://ns.adobe.com/digitaleditions/annotations">
+    <publication>
+        <dc:identifier>9781440632464</dc:identifier>
+        <dc:title>How to Get Rich</dc:title>
+        <dc:creator>Felix Dennis</dc:creator>
+        <dc:description>&lt;p&gt;Felix Dennis is an expert at proving people wrong. Starting as a college dropout with no family money, he created a publishing empire, founded &lt;I&gt;Maxim&lt;/I&gt; magazine, made himself one of the richest people in the UK, and had a blast in the process.&lt;p&gt;&lt;I&gt;How to Get Rich&lt;/I&gt; is different from any other book on the subject because Dennis isn't selling snake oil, investment tips, or motivational claptrap. He merely wants to help people embrace entrepreneurship, and to share lessons he learned the hard way. He reveals, for example, why a regular paycheck is like crack cocaine; why great ideas are vastly overrated; and why &quot;ownership isn't the important thing, it's the only thing.&quot;</dc:description>
+        <dc:language>en</dc:language>
+    </publication>
+    <annotation>
+        <dc:identifier>urn:uuid:9dad9b5f-b067-4857-9462-dc80e0b0418d</dc:identifier>
+        <dc:date>2023-04-25T20:43:23Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/denn_9781591842057_oeb_c01_r1.html#point(/1/4/82/1:306)" end="OEBPS/denn_9781591842057_oeb_c01_r1.html#point(/1/4/84/1:111)" progress="0.126761">
+                <text>They have “an idea.” (See Chapter 5: The Fallacy of the Great Idea.)
+ Yet they hesitate. They fear losing what they have already achieved more than they desire to enrich themselves.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:a30fc71c-b9c8-4a49-8a1a-43669212c6d1</dc:identifier>
+        <dc:date>2023-04-25T20:43:45Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/denn_9781591842057_oeb_c01_r1.html#point(/1/4/86/1:273)" end="OEBPS/denn_9781591842057_oeb_c01_r1.html#point(/1/4/87:0)" progress="0.126761">
+                <text>they fear losing what they have already gained—challenging work, congenial colleagues, a certain status and the promise of promotion and pay raises.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:e54b1cf3-e9db-4c7d-8c27-2ab956e5457d</dc:identifier>
+        <dc:date>2023-04-25T20:44:39Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/denn_9781591842057_oeb_c01_r1.html#point(/1/4/88/1:97)" end="OEBPS/denn_9781591842057_oeb_c01_r1.html#point(/1/4/90/1:75)" progress="0.130282">
+                <text>But fear holds them back, with the exception of those rare individuals who are content with their lot.
+ And what is fear? “Fear is the little death, death by a thousand cuts,”</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:b0dfd85c-916d-4df3-b581-f8c5173be6e8</dc:identifier>
+        <dc:date>2023-04-25T20:47:09Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/denn_9781591842057_oeb_c01_r1.html#point(/1/4/99:1)" end="OEBPS/denn_9781591842057_oeb_c01_r1.html#point(/1/4/101:0)" progress="0.130282">
+                <text>Secondly, it’s win-win. If they fail, they may well return to our company, especially if they remember that my senior colleagues and I sincerely wished them success in their new venture. Thus, if they fail, the company will be enhanced by their return. While if they should succeed—then we will be all richer for having an old alumnus as a friendly rival in the industry, rather than having created an enemy who wishes us anything but well.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:13d1ab8b-cdb8-495b-a043-ec7a84baa290</dc:identifier>
+        <dc:date>2023-04-25T20:35:23Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/denn_9781591842057_oeb_c01_r1.html#point(/1/4/65:1)" end="OEBPS/denn_9781591842057_oeb_c01_r1.html#point(/1/4/69:0)" progress="0.123239">
+                <text>The way will most likely be hard, your failures many. It will be fun and it will get a little hairy, even scary, at times. But the earlier you start and the more risks you are prepared to run, tempered by listening hard and choosing the right mountain (we’ll come to that later), the more certain it is that, sooner or later, you will find yourself with a small success on your hands.
+ And one success, with luck, will lead to another.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:9ba78e07-7774-4132-8fc5-cea7b8f2cdc0</dc:identifier>
+        <dc:date>2023-04-25T21:31:35Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/denn_9781591842057_oeb_c02_r1.html#point(/1/4/56/5:155)" end="OEBPS/denn_9781591842057_oeb_c02_r1.html#point(/1/4/58/3:14)" progress="0.158451">
+                <text>
+ It’s no excuse, but making money is a drug. Not the money itself. The making of the money.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:2e0871a6-2368-477e-828e-0ea6f7f55690</dc:identifier>
+        <dc:date>2023-04-25T21:33:48Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/denn_9781591842057_oeb_c03_r1.html#point(/1/4/20/1:25)" end="OEBPS/denn_9781591842057_oeb_c03_r1.html#point(/1/4/22:0)" progress="0.169014">
+                <text>Once begun—the job’s half done.” Because taking that first, irrevocable step has proved to be the most difficult part of nearly every venture I have been involved in.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:76d84ab1-4b45-46fd-88b3-27f801f050fa</dc:identifier>
+        <dc:date>2023-04-25T21:38:17Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/denn_9781591842057_oeb_c03_r1.html#point(/1/4/68/1:57)" end="OEBPS/denn_9781591842057_oeb_c03_r1.html#point(/1/4/68/1:137)" progress="0.179577">
+                <text>Firstly, letting others or yourself down and the consequent financial calamity. </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:a189c006-4172-4f12-8ccf-4c0cd38ec59e</dc:identifier>
+        <dc:date>2023-04-25T21:35:15Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/denn_9781591842057_oeb_c03_r1.html#point(/1/4/38/1:277)" end="OEBPS/denn_9781591842057_oeb_c03_r1.html#point(/1/4/38/1:365)" progress="0.172535">
+                <text>“A committee is a group of the unwilling, chosen from the unfit to do the unnecessary.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:b34fbf61-9f6a-46d9-abf6-5bf511bb8f0c</dc:identifier>
+        <dc:date>2023-04-26T22:02:18Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/denn_9781591842057_oeb_c03_r1.html#point(/1/4/132/13/1:4)" end="OEBPS/denn_9781591842057_oeb_c03_r1.html#point(/1/4/134:0)" progress="0.200704">
+                <text>If you cannot face up to your fear of failure, you will never be rich.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:86238ff4-1b14-4b8e-8f75-9d3a99e59067</dc:identifier>
+        <dc:date>2023-04-26T22:01:59Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/denn_9781591842057_oeb_c03_r1.html#point(/1/4/132/6/1:4)" end="OEBPS/denn_9781591842057_oeb_c03_r1.html#point(/1/4/132/9:0)" progress="0.197183">
+                <text>If you are unwilling to fail, sometimes publicly, and even catastrophically, you stand very little chance of ever getting rich. • If you care what the neighbors think, you will never get rich. • If you cannot bear the thought of causing worry to your family, spouse or lover while you plow a lonely, dangerous road rather than taking the safe option of a regular job, you will never get rich.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:866180fe-2886-4111-ae65-b88a0f9e8d7b</dc:identifier>
+        <dc:date>2023-04-26T22:02:07Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/denn_9781591842057_oeb_c03_r1.html#point(/1/4/132/11/1:4)" end="OEBPS/denn_9781591842057_oeb_c03_r1.html#point(/1/4/132/13:0)" progress="0.197183">
+                <text>If you cannot convince yourself that you are “good enough” to be rich, you will never get rich. • If you cannot treat your quest to get rich as a game, you will never be rich.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:23e9a5c0-6848-4b90-a314-d6e43735bc60</dc:identifier>
+        <dc:date>2023-04-25T21:33:54Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/denn_9781591842057_oeb_c03_r1.html#point(/1/4/22/1:60)" end="OEBPS/denn_9781591842057_oeb_c03_r1.html#point(/1/4/25:0)" progress="0.169014">
+                <text>Ralph Waldo Emerson:
+ No matter how much faculty of idle seeing a man has, the step from knowing to doing is rarely taken.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:7f530bfd-4446-4109-83d1-af16d4588d9d</dc:identifier>
+        <dc:date>2023-04-26T22:10:39Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/denn_9781591842057_oeb_c04_r1.html#point(/1/4/69:1)" end="OEBPS/denn_9781591842057_oeb_c04_r1.html#point(/1/4/74:0)" progress="0.214789">
+                <text>Working for others is a reconnaissance expedition; a means and not an end in itself. It is an apprenticeship and not a goal.
+ You should have no long-term, or even medium-term, requirements of the first two or three companies you work for. Promotion is always welcome and brings with it the opportunity to learn more, but you are there to ensure that you take every opportunity to suck out the marrow of what you need to know, to understand it and place it within a greater context for a future purpose. The purpose of getting rich.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:0dd93ca8-d90a-43e0-a5db-81f8f8c44787</dc:identifier>
+        <dc:date>2023-04-26T22:09:04Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/denn_9781591842057_oeb_c04_r1.html#point(/1/4/57:1)" end="OEBPS/denn_9781591842057_oeb_c04_r1.html#point(/1/4/59:0)" progress="0.211268">
+                <text>For a start, the salary begins to have an attraction and addictive-ness all of its own. A regular paycheck and crack cocaine have that in common. In addition, and more to the point, working too long for other people can blunt your desire to take risks. This last factor is crucial, because the ability to live with and embrace risk is what sets apart the financial winners and losers in the world.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:c7ca70c6-174f-4973-a1e8-da840f8a201a</dc:identifier>
+        <dc:date>2023-04-27T22:25:09Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/denn_9781591842057_oeb_c04_r1.html#point(/1/4/219:1)" end="OEBPS/denn_9781591842057_oeb_c04_r1.html#point(/1/4/221:0)" progress="0.253521">
+                <text>Their ability to take chances and to subsequently exploit initial success counted more than their inclination toward a particular industry. Their execution of a strategy trumped the subject of their obsession.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:1182fd41-e0f5-49d6-8c16-d1272aca0c98</dc:identifier>
+        <dc:date>2023-04-28T23:23:47Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/denn_9781591842057_oeb_c05_r1.html#point(/1/4/18/1:148)" end="OEBPS/denn_9781591842057_oeb_c05_r1.html#point(/1/4/18/1:237)" progress="0.264085">
+                <text>You cannot patent an idea. You can only patent your own method for implementing an idea. </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:63deab83-9af8-4688-9e90-8e82a27d1328</dc:identifier>
+        <dc:date>2023-04-28T23:23:55Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/denn_9781591842057_oeb_c05_r1.html#point(/1/4/18/1:279)" end="OEBPS/denn_9781591842057_oeb_c05_r1.html#point(/1/4/18/1:357)" progress="0.264085">
+                <text>have become rich despite never having had a single great idea in their lives. </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:beb3c61b-869e-4a1e-a31a-f48314344ea7</dc:identifier>
+        <dc:date>2023-05-01T22:41:48Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/denn_9781591842057_oeb_c07_r1.html#point(/1/4/41:1)" end="OEBPS/denn_9781591842057_oeb_c07_r1.html#point(/1/4/44:0)" progress="0.338028">
+                <text>What fueled me was the desperation of knowing that unless I found a way around my lack of capital, unless I could pour my energy into a venture of my own, I would be condemned to a life of wage slavery. There is absolutely nothing more likely to dampen the prospects of becoming rich than a nice, fat, regular salary check.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:9c564b57-5ccd-4b5f-babe-09228d421c6f</dc:identifier>
+        <dc:date>2023-06-08T20:22:31Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/denn_9781591842057_oeb_c08_r1.html#point(/1/4/279:1)" end="OEBPS/denn_9781591842057_oeb_c08_r1.html#point(/1/4/280/1:128)" progress="0.422535">
+                <text>The French impressionist Degas once said: “Everybody has talent at twenty-five. The difficult thing is to have it at fifty.”</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:eda674b6-6d44-46e2-b2e7-175876cb876f</dc:identifier>
+        <dc:date>2023-06-08T20:22:43Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/denn_9781591842057_oeb_c08_r1.html#point(/1/4/278/1:27)" end="OEBPS/denn_9781591842057_oeb_c08_r1.html#point(/1/4/280:0)" progress="0.422535">
+                <text>By the time talent is in its mid-to-late forties or early fifties, it will have become very, very expensive. Young talent can be found and underpaid for a short while, providing the work is challenging enough. Then it will be paid at the market rate. Finally, it will reach a stage where it is being paid based on past reputation alone. That is when you must part company with it.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:474ad1ba-78bf-4d46-8775-a88404846876</dc:identifier>
+        <dc:date>2023-06-03T12:23:03Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/denn_9781591842057_oeb_c08_r1.html#point(/1/4/234/1:11)" end="OEBPS/denn_9781591842057_oeb_c08_r1.html#point(/1/4/235:0)" progress="0.411972">
+                <text>to ensure that a talented individual will work for you, or will stay working with you, you need to be flexible. Money is not always the great motivator here. Talented people want a good salary, of course, but surprisingly often they are more attracted to new opportunities and challenges.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:7fcb2e40-222e-4310-9ffe-5755b214b7f5</dc:identifier>
+        <dc:date>2023-06-03T12:23:04Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/denn_9781591842057_oeb_c08_r1.html#point(/1/4/232/1:100)" end="OEBPS/denn_9781591842057_oeb_c08_r1.html#point(/1/4/232/1:177)" progress="0.411972">
+                <text>Talent is the key to sustained growth, and growth is the key to early wealth.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:dd1be709-cd0b-4156-9217-4bf8de54cb3d</dc:identifier>
+        <dc:date>2023-05-06T06:28:55Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/denn_9781591842057_oeb_c08_r1.html#point(/1/4/189:1)" end="OEBPS/denn_9781591842057_oeb_c08_r1.html#point(/1/4/190/1:34)" progress="0.40493">
+                <text>Thinking big. That’s the secret.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:7ac64969-8b74-4c40-b238-eca6ff05c7b7</dc:identifier>
+        <dc:date>2023-06-08T20:20:43Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/denn_9781591842057_oeb_c08_r1.html#point(/1/4/273:1)" end="OEBPS/denn_9781591842057_oeb_c08_r1.html#point(/1/4/274/1:46)" progress="0.419014">
+                <text>Talent is usually conscious of its own value. </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:72a73641-1638-443b-a894-f2e9b480a635</dc:identifier>
+        <dc:date>2023-06-03T12:24:34Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/denn_9781591842057_oeb_c08_r1.html#point(/1/4/271:1)" end="OEBPS/denn_9781591842057_oeb_c08_r1.html#point(/1/4/272/1:264)" progress="0.419014">
+                <text>When you come across real talent, it is sometimes worth allowing them to create the structure in which they choose to labor. In nine cases out of ten, by inviting them to take responsibility and control for a new venture, you will motivate them to do great things.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:686f5804-107d-4b79-af8b-5634597418b0</dc:identifier>
+        <dc:date>2023-05-06T06:30:04Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/denn_9781591842057_oeb_c08_r1.html#point(/1/4/191:1)" end="OEBPS/denn_9781591842057_oeb_c08_r1.html#point(/1/4/192/1:138)" progress="0.40493">
+                <text>But the corollary of thinking big is to act small. Just because you have a success or two under your belt doesn’t mean you have it made.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:c0eb3c6e-f79f-4c5b-9c15-354aced293a1</dc:identifier>
+        <dc:date>2023-06-09T06:33:31Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/denn_9781591842057_oeb_c09_r1.html#point(/1/4/96/5:217)" end="OEBPS/denn_9781591842057_oeb_c09_r1.html#point(/1/4/98/1:80)" progress="0.447183">
+                <text>If you will not  believe in yourself, then why should anyone else?
+ Without self-belief nothing can be accomplished. With it, nothing is impossible.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:a3ca9f53-89c2-4a8e-835c-c33490f2f4ea</dc:identifier>
+        <dc:date>2023-06-09T06:35:36Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/denn_9781591842057_oeb_c09_r1.html#point(/1/4/103:1)" end="OEBPS/denn_9781591842057_oeb_c09_r1.html#point(/1/4/104/5:90)" progress="0.447183">
+                <text>It is doubt multiplied by the fear of failure, unconfronted, which leads to the creation of a vicious cycle where self-belief is eroded and nothing is achieved. Doubts can and should be confronted, as should fear. This is best done in daylight, under rigorous examination.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:af10b9ec-45b3-405f-8e84-3fa53190130a</dc:identifier>
+        <dc:date>2023-06-18T07:22:42Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/denn_9781591842057_oeb_c09_r1.html#point(/1/4/269:1)" end="OEBPS/denn_9781591842057_oeb_c09_r1.html#point(/1/4/271:0)" progress="0.485915">
+                <text>That’s not because I’m a sociable chap. In fact, there’s little I like better than my own company. But when you stop listening, you stop learning. And if you stop learning, it’s time to get out of the kitchen and let someone else do the cooking.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:8ccb9925-7c2e-4034-bb0e-a0acc7aa7969</dc:identifier>
+        <dc:date>2023-06-14T09:30:59Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/denn_9781591842057_oeb_c09_r1.html#point(/1/4/249:1)" end="OEBPS/denn_9781591842057_oeb_c09_r1.html#point(/1/4/251:0)" progress="0.482394">
+                <text>One of the problems with being a start-up entrepreneur is that you tend to think of what you have created as some kind of surrogate child. It becomes your “baby,” if you’re not careful. This is dangerous and counterproductive. You are not in the egg-laying and basket-weaving or baby business. You are in the business of getting rich.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:74b9a9f7-c918-44bc-b527-72f42a2d8598</dc:identifier>
+        <dc:date>2023-06-09T05:58:56Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/denn_9781591842057_oeb_c09_r1.html#point(/1/4/70/1:24)" end="OEBPS/denn_9781591842057_oeb_c09_r1.html#point(/1/4/70/1:183)" progress="0.440141">
+                <text>Persistence is not quite as important as self-belief. I have known people who believed in themselves, who acted on that belief, got lucky quickly and got rich.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:3345aa1b-f6d0-4f0a-9b13-f9b1a442aed9</dc:identifier>
+        <dc:date>2023-06-18T07:22:48Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/denn_9781591842057_oeb_c09_r1.html#point(/1/4/271:1)" end="OEBPS/denn_9781591842057_oeb_c09_r1.html#point(/1/4/272/1:115)" progress="0.485915">
+                <text>Listening is the most powerful weapon after self-belief and persistence you can bring into play as an entrepreneur.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:8f624ab9-6093-422d-9310-3fba01359360</dc:identifier>
+        <dc:date>2023-07-03T03:55:24Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/denn_9781591842057_oeb_c10_r1.html#point(/1/4/117:1)" end="OEBPS/denn_9781591842057_oeb_c10_r1.html#point(/1/4/118/1:90)" progress="0.528169">
+                <text>This “flight not fight” behavioral trait is the sign of a prey animal, not a predator.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:697ac734-d410-4e57-a889-242736651771</dc:identifier>
+        <dc:date>2023-07-03T03:55:56Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/denn_9781591842057_oeb_c10_r1.html#point(/1/4/119:1)" end="OEBPS/denn_9781591842057_oeb_c10_r1.html#point(/1/4/121:0)" progress="0.528169">
+                <text>To become rich you must behave as a predator. I will go further, you must become a predator. Albert is not a predator.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:81fe17cd-825e-4ef2-9cd1-0e13bd1fe83d</dc:identifier>
+        <dc:date>2023-07-03T04:00:10Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/denn_9781591842057_oeb_c10_r1.html#point(/1/4/147:1)" end="OEBPS/denn_9781591842057_oeb_c10_r1.html#point(/1/4/148/1:40)" progress="0.535211">
+                <text>Having too much money isn’t important.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:ff71bcee-5880-40eb-89b5-efad3aa39657</dc:identifier>
+        <dc:date>2023-07-03T03:59:42Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/denn_9781591842057_oeb_c10_r1.html#point(/1/4/146/1:6)" end="OEBPS/denn_9781591842057_oeb_c10_r1.html#point(/1/4/146/1:130)" progress="0.535211">
+                <text>Albert cares too much (because he is growing desperate in his mid-fifties), and takes himself and his destiny too seriously.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:df944e92-e006-4bbe-aa52-d7a4d4d695ec</dc:identifier>
+        <dc:date>2023-07-03T04:00:15Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/denn_9781591842057_oeb_c10_r1.html#point(/1/4/148/3:72)" end="OEBPS/denn_9781591842057_oeb_c10_r1.html#point(/1/4/149:0)" progress="0.535211">
+                <text>The chief value of money lies in the fact that one lives in a world in which it is overestimated.”</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:4456c499-210e-4926-ba35-dde8a969f386</dc:identifier>
+        <dc:date>2023-06-18T22:02:19Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/denn_9781591842057_oeb_c10_r1.html#point(/1/4/86/1:90)" end="OEBPS/denn_9781591842057_oeb_c10_r1.html#point(/1/4/86/1:146)" progress="0.521127">
+                <text>Luck is what happens when preparation meets opportunity.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:512184c7-2890-470b-a814-9c8a3f3be0af</dc:identifier>
+        <dc:date>2023-07-03T03:56:21Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/denn_9781591842057_oeb_c10_r1.html#point(/1/4/124/1:161)" end="OEBPS/denn_9781591842057_oeb_c10_r1.html#point(/1/4/125:0)" progress="0.528169">
+                <text>But there is a downside to all this intelligence and imagination. He thinks a little too much before he acts. He weighs the options too carefully. He is capable of imagining defeat.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:fa51e3bc-10c0-4f7a-8f82-4050738c6f45</dc:identifier>
+        <dc:date>2023-08-22T18:17:55Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/denn_9781591842057_oeb_c12_r1.html#point(/1/4/140/3:13)" end="OEBPS/denn_9781591842057_oeb_c12_r1.html#point(/1/4/144:0)" progress="0.633803">
+                <text>In a marriage, you should be willing to die for your partner. To share everything. To kill for them, if you have to.
+ But in a partnership, the making of money comes first. Friendship and affection come later—if you’re lucky, as I have been.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:c70d3307-2ef8-4f8e-a690-7497e1839d68</dc:identifier>
+        <dc:date>2023-08-22T18:29:08Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/denn_9781591842057_oeb_c12_r1.html#point(/1/4/226/1:95)" end="OEBPS/denn_9781591842057_oeb_c12_r1.html#point(/1/4/228:0)" progress="0.65493">
+                <text>. A private company lives on profits and reserves. There has to be a balance between investment and profit-taking. Between growth and the bottom line. In a private company, growth is not a goal in itself; you only grow if it makes sense to grow.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:1f546b22-b9e2-44d6-9c20-d97df66749e0</dc:identifier>
+        <dc:date>2023-08-22T18:20:34Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/denn_9781591842057_oeb_c12_r1.html#point(/1/4/150/1:276)" end="OEBPS/denn_9781591842057_oeb_c12_r1.html#point(/1/4/154:0)" progress="0.637324">
+                <text>Time is the only thing we cannot replace, apart from our health and our lives. I resent wasting a moment of it.
+ But if you want to be rich and you are forced to take minority shareholders on board, then I guarantee that, sooner or later, you will waste weeks or even months in the attempt to obtain mutual agreement. It is unavoidable.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:8f18abd6-991f-4162-9850-b8049ced6003</dc:identifier>
+        <dc:date>2023-08-22T18:18:18Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/denn_9781591842057_oeb_c12_r1.html#point(/1/4/145:1)" end="OEBPS/denn_9781591842057_oeb_c12_r1.html#point(/1/4/146/1:284)" progress="0.633803">
+                <text>Why else is ownership so vital to anyone who wants to get rich? Ownership buys you the luxury of time. Not only the luxury of occasionally considering a partnership or an investment elsewhere. Ownership means never having to waste time saying sorry that a business didn’t work out. </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:13d45d31-5ac2-4fbe-ae03-6680a9bec861</dc:identifier>
+        <dc:date>2023-08-22T18:29:24Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/denn_9781591842057_oeb_c12_r1.html#point(/1/4/227:1)" end="OEBPS/denn_9781591842057_oeb_c12_r1.html#point(/1/4/228/1:253)" progress="0.65493">
+                <text>But a public company exists only to boost its share price, and its share price is determined, incredibly enough, by “analysts”—spotty-faced youths who live on another planet where growth-at-any-price is the only deity one is encouraged to worship.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:32ab4cb9-0dd5-4a1d-8f39-8ec4109b69d3</dc:identifier>
+        <dc:date>2023-09-25T22:00:29Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/denn_9781591842057_oeb_c16_r1.html#point(/1/4/128/3:168)" end="OEBPS/denn_9781591842057_oeb_c16_r1.html#point(/1/4/130:0)" progress="0.841549">
+                <text>Experience is only a name we give to our failures.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:c47db066-445a-4a9f-9f94-46b71c6d83e4</dc:identifier>
+        <dc:date>2023-10-10T20:38:14Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/denn_9781591842057_oeb_c17_r1.html#point(/1/4/137:1)" end="OEBPS/denn_9781591842057_oeb_c17_r1.html#point(/1/4/138/1:173)" progress="0.883803">
+                <text>Now you must leave the safety of the ant colony and the hive. You are to become a loner, an outcast, cut off from the very thing that defines what many of us believe we are.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:91369177-03ab-4acd-91df-25b65e8fe2e3</dc:identifier>
+        <dc:date>2023-10-10T20:38:33Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/denn_9781591842057_oeb_c17_r1.html#point(/1/4/138/1:500)" end="OEBPS/denn_9781591842057_oeb_c17_r1.html#point(/1/4/142:0)" progress="0.883803">
+                <text>Our job defines us.
+ But it cannot define you. Not anymore. You are a wild pig rooting for truffles. You are a weasel about to rip the throat out of a rabbit. You are an entrepreneur. You are going to be rich, and you don’t much care, within the law, how you are going to do it.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:945b2377-5dc5-44be-b138-3c12fef65552</dc:identifier>
+        <dc:date>2023-10-10T20:41:11Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/denn_9781591842057_oeb_c17_r1.html#point(/1/4/188/3:172)" end="OEBPS/denn_9781591842057_oeb_c17_r1.html#point(/1/4/191:0)" progress="0.887324">
+                <text>
+ Gold rushes don’t happen in old mines. There will be people making a good living out of old mines, but they won’t be too keen to let you muscle in on their stake. Look for new mountains where gold is being mined; or will be mined soon.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:ec4a8492-9ca9-42bf-b197-964522a2e585</dc:identifier>
+        <dc:date>2023-10-11T11:24:51Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/denn_9781591842057_oeb_c17_r1.html#point(/1/4/207:1)" end="OEBPS/denn_9781591842057_oeb_c17_r1.html#point(/1/4/209:0)" progress="0.894366">
+                <text>You see, you have to choose a new mine where you suspect there is money, or an old mine with a different angle to get rich. The right mountain. A great new mine right now is in telecommunications, or the Internet, or legalized gambling. Property is always good. (You can start small in property and you can get lucky quickly. It’s a crowded market, though, for that very reason.)</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:80e6e928-80d8-4689-b2c7-4f67d1ebe851</dc:identifier>
+        <dc:date>2023-10-11T11:25:02Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/denn_9781591842057_oeb_c17_r1.html#point(/1/4/208/1:381)" end="OEBPS/denn_9781591842057_oeb_c17_r1.html#point(/1/4/210/1:123)" progress="0.894366">
+                <text>
+ It’s vital you choose a mountain which produces money that has your name on it. Your instinct should come into play here.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:0659c57d-a458-4357-8646-83326238eedc</dc:identifier>
+        <dc:date>2023-10-11T11:26:11Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/denn_9781591842057_oeb_c17_r1.html#point(/1/4/217:1)" end="OEBPS/denn_9781591842057_oeb_c17_r1.html#point(/1/4/219:0)" progress="0.894366">
+                <text>Go to the mountain which produces money. Money that has your name on it.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:60e6290f-dccf-4064-b755-73bbf5490957</dc:identifier>
+        <dc:date>2023-10-11T11:26:24Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/denn_9781591842057_oeb_c17_r1.html#point(/1/4/215:1)" end="OEBPS/denn_9781591842057_oeb_c17_r1.html#point(/1/4/218:0)" progress="0.894366">
+                <text>Avoid that trap. Don’t do anything because you feel you have to. Go for what attracts you. Go for something that exploits your natural talents.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:d2b24a34-1bd1-44a6-8e59-3e753ca29820</dc:identifier>
+        <dc:date>2023-10-11T11:31:31Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/denn_9781591842057_oeb_c17_r1.html#point(/1/4/240/5:44)" end="OEBPS/denn_9781591842057_oeb_c17_r1.html#point(/1/4/242/1:274)" progress="0.897887">
+                <text>
+ All that is stopping you is fear. I do not know of what kind. It may even be fear of succeeding. But if you want to be rich, gentle reader, and if you can read these words, then all that is stopping you is fear of one kind or another. You have no one to blame but yourself. </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:dcf1b17c-d05a-44b7-9503-981708fdb8f0</dc:identifier>
+        <dc:date>2023-10-24T19:22:22Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/denn_9781591842057_oeb_c19_r1.html#point(/1/4/18/1:1)" end="OEBPS/denn_9781591842057_oeb_c19_r1.html#point(/1/5:0)" progress="0.96831">
+                <text>The Eight Secrets to Getting Rich 
+ 1. Analyze your need. Desire is insufficient. Compulsion is mandatory. 2. Cut loose from negative influences. Never give in. Stay the course. 3. Ignore “great ideas.” Concentrate on great execution. 4. Focus. Keep your eye on the ball marked “The Money is Here.” 5. Hire talent smarter than you. Delegate. Share the annual pie. 6. Ownership is the real “secret.” Hold on to every percentage point you can. 7. Sell before you need to, or when bored. Empty your mind when negotiating. 8. Fear nothing and no one. Get rich. Remember to give it all away.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+</annotationSet>

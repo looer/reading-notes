@@ -1,0 +1,147 @@
+
+<annotationSet xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://ns.adobe.com/digitaleditions/annotations">
+    <publication>
+        <dc:identifier>urn:uuid:43A41D7A-C35A-4962-9D35-8EA5E4174087</dc:identifier>
+        <dc:title>L'inevitabile</dc:title>
+        <dc:creator>Kevin Kelly</dc:creator>
+        <dc:language>it-IT</dc:language>
+    </publication>
+    <annotation>
+        <dc:identifier>urn:uuid:69ed2b45-0eca-438d-8ea7-196107624d4f</dc:identifier>
+        <dc:date>2025-03-02T13:13:38Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/Introduzione.xhtml#point(/1/4/2/28/1:478)" end="OEBPS/Text/Introduzione.xhtml#point(/1/4/2/30/1/1:2)" progress="0.0387097">
+                <text>Mettere al bando l’inevitabile, solitamente, sortisce l’effetto opposto: la proibizione è al più temporanea, e controproducente nel lungo periodo.
+
+     Un</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:2df158ef-ad06-48b6-878b-802d8d7f1fec</dc:identifier>
+        <dc:date>2025-03-02T13:15:46Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/Introduzione.xhtml#point(/1/4/2/34/1:335)" end="OEBPS/Text/Introduzione.xhtml#point(/1/4/2/36/1:15)" progress="0.0419355">
+                <text>Tutto è flusso, niente è finito, niente è compiuto; questo cambiamento perpetuo è l’asse centrale del mondo moderno.
+
+     Flusso costante</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:16a9f147-e281-41ad-b0b3-85bd7c4f9ad5</dc:identifier>
+        <dc:date>2025-03-02T13:16:11Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/Introduzione.xhtml#point(/1/4/2/36/1:70)" end="OEBPS/Text/Introduzione.xhtml#point(/1/4/2/36/1:333)" progress="0.0419355">
+                <text>significa che ora i processi – i motori del flusso – sono più importanti dei prodotti: la nostra più grande invenzione negli ultimi duecento anni non è stata un oggetto o uno strumento particolare, bensì l’invenzione del processo scientifico stesso.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:39898155-e959-4a07-bcd5-142cbdf98702</dc:identifier>
+        <dc:date>2025-03-02T13:17:29Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/Introduzione.xhtml#point(/1/4/2/38/1:334)" end="OEBPS/Text/Introduzione.xhtml#point(/1/4/2/38/1:851)" progress="0.0451613">
+                <text>. I prodotti diventeranno servizi e processi: integrata con dosi elevate di tecnologia, un’automobile diventerà un servizio di trasporto, una sequenza di materiali costantemente aggiornata in grado di adattarsi rapidamente all’uso del cliente, alla sua risposta, alla concorrenza, all’innovazione e all’usura. Che si tratti di un’automobile senza autista o di una che si può guidare, un simile servizio di trasporto garantisce flessibilità, personalizzazione, aggiornamenti, connessioni e nuovi benefici.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:7a24fba6-d11a-4d22-aede-ce6008a5e633</dc:identifier>
+        <dc:date>2025-03-02T18:18:56Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/Capitolo1.xhtml#point(/1/4/2/3:6)" end="OEBPS/Text/Capitolo1.xhtml#point(/1/4/2/4/1:295)" progress="0.0548387">
+                <text>Mi ci sono voluti sessant’anni ma recentemente ho avuto una rivelazione: qualunque cosa, nessuna esclusa, richiede un’energia aggiuntiva per conservarsi. Da un punto di vista teorico, mi era già noto come il famoso secondo principio della termodinamica, secondo cui tutto decade lentamente.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:1cf9afb6-ed9c-470b-a386-48f77ac44df3</dc:identifier>
+        <dc:date>2025-03-02T18:19:00Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/Capitolo1.xhtml#point(/1/4/2/4/1:575)" end="OEBPS/Text/Capitolo1.xhtml#point(/1/4/2/5:1)" progress="0.0548387">
+                <text>Sembra che l’esistenza sia soprattutto manutenzione.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:05facedf-2239-42ec-8d15-3643ea37d78f</dc:identifier>
+        <dc:date>2025-03-02T18:21:07Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/Capitolo1.xhtml#point(/1/4/2/24/1:474)" end="OEBPS/Text/Capitolo1.xhtml#point(/1/4/2/25:1)" progress="0.0612903">
+                <text>Continuiamo a inventare cose nuove che generano nuovi desideri, nuove lacune che dobbiamo colmare.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:131936aa-592d-4801-9625-c0724bde28f5</dc:identifier>
+        <dc:date>2025-03-02T18:24:17Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/Capitolo1.xhtml#point(/1/4/2/38/1:584)" end="OEBPS/Text/Capitolo1.xhtml#point(/1/4/2/38/1:617)" progress="0.0645161">
+                <text>, l’avarizia cura l’anarchia.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:e9be8e6f-7eef-476d-bcf4-83b267a2cba4</dc:identifier>
+        <dc:date>2025-03-02T18:25:50Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/Capitolo1.xhtml#point(/1/4/2/48/1:72)" end="OEBPS/Text/Capitolo1.xhtml#point(/1/4/2/48/1:343)" progress="0.0677419">
+                <text>Diversamente dal secolo scorso, nessuno vuole proiettarsi in un futuro molto lontano, anzi, se ne ha paura, e ciò rende più difficile prenderlo seriamente in considerazione. Per questo motivo siamo bloccati in un futuro a breve termine, senza prospettive generazionali.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:10a8befd-e9e5-4b9d-9dec-5394cbf03126</dc:identifier>
+        <dc:date>2025-03-02T18:39:54Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/Capitolo1.xhtml#point(/1/4/2/126/1:625)" end="OEBPS/Text/Capitolo1.xhtml#point(/1/4/2/126/1:918)" progress="0.106452">
+                <text>: gli avvenimenti all’interno di un gioco saranno ricercabili come se fossero delle notizie, sarà possibile cercare quel che succede all’interno di un video su YouTube o trovare un particolare momento sul proprio telefono, come per esempio l’ammissione di tua sorella all’università.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:f299f4b3-6844-415e-a864-c3da08f8d772</dc:identifier>
+        <dc:date>2025-03-02T18:40:01Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/Capitolo1.xhtml#point(/1/4/2/126/1:1141)" end="OEBPS/Text/Capitolo1.xhtml#point(/1/4/2/126/1:1271)" progress="0.106452">
+                <text>Molti degli oggetti nelle nostre stanze saranno collegati, permettendoci di cercare con Google la nostra stanza o l’intera casa.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:c360a84d-4f27-49ac-b6de-3c8e81cd0187</dc:identifier>
+        <dc:date>2025-03-02T18:41:37Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/Capitolo1.xhtml#point(/1/4/2/130/1:993)" end="OEBPS/Text/Capitolo1.xhtml#point(/1/4/2/132/1:86)" progress="0.109677">
+                <text>Internet sembrerà sempre più una presenza con la quale relazionarsi piuttosto che un luogo in cui muoversi, vale a dire il famoso cyberspazio degli anni ottanta; sarà una presenza costante e inosservata, come l’elettricità: sempre presente, sempre intorno a noi e sottotraccia. Entro il 2050 arriveremo a considerare Internet come una modalità di conversazione onnipresente.
+
+     Un tipo di conversazione migliorata che renderà accessibili molte nuove possibilità,</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:d9d9f538-8342-4809-8db2-3cbff1e3227f</dc:identifier>
+        <dc:date>2025-03-02T18:43:03Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/Capitolo1.xhtml#point(/1/4/2/138/1:26)" end="OEBPS/Text/Capitolo1.xhtml#point(/1/4/2/138/1:431)" progress="0.112903">
+                <text>: in termini di Internet, non è successo praticamente nulla! Siamo ancora agli albori della Rete, essa è ancora in divenire. Se potessimo salire su una macchina del tempo e viaggiare trent’anni nel futuro, e da lì riguardassimo ai giorni nostri, ci accorgeremmo che la maggior parte dei prodotti più utilizzati nella vita dei cittadini del 2050 non sarà ancora stata inventata fino a dopo il 2016. </text>
+            </fragment>
+        </target>
+    </annotation>
+</annotationSet>

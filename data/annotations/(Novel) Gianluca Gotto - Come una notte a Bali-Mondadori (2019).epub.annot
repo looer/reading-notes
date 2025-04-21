@@ -1,0 +1,132 @@
+
+<annotationSet xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://ns.adobe.com/digitaleditions/annotations">
+    <publication>
+        <dc:identifier>5f2dbc39-ba74-4377-b14c-e106cb791000</dc:identifier>
+        <dc:title>Come una notte a Bali</dc:title>
+        <dc:creator>Gotto, Gianluca</dc:creator>
+        <dc:language>en</dc:language>
+    </publication>
+    <annotation>
+        <dc:identifier>urn:uuid:0ca49138-f4a4-422e-bfb5-fa028cefe2fe</dc:identifier>
+        <dc:date>2024-02-09T16:45:21Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/p006_parte-01.xhtml#point(/1/4/4/2/1:270)" end="OEBPS/Text/p006_parte-01.xhtml#point(/1/4/4/5:1)" progress="0.0509259">
+                <text>fai un sacco di soldi per qualcun altro e ti viene chiesto di essere grato per l’opportunità di farlo?
+
+     CHARLES BUKOWSKI
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:9a3223af-7172-4f2c-8e5f-5b27e4ccd7dc</dc:identifier>
+        <dc:date>2024-02-12T01:52:06Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/p012_capitolo-06.xhtml#point(/1/4/4/42/1:18)" end="OEBPS/Text/p012_capitolo-06.xhtml#point(/1/4/4/43:0)" progress="0.185185">
+                <text>il vero successo appartiene solo a quanti sono felici del proprio percorso e del presente che si sono costruiti.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:5a1d34e7-7d6d-4181-bd57-b90d61b73078</dc:identifier>
+        <dc:date>2024-02-12T01:52:25Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/p012_capitolo-06.xhtml#point(/1/4/4/44/1:143)" end="OEBPS/Text/p012_capitolo-06.xhtml#point(/1/4/4/44/1:422)" progress="0.185185">
+                <text>mi dissi che dovevo smettere di vivere in funzione degli altri e iniziare a seguire il mio cuore. “Prendermi cura di me” pensai. “Apprezzarmi. Amarmi per quello che sono realmente. Volermi bene. Preoccuparmi di non deludere una sola aspettativa: quella della mia felicità.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:ec36350a-75a3-4e6f-97f7-7d5e62acfefa</dc:identifier>
+        <dc:date>2024-02-12T01:52:47Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/p012_capitolo-06.xhtml#point(/1/4/4/50/3:74)" end="OEBPS/Text/p012_capitolo-06.xhtml#point(/1/4/4/51:0)" progress="0.185185">
+                <text>amore per me stesso. Quello che significa tante cose, tra cui il rispetto per i propri sogni, le proprie passioni e le proprie inclinazioni.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:5153fd95-bd2c-424c-b112-c295d380ee93</dc:identifier>
+        <dc:date>2024-02-12T09:50:03Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/p013_capitolo-07.xhtml#point(/1/4/4/39:5)" end="OEBPS/Text/p013_capitolo-07.xhtml#point(/1/4/4/40/1:555)" progress="0.203704">
+                <text>  In quei giorni, iniziando a ragionare come un asino testardo e libero da pregiudizi, mi resi conto che è proprio la paura di sembrare irriconoscente (verso chi, poi? verso un’azienda che pretendeva la maggior parte del mio tempo e delle mie energie mentali in cambio di una somma di denaro ridicola rispetto ai fatturati che chiudeva?) il motivo per cui milioni di persone portano avanti esistenze di cui non sono per niente soddisfatte ma che “si fanno andare bene”. Si dicono che non possono lamentarsi, non devono, perché c’è chi sta peggio.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:c1c21c5c-0793-4915-995f-4acc56ac8529</dc:identifier>
+        <dc:date>2024-02-12T10:06:31Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/p014_capitolo-08.xhtml#point(/1/4/4/40/3:180)" end="OEBPS/Text/p014_capitolo-08.xhtml#point(/1/4/4/40/3:470)" progress="0.226852">
+                <text>trentenni italiani con titoli di studio e un lavoro fosse davanti a quel bivio: accontentarsi di una vita piatta e sicura mascherandosi dietro una finta gratitudine oppure puntare oltre, allontanarsi dalla strada battuta e rischiare di perdere tutto nel tentativo trovare la vera felicità?</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:06bca74b-dd53-44b2-9df2-e4542885d16d</dc:identifier>
+        <dc:date>2024-02-12T10:06:49Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/p014_capitolo-08.xhtml#point(/1/4/4/40/3:471)" end="OEBPS/Text/p014_capitolo-08.xhtml#point(/1/4/4/40/3:621)" progress="0.226852">
+                <text>Proprio perché eravamo più fortunati di milioni di altre persone, dovevamo provare a fare della nostra vita una fottutissima storia indimenticabile.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:5cc63f43-2de2-42a4-bd8f-5116dadb1fbc</dc:identifier>
+        <dc:date>2024-02-12T10:07:03Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/p014_capitolo-08.xhtml#point(/1/4/4/40/3:622)" end="OEBPS/Text/p014_capitolo-08.xhtml#point(/1/4/4/41:0)" progress="0.226852">
+                <text>Forse i veri stronzi viziati non sono quelli che sognano qualcosa di diverso e migliore, ma quelli che svolgono il compitino invece di rischiare.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:fd215a2c-6e3a-4307-8e70-92a04318c60e</dc:identifier>
+        <dc:date>2024-02-12T10:45:48Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/p015_capitolo-09.xhtml#point(/1/4/4/208/1:2)" end="OEBPS/Text/p015_capitolo-09.xhtml#point(/1/4/4/208/3:88)" progress="0.273148">
+                <text>Vorrei qualcosa di mio. Qualcosa di unico e speciale. Qualcosa che, quando lo vedo, mi faccia pensare: eccomi.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:76860ea2-6dd6-408c-bf70-ed21452f3f0a</dc:identifier>
+        <dc:date>2024-02-14T11:25:49Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/p035_capitolo-28.xhtml#point(/1/4/4/34/1:2)" end="OEBPS/Text/p035_capitolo-28.xhtml#point(/1/4/4/34/1:189)" progress="0.768519">
+                <text>Il viaggiatore è chi si immerge completamente in quel “resto” che il turista non vuole conoscere. Ci sguazza dentro, nuotando come un bambino che si tuffa per la prima volta nel mare</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:a92e5fe4-712a-4205-9766-76f775a7ab74</dc:identifier>
+        <dc:date>2024-02-14T11:26:06Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/p035_capitolo-28.xhtml#point(/1/4/4/34/1:307)" end="OEBPS/Text/p035_capitolo-28.xhtml#point(/1/4/4/34/1:639)" progress="0.768519">
+                <text>desiderio di scoprire. Luoghi, persone, cibi, tradizioni, miti, modi di vivere. Il viaggiatore non è interessato ad apparire perfetto nelle foto, perché sa che la realtà è sporca e cruda, spesso difficile da comprendere e a volte dolorosa. Ma al viaggiatore interessa solo la realtà, perché è nella realtà che si sente vivo.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:155442b7-7664-40b3-9d8e-ebb7ef2d7042</dc:identifier>
+        <dc:date>2024-02-14T15:25:16Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/Text/p041_epilogo.xhtml#point(/1/4/4/141:6)" end="OEBPS/Text/p041_epilogo.xhtml#point(/1/4/4/143:0)" progress="0.967593">
+                <text>Cambiare è la linea che divide la vita dalla sopravvivenza. E cambiare diventa non solo importante, ma anche fondamentale, soprattutto quando senti di star sprecando il tuo tempo.</text>
+            </fragment>
+        </target>
+    </annotation>
+</annotationSet>
