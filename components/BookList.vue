@@ -30,6 +30,7 @@
               class="grow"
               placeholder="Search"
               v-model="search"
+              ref="searchInput"
             />
             <kbd class="kbd kbd-sm">⌘</kbd>
             <kbd class="kbd kbd-sm">K</kbd>
@@ -57,7 +58,9 @@
         <div class="card-body">
           <h3 class="card-title text-base">{{ book.title }}</h3>
           <p class="text-sm opacity-75">{{ book.author }}</p>
-          <p class="text-xs badge">{{ book.annotations.length }} annotations</p>
+          <p class="text-xs badge badge-outline">
+            {{ book.annotations.length }} annotations
+          </p>
         </div>
       </NuxtLink>
     </template>
@@ -66,6 +69,22 @@
 
 <script setup lang="ts">
 import type { Book } from "~/utils/parser"
+import { useMagicKeys, whenever } from "@vueuse/core"
+import { ref } from "vue"
+
+const searchInput = ref<HTMLInputElement>()
+const { meta_k } = useMagicKeys()
+
+whenever(meta_k, () => {
+  const drawer = document.getElementById("sidebar-drawer") as HTMLInputElement
+  if (drawer && !drawer.checked) {
+    drawer.checked = true
+  }
+  //we wait for the drawer to open before focusing the search input
+  setTimeout(() => {
+    searchInput.value?.focus()
+  }, 150)
+})
 
 const { pending, data: books, error } = await useFetch<Book[]>("/api/books")
 const route = useRoute()
