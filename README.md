@@ -8,10 +8,17 @@ I love reading books. I own a kobo and have many epub books. I usually highlight
 
 This is a simple app to read book annotations.
 
+![Screenshot](./public/ReadingNotes.jpeg)
+
 ## Features
 - Parse and display book annotations
-- Sort annotations by date
-- Clean and simple interface
+- Clean and simple paper-like interface
+- Sort and search annotations by date, title, author, and number of annotations
+
+## Tech Stack
+- Nuxt 3
+- TailwindCSS 4
+- DaisyUI 5
 
 ## Setup
 
