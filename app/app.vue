@@ -11,8 +11,7 @@
             <div class="flex gap-2">
               <label
                 for="sidebar-drawer"
-                class="btn btn-square btn-ghost drawer-button lg:hidden"
-              >
+                class="btn btn-square btn-ghost drawer-button lg:hidden">
                 <IconsBurger class="w-6 h-6" />
               </label>
             </div>
@@ -22,8 +21,7 @@
                 <input
                   type="checkbox"
                   class="theme-controller"
-                  value="halloween"
-                />
+                  value="halloween" />
                 <IconsSun class="w-6 h-6" />
                 <IconsMoon class="w-6 h-6" />
               </label>

@@ -17,5 +17,8 @@ export default defineNuxtConfig({
         { name: 'description', content: 'View your Kobo reader annotations' }
       ]
     }
+  },
+  future: {
+    compatibilityVersion: 4
   }
 })

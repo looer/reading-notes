@@ -3,6 +3,15 @@ import { promises as fs } from 'fs';
 import path from 'path';
 
 const ANNOTATIONS_DIR = process.env.ANNOTATIONS_DIR || 'annotations'
+
+function createSlug(title: string): string {
+    return title
+        .toLowerCase()
+        .replace(/[^\w\s-]/g, '') // Remove special characters
+        .replace(/\s+/g, '-') // Replace spaces with hyphens
+        .replace(/-+/g, '-') // Replace multiple hyphens with single
+        .trim()
+}
 export interface Annotation {
     identifier: string;
     date: string;
@@ -15,6 +24,7 @@ export interface Book {
     language: string;
     annotations: Annotation[];
     fileName: string;
+    slug: string;
 }
 
 export async function parseAnnotationFile(filePath: string): Promise<Book> {
@@ -22,12 +32,14 @@ export async function parseAnnotationFile(filePath: string): Promise<Book> {
     const result = await parseStringPromise(content);
     const annotationSet = result.annotationSet;
 
+    const title = annotationSet.publication[0]['dc:title'][0];
     const book: Book = {
-        title: annotationSet.publication[0]['dc:title'][0],
+        title,
         author: annotationSet.publication[0]['dc:creator'][0],
         language: annotationSet.publication[0]['dc:language'][0],
         annotations: [],
-        fileName: path.basename(filePath, '.epub.annot')
+        fileName: path.basename(filePath, '.epub.annot'),
+        slug: createSlug(title)
     };
 
     if (annotationSet.annotation) {
@@ -42,7 +54,7 @@ export async function parseAnnotationFile(filePath: string): Promise<Book> {
 }
 
 export async function getAllBooks(): Promise<Book[]> {
-    const annotationsDir = path.join(process.cwd(), 'data', ANNOTATIONS_DIR);
+    const annotationsDir = path.resolve(process.cwd(), 'data', ANNOTATIONS_DIR);
     const files = await fs.readdir(annotationsDir);
     const annotationFiles = files.filter(file => file.endsWith('.epub.annot'));
 

@@ -51,9 +51,9 @@
       <NuxtLink
         v-for="book in sortedBooks"
         :key="book.fileName"
-        :to="`/book/${book.fileName}`"
+        :to="`/book/${book.slug}`"
         class="card card-compact mb-2 hover:bg-base-200 transition-all"
-        :class="{ 'bg-base-200': route.params.id === book.fileName }"
+        :class="{ 'bg-base-200': route.params.id === book.slug }"
       >
         <div class="card-body">
           <h3 class="card-title text-base">{{ book.title }}</h3>

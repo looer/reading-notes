@@ -25,9 +25,14 @@
       </div>
     </div>
     <div class="p-4 bg-base-200 rounded-lg">
-      <button class="btn btn-success btn-wide" @click="getRandomNote">
-        Get a random note
-      </button>
+      <div class="flex gap-4 justify-center flex-wrap">
+        <button class="btn btn-primary btn-wide" @click="getRandomBook">
+          Get a random book
+        </button>
+        <button class="btn btn-success btn-wide" @click="getRandomNote">
+          Get a random note
+        </button>
+      </div>
     </div>
   </div>
 </template>
@@ -43,6 +48,14 @@ const totalAnnotations = computed(
     0
 )
 
+const getRandomBook = () => {
+  const randomBook =
+    books.value?.[Math.floor(Math.random() * books.value.length)]
+  if (randomBook) {
+    router.push(`/book/${randomBook.slug}`)
+  }
+}
+
 const getRandomNote = () => {
   const randomBook =
     books.value?.[Math.floor(Math.random() * books.value.length)]
@@ -50,6 +63,8 @@ const getRandomNote = () => {
     randomBook?.annotations[
       Math.floor(Math.random() * randomBook.annotations.length)
     ]
-  router.push(`/book/${randomBook?.fileName}`)
+  if (randomBook && randomAnnotation) {
+    router.push(`/book/${randomBook.slug}#${randomAnnotation.identifier}`)
+  }
 }
 </script>

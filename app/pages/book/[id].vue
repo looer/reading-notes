@@ -12,8 +12,11 @@
       <div
         v-for="annotation in book.annotations"
         :key="annotation.identifier"
+        :id="annotation.identifier"
         class="card bg-base-100 shadow-xl hover:shadow-2xl transition-all group"
-      >
+        :class="{
+          'ring-2 ring-primary': route.hash === `#${annotation.identifier}`,
+        }">
         <div class="card-body">
           <blockquote class="text-2xl font-serif leading-relaxed">
             <IconsQuote class="w-8 h-8 opacity-50 sm:m-6" />
@@ -21,8 +24,7 @@
               {{ annotation.text }}
             </p>
             <IconsQuote
-              class="w-8 h-8 opacity-50 ml-auto sm:mr-6 sm:mb-6 rotate-180"
-            />
+              class="w-8 h-8 opacity-50 ml-auto sm:mr-6 sm:mb-6 rotate-180" />
           </blockquote>
 
           <div class="card-actions justify-between items-center opacity-50">
@@ -33,8 +35,7 @@
             <div class="">
               <button
                 class="btn btn-ghost sm:opacity-0 group-hover:opacity-100 transition-opacity"
-                @click="copyAnnotation(annotation, book)"
-              >
+                @click="copyAnnotation(annotation, book)">
                 <div class="tooltip" data-tip="Copy">
                   <span class="sr-only">Copy</span>
                   <IconsCopy class="w-6 h-6" />
@@ -42,8 +43,7 @@
               </button>
               <button
                 class="btn btn-ghost sm:opacity-0 group-hover:opacity-100 transition-opacity"
-                @click="tweetAnnotation(annotation, book)"
-              >
+                @click="tweetAnnotation(annotation, book)">
                 <div class="tooltip" data-tip="Tweet">
                   <span class="sr-only">Tweet</span>
                   <IconsXLogo class="w-6 h-6" />
@@ -51,17 +51,14 @@
               </button>
               <button
                 class="btn btn-ghost"
-                @click="favoriteAnnotation(annotation, book)"
-              >
+                @click="favoriteAnnotation(annotation, book)">
                 <div
                   v-if="isFavorite"
                   class="tooltip"
-                  data-tip="Mark as favorite"
-                >
+                  data-tip="Mark as favorite">
                   <span class="sr-only">Mark as favorite</span>
                   <IconsStarFavorite
-                    class="w-6 h-6 sm:opacity-0 group-hover:opacity-100 transition-opacity"
-                  />
+                    class="w-6 h-6 sm:opacity-0 group-hover:opacity-100 transition-opacity" />
                 </div>
                 <div v-else class="tooltip" data-tip="Unmark as favorite">
                   <span class="sr-only">Unmark as favorite</span>
@@ -82,27 +79,25 @@
       xmlns="http://www.w3.org/2000/svg"
       class="stroke-current shrink-0 h-6 w-6"
       fill="none"
-      viewBox="0 0 24 24"
-    >
+      viewBox="0 0 24 24">
       <path
         stroke-linecap="round"
         stroke-linejoin="round"
         stroke-width="2"
-        d="M10 14l2-2m0 0l2-2m-2 2l-2-2m2 2l2 2m7-2a9 9 0 11-18 0 9 9 0 0118 0z"
-      />
+        d="M10 14l2-2m0 0l2-2m-2 2l-2-2m2 2l2 2m7-2a9 9 0 11-18 0 9 9 0 0118 0z" />
     </svg>
     <span>Book not found</span>
   </div>
 </template>
 
 <script setup lang="ts">
-import type { Book } from "~/utils/parser"
+import type { Book, Annotation } from "~/utils/parser"
 
 const route = useRoute()
 const { data: books, pending: isPending } = await useFetch<Book[]>("/api/books")
 
 const book = computed(() =>
-  books.value?.find((b) => b.fileName === route.params.id)
+  books.value?.find((b) => b.slug === route.params.id)
 )
 
 const isFavorite = ref(false) // TODO: get from local storage
@@ -125,4 +120,16 @@ const favoriteAnnotation = (annotation: Annotation, book: Book) => {
 const formatAnnotation = (annotation: Annotation, book: Book) => {
   return `${annotation.text}\n\n- ${book.author}, ${book.title}`
 }
+
+// Scroll to annotation if hash is present
+onMounted(() => {
+  if (route.hash) {
+    nextTick(() => {
+      const element = document.querySelector(route.hash)
+      if (element) {
+        element.scrollIntoView({ behavior: "smooth", block: "center" })
+      }
+    })
+  }
+})
 </script>
