@@ -1,0 +1,543 @@
+
+<annotationSet xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://ns.adobe.com/digitaleditions/annotations">
+    <publication>
+        <dc:identifier>9780063387638</dc:identifier>
+        <dc:title>The Sweaty Startup</dc:title>
+        <dc:creator>Nick Huber</dc:creator>
+        <dc:description>&lt;p&gt;&lt;strong&gt;Filled with common sense and practical, actionable, advice, Nick Huber's book reveals that you don't have to be a genius with a world-changing idea to build a business empire and become a multi-millionaire.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Business media, television and movies, and top college courses all tell entrepreneurs the same thing: To succeed in business, you need to have a revolutionary idea. To them, success is about changing the world through constant innovation. But the truth is, 99.999 percent of businesses that pursue this strategy will fail. &lt;/p&gt;&lt;p&gt;In The Sweaty Startup, Nick Huber shows us that you don't need a ton of money, a brilliant new idea, complex technology, or extreme scale to succeed. There is another way to do business and find success by keeping things simple. Nick encourages readers to pursue opportunities with good odds, low risk, and moderate rewards that will set you up for a successful life, not just a successful business. Forget about mastering your...</dc:description>
+        <dc:language>en</dc:language>
+    </publication>
+    <annotation>
+        <dc:identifier>urn:uuid:c594c027-67a8-4371-9f54-3ce12ba7af02</dc:identifier>
+        <dc:date>2025-05-10T22:09:13Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/text/9780063387638_Intro.xhtml#point(/1/4/2/55:1)" end="OEBPS/text/9780063387638_Intro.xhtml#point(/1/4/2/57:0)" progress="0.0778443">
+                <text>Entrepreneurship isn’t about trying to change the world with the next scalable idea. It is about starting small, looking for a way to make good money doing something simple, and copying proven strategies that work.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:97fe864f-2bf9-49d1-ace9-1e5d0c243a78</dc:identifier>
+        <dc:date>2025-05-11T19:31:41Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/text/9780063387638_Chapter01.xhtml#point(/1/4/2/35:1)" end="OEBPS/text/9780063387638_Chapter01.xhtml#point(/1/4/2/41:0)" progress="0.125749">
+                <text>Cold hard truth:
+ A lot of games that are glamorized by society aren’t actually worth winning at all.
+ </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:702cfa83-712c-4fa2-a306-70916856356b</dc:identifier>
+        <dc:date>2025-05-11T19:31:50Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/text/9780063387638_Chapter01.xhtml#point(/1/4/2/44/1:458)" end="OEBPS/text/9780063387638_Chapter01.xhtml#point(/1/4/2/50:0)" progress="0.125749">
+                <text>
+ A lot of careers are like hot-dog-eating contests.
+ If you get really good at eating hot dogs, you get rewarded with more hot dogs.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:1e11a29e-a62e-44a1-b713-847e0dc2cae4</dc:identifier>
+        <dc:date>2025-05-11T19:33:05Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/text/9780063387638_Chapter01.xhtml#point(/1/4/2/56/2:465)" end="OEBPS/text/9780063387638_Chapter01.xhtml#point(/1/4/2/60:0)" progress="0.125749">
+                <text>
+ If your goal is having enough money coming in every month so that you can do what you want to do when you want to do it, you have to play a game where winners are rewarded with money coming in every month while they do what they want to do when they want to do it.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:259042b6-d96d-4957-b3b6-76dcce6b4c28</dc:identifier>
+        <dc:date>2025-05-12T11:37:49Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/text/9780063387638_Chapter02.xhtml#point(/1/4/2/237:1)" end="OEBPS/text/9780063387638_Chapter02.xhtml#point(/1/4/2/238/5:15)" progress="0.263473">
+                <text>Unless you are already wealthy, your first business needs to be making money right away. Therefore, you have to ask for money immediately. And if people refuse to give it to you, your idea sucks. People don’t actually need what you’re offering or they don’t trust you to deliver it. </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:82b06d0e-f62c-4720-b87b-6f026564c087</dc:identifier>
+        <dc:date>2025-05-12T11:18:57Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/text/9780063387638_Chapter02.xhtml#point(/1/4/2/65:1)" end="OEBPS/text/9780063387638_Chapter02.xhtml#point(/1/4/2/75:0)" progress="0.221557">
+                <text>It’s simple.
+ If you aren’t rich yet, your first (or your fifth or your tenth) business should be profitable in the first six months.
+ If it isn’t profitable or it isn’t a business model that has the potential to be profitable, go do something else. Your opportunity cost is too high, and time is your most valuable asset.
+ The most successful people don’t sit around planning all day. They live with a sense of urgency. They don’t aim, aim, aim, aim, aim, aim, fire. They aim, fire, aim, fire, fire, fire, and ask questions later.
+ Perfect has been and always will be the enemy of progress.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:21917096-1eef-4138-b0bb-a88db4d9c785</dc:identifier>
+        <dc:date>2025-05-12T11:25:46Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/text/9780063387638_Chapter02.xhtml#point(/1/4/2/117:1)" end="OEBPS/text/9780063387638_Chapter02.xhtml#point(/1/4/2/119:0)" progress="0.233533">
+                <text>I know a lot of below-average people who make phenomenal money simply because they aren’t insecure. They are confident enough in themselves and their own abilities to move forward regardless of other people’s opinions. They aren’t afraid of failure. They don’t spend time feeling sorry for themselves or second-guessing what other people might think of them if they do a certain thing.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:7e76c9c8-74fe-44c8-9212-dd52b41e66d3</dc:identifier>
+        <dc:date>2025-05-11T22:38:46Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/text/9780063387638_Chapter02.xhtml#point(/1/4/2/11:1)" end="OEBPS/text/9780063387638_Chapter02.xhtml#point(/1/4/2/13:0)" progress="0.203593">
+                <text>The business was about eight months old, but I still wasn’t sure if I could hack it as an entrepreneur. People told me I was crazy. Nobody else was doing this. And frankly, there is something uncomfortable about going in a totally different direction from literally everyone else in your life. No matter how confident you are, that sense of anxiety and fear creeps in, and I’ll admit that it got to me. So I decided to keep my options open and run a job hunt at the same time I was building my company.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:0d7c5918-190a-4c71-8d07-4ff30c619aa3</dc:identifier>
+        <dc:date>2025-05-11T22:40:13Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/text/9780063387638_Chapter02.xhtml#point(/1/4/2/49:1)" end="OEBPS/text/9780063387638_Chapter02.xhtml#point(/1/4/2/50/1:261)" progress="0.215569">
+                <text>Time is your most valuable asset and your most valuable resource. You can’t get it back. You can’t rewind. You are getting older. You need to get your business off the ground quickly, so you can learn more, improve your skills faster, and become successful.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:eafe511a-c4d2-40b8-a5b4-537b675e4977</dc:identifier>
+        <dc:date>2025-05-11T22:41:12Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/text/9780063387638_Chapter02.xhtml#point(/1/4/2/61:1)" end="OEBPS/text/9780063387638_Chapter02.xhtml#point(/1/4/2/62/1:85)" progress="0.215569">
+                <text>The mistake people make is that they want to stay comfortable, so they move too slow.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:0c94d955-9edf-4169-9da3-0635356dc228</dc:identifier>
+        <dc:date>2025-05-11T22:39:21Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/text/9780063387638_Chapter02.xhtml#point(/1/4/2/23:1)" end="OEBPS/text/9780063387638_Chapter02.xhtml#point(/1/4/2/26/1:88)" progress="0.209581">
+                <text>So we decided to get uncomfortable. We would focus on speed. We made a big plan and started racing.
+ Instead of just operating at Cornell, we would launch at three other major universities.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:f4d7a6c3-5b1f-407a-a9b3-bafd9c7b0fe0</dc:identifier>
+        <dc:date>2025-05-12T11:21:44Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/text/9780063387638_Chapter02.xhtml#point(/1/4/2/91:1)" end="OEBPS/text/9780063387638_Chapter02.xhtml#point(/1/4/2/93:0)" progress="0.227545">
+                <text>Execution is a thousand times more important than your idea. Hiring. Delegation. Selling. Logistics. Communication. The boring stuff. That’s what the winners get right.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:e5a0c54e-f684-4439-adcf-9b2b69010c6d</dc:identifier>
+        <dc:date>2025-05-11T22:39:05Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/text/9780063387638_Chapter02.xhtml#point(/1/4/2/22/1:86)" end="OEBPS/text/9780063387638_Chapter02.xhtml#point(/1/4/2/22/1:239)" progress="0.203593">
+                <text>We needed to either fail spectacularly or make something happen. The worst-case scenario was a failed business after burning five years of valuable time.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:6e62e223-dd48-4d0b-b934-af179601e6d2</dc:identifier>
+        <dc:date>2025-05-12T11:38:03Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/text/9780063387638_Chapter02.xhtml#point(/1/4/2/238/5:59)" end="OEBPS/text/9780063387638_Chapter02.xhtml#point(/1/4/2/242:0)" progress="0.263473">
+                <text>If you can’t get money, you aren’t solving a problem. You need to go back to the drawing board.
+ Start small. Start boring. Mow grass. Move something. Clean something. Make it a full-speed race to make $500 in profit.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:3cd4a56f-7de4-4afa-9d04-532eeac77e06</dc:identifier>
+        <dc:date>2025-05-12T11:24:59Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/text/9780063387638_Chapter02.xhtml#point(/1/4/2/110/1:235)" end="OEBPS/text/9780063387638_Chapter02.xhtml#point(/1/4/2/112:0)" progress="0.233533">
+                <text>That’s because real entrepreneurs try stuff out the same day they think of it. They go ask customers to pay them money. They get their hands dirty and get sweaty trading their time for money servicing early customers. They fail quickly and start again if they can’t make it happen.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:7270a4ef-c199-4c6a-a255-e6ddef2c9a63</dc:identifier>
+        <dc:date>2025-05-12T11:28:19Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/text/9780063387638_Chapter02.xhtml#point(/1/4/2/145:1)" end="OEBPS/text/9780063387638_Chapter02.xhtml#point(/1/4/2/148/1:0)" progress="0.245509">
+                <text>If you’re doing something unique, you will be a target. If you’re creating your own version of success and taking risks, people notice. And they judge. Especially when you make mistakes and look foolish from time to time. But winners aren’t afraid to do a few cringe things now and then. To step down a few rungs on the ladder and work hard at something that isn’t high status or sexy. That is the price you pay for success.
+ </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:463a5c1f-7579-4242-99ea-c134c8db0f85</dc:identifier>
+        <dc:date>2025-05-15T21:31:23Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/text/9780063387638_Chapter03.xhtml#point(/1/4/2/95:1)" end="OEBPS/text/9780063387638_Chapter03.xhtml#point(/1/4/2/97:0)" progress="0.287425">
+                <text>People watch too much Shark Tank and think too much about entrepreneurship through a new-idea lens. This makes them delusional. If no one has succeeded before or if your business doesn’t exist yet, it is because nobody has been able to win the game and make money doing what you want to be doing. And if nobody has won, why would you want to play that game?</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:759e0d5d-9689-4d12-aeaa-d0db9c378b7c</dc:identifier>
+        <dc:date>2025-05-15T21:36:13Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/text/9780063387638_Chapter03.xhtml#point(/1/4/2/126/1:25)" end="OEBPS/text/9780063387638_Chapter03.xhtml#point(/1/4/2/130:0)" progress="0.299401">
+                <text>
+ I’d rather start a business in a red ocean. I can study the market. I can pick and choose the opportunities I want to pursue. I can assess the way things are done and figure out if I can compete or have a competitive advantage of some kind. I can learn from my competition.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:7cbfd496-20c0-4772-a391-62e5e54723bc</dc:identifier>
+        <dc:date>2025-05-15T21:30:02Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/text/9780063387638_Chapter03.xhtml#point(/1/4/2/76/1:4)" end="OEBPS/text/9780063387638_Chapter03.xhtml#point(/1/4/2/77:0)" progress="0.281437">
+                <text>if you don’t have a competitive advantage here, ignore these opportunities.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:21ee434f-fdad-4dfe-a590-4ffd1c721037</dc:identifier>
+        <dc:date>2025-05-15T22:04:26Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/text/9780063387638_Chapter03.xhtml#point(/1/4/2/192/11:1)" end="OEBPS/text/9780063387638_Chapter03.xhtml#point(/1/4/2/192/15:0)" progress="0.311377">
+                <text>How much profit might this business generate for the owner each year?
+How much headache does the owner deal with, and what is their day-to-day schedule like?</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:613c6982-15c1-4369-9b1a-70dac407c657</dc:identifier>
+        <dc:date>2025-05-15T21:29:26Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/text/9780063387638_Chapter03.xhtml#point(/1/4/2/61:1)" end="OEBPS/text/9780063387638_Chapter03.xhtml#point(/1/4/2/65:0)" progress="0.281437">
+                <text>The idea of a restaurant is fun. A lot of people love food, so they open restaurants. But in reality profit margins are slim, and the odds of success are notoriously low. As many as 90 percent of restaurants eventually fail.
+ Same goes for passion projects. Are a lot of people passionate about the field you are working on? You don’t want a whole bunch of dreamers in your competition pool. The more passionate people are, the longer they will run a business that isn’t feasible. They will lose money and not even care. I don’t like competing with people who think with their hearts.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:d45dde87-34d1-4f4b-b751-64a966443663</dc:identifier>
+        <dc:date>2025-05-15T21:23:22Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/text/9780063387638_Chapter03.xhtml#point(/1/4/2/7:1)" end="OEBPS/text/9780063387638_Chapter03.xhtml#point(/1/4/2/9:0)" progress="0.269461">
+                <text>Being an entrepreneur is not about you.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:1ad6a237-904a-4115-95c9-641f5b1b474a</dc:identifier>
+        <dc:date>2025-05-15T21:28:20Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/text/9780063387638_Chapter03.xhtml#point(/1/4/2/33:1)" end="OEBPS/text/9780063387638_Chapter03.xhtml#point(/1/4/2/41:0)" progress="0.275449">
+                <text>There is an entire category of businesses I would throw out the window right away based on three criteria. Here they are:
+ Criterion 1: You need to raise venture capital to start said business.
+ Criterion 2: You have a new idea, and the model does not exist today.
+ Criterion 3: The model involves manufacturing and selling a physical product.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:bc22da4c-05c4-4c04-a500-a1ca41f3797f</dc:identifier>
+        <dc:date>2025-05-15T21:27:56Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/text/9780063387638_Chapter03.xhtml#point(/1/4/2/60/1:34)" end="OEBPS/text/9780063387638_Chapter03.xhtml#point(/1/4/2/60/1:97)" progress="0.281437">
+                <text>The less fun a business is, the more money there is to be made.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:712a058f-0110-4347-807d-b4467849de88</dc:identifier>
+        <dc:date>2025-05-15T21:32:28Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/text/9780063387638_Chapter03.xhtml#point(/1/4/2/108/1:51)" end="OEBPS/text/9780063387638_Chapter03.xhtml#point(/1/4/2/108/1:196)" progress="0.287425">
+                <text>Unsophisticated and/or weak competition plus high profit margin plus low failure rate equals good business. For example, a self-storage facility.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:52c65bf3-7339-43ce-be3d-349e559e8f25</dc:identifier>
+        <dc:date>2025-05-15T22:05:03Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/text/9780063387638_Chapter03.xhtml#point(/1/4/2/219:1)" end="OEBPS/text/9780063387638_Chapter03.xhtml#point(/1/4/2/223:0)" progress="0.317365">
+                <text>But the thing about online businesses is that your competition is worldwide. There are no “geographic” moats as there are in local service companies. Somebody in Asia, where the cost of living is 80 percent lower than the United States, can compete with you. The world is flat.
+ In a real-world business you can pick and choose where you want to compete. You can analyze your local market. There are barriers to entry, and only somebody in your town can decide to compete with you.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:d7201cb6-474e-4175-966b-6002ad810379</dc:identifier>
+        <dc:date>2025-05-15T21:36:02Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/text/9780063387638_Chapter03.xhtml#point(/1/4/2/134/1:33)" end="OEBPS/text/9780063387638_Chapter03.xhtml#point(/1/4/2/136:0)" progress="0.299401">
+                <text>. A lot of companies are horrifically bad at answering the phone and doing what they say they’re going to do. Many don’t have a website. Many use a fax machine in their offices and still make millions of dollars in profit per year.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:9261f97c-0b9e-4c1e-aac2-fdfae3b7ee91</dc:identifier>
+        <dc:date>2025-05-17T21:35:09Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/text/9780063387638_Chapter04.xhtml#point(/1/4/2/181:1)" end="OEBPS/text/9780063387638_Chapter04.xhtml#point(/1/4/2/186:0)" progress="0.371257">
+                <text>The lesson:
+ Pick up the phone and call your potential competitors. It is unbelievable how few people do this before investing a lot of time and money in a new venture. This takes ten minutes per idea. Don’t skip it.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:7f5c9d97-e950-4bd7-ac77-9101298a53d7</dc:identifier>
+        <dc:date>2025-05-17T21:36:58Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/text/9780063387638_Chapter04.xhtml#point(/1/4/2/215:1)" end="OEBPS/text/9780063387638_Chapter04.xhtml#point(/1/4/2/217:0)" progress="0.377246">
+                <text>Quality is a bit tougher to assess, but I generally judge this as a combination of several things. How good-looking and functional is their website? Can you request a quote online? How kind and professional is their customer service? Do they have good Google reviews and a lot of them? How quick are they to follow up or get you a quote? Do they run digital marketing campaigns? These are all signs that a company is good at running a business and serious about operating the right way.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:34bdb8cc-8625-4868-a5b7-42f2cd7c6cc9</dc:identifier>
+        <dc:date>2025-05-17T21:43:19Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/text/9780063387638_Chapter05.xhtml#point(/1/4/2/67:1)" end="OEBPS/text/9780063387638_Chapter05.xhtml#point(/1/4/2/74/1:150)" progress="0.407186">
+                <text>If your goal is to grow a business, why not focus on learning to operate and be indifferent about what business idea you pursue?
+ None of this stuff is fun. But excelling at the not-fun, boring, uncomfortable stuff is what separates the successful entrepreneurs from the failures.
+ Hard things are the key to success. If your life is easy, you aren’t going to get anywhere.
+ It is easy to clock in at work, do the bare minimum, and clock out. It’s easy to show up every day and work on cars without talking to anybody else.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:b3b2f71c-3886-41da-9d17-74b0798ffe64</dc:identifier>
+        <dc:date>2025-05-17T21:43:28Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/text/9780063387638_Chapter05.xhtml#point(/1/4/2/75:1)" end="OEBPS/text/9780063387638_Chapter05.xhtml#point(/1/4/2/79:0)" progress="0.407186">
+                <text>But going to great lengths to avoid discomfort is a surefire way to wake up ten, twenty, or thirty years from now in the same situation you’re in right now. No growth. No additional success. Nothing to hang your hat on. No freedom. No security.
+ Uncomfortable situations forge great business operators.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:96a1973f-d15a-471b-b67e-acfed2f8f945</dc:identifier>
+        <dc:date>2025-05-17T21:46:24Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/text/9780063387638_Chapter05.xhtml#point(/1/4/2/115:1)" end="OEBPS/text/9780063387638_Chapter05.xhtml#point(/1/4/2/117:0)" progress="0.419162">
+                <text>When you are starting and growing a business, your job is not to rethink a business model and do twenty things differently. It is to figure out what is working, copy those things, and then do the little things well. The fundamentals. That’s it.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:8a8c792c-0c2b-451a-8c99-70f5188da104</dc:identifier>
+        <dc:date>2025-05-17T21:44:02Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/text/9780063387638_Chapter05.xhtml#point(/1/4/2/85:1)" end="OEBPS/text/9780063387638_Chapter05.xhtml#point(/1/4/2/87:0)" progress="0.407186">
+                <text>Want to be successful? Get uncomfortable. Practice the hard stuff over and over. Then watch your world open up.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:0e0054bd-3eba-481c-aeb4-f27518d747e9</dc:identifier>
+        <dc:date>2025-05-26T17:47:14Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/text/9780063387638_Chapter05.xhtml#point(/1/4/2/135:1)" end="OEBPS/text/9780063387638_Chapter05.xhtml#point(/1/4/2/139:0)" progress="0.42515">
+                <text>One by one, we studied all of the companies across the country and handpicked the best operational strategies from each. And then we built a franken business, bolting on ideas we stole and adapted for our situation.
+ Very little about our company was new or unique. Actually, almost everything we did was something we stole from a competitor that had already proved it could work.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:42a2504f-78bb-4025-849a-fcc3e856cc4a</dc:identifier>
+        <dc:date>2025-05-28T10:31:49Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/text/9780063387638_Chapter06.xhtml#point(/1/4/2/26/1:3)" end="OEBPS/text/9780063387638_Chapter06.xhtml#point(/1/4/2/26/3:298)" progress="0.449102">
+                <text>Life as an entrepreneur is sales,” he continued. “You’re selling your employees on trusting you and following you. You’re selling your partners on coming along for the ride and on what you bring to the table. You’re selling your investors on giving you money. Hell, you’re selling your vendors on selling to you!</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:4f001a28-0492-4155-ae39-dc6464a9745b</dc:identifier>
+        <dc:date>2025-05-28T10:34:50Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/text/9780063387638_Chapter06.xhtml#point(/1/4/2/61:1)" end="OEBPS/text/9780063387638_Chapter06.xhtml#point(/1/4/2/63:0)" progress="0.45509">
+                <text>When it comes to business and sales, it isn’t about you.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:4bc4d1a4-7c2e-4a6d-a976-7968d7220e73</dc:identifier>
+        <dc:date>2025-05-28T10:36:09Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/text/9780063387638_Chapter06.xhtml#point(/1/4/2/84/1:31)" end="OEBPS/text/9780063387638_Chapter06.xhtml#point(/1/4/2/88:0)" progress="0.461078">
+                <text>. We convince other people that their lives will be better if they trust us, work for us, buy from us, and more. We make people want to do things with us and for us. We make them want to pay us money because we are so good at solving their problems. We look at the world through their eyes and try to think like them. We put ourselves in their shoes. We make it all about them.
+ And by doing that, we sell them on us.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:8d3b018b-be2d-4c3f-8ace-89029c8b8c3b</dc:identifier>
+        <dc:date>2025-05-28T15:05:10Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/text/9780063387638_Chapter06.xhtml#point(/1/4/2/205:1)" end="OEBPS/text/9780063387638_Chapter06.xhtml#point(/1/4/2/207:0)" progress="0.491018">
+                <text>Show me a stressed-out person and I will show you somebody who overpromised and is having trouble delivering.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:e041abdf-6e8c-48a2-abb4-98e865a645b0</dc:identifier>
+        <dc:date>2025-05-28T15:06:45Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/text/9780063387638_Chapter06.xhtml#point(/1/4/2/223:1)" end="OEBPS/text/9780063387638_Chapter06.xhtml#point(/1/4/2/225:0)" progress="0.491018">
+                <text>John is excellent at managing expectations during his sales interactions with clients. If he thinks he can build a house in eight months with perfect weather, he’ll tell the customer twelve months. If he thinks the kitchen a client wants will require a $50,000 upcharge, he’ll tell them they should budget $60,000. If he thinks the appliances will take six months to be delivered, he’ll tell his clients to be prepared to wait nine months.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:97ef63eb-586a-4f98-bfe7-afab038d13fb</dc:identifier>
+        <dc:date>2025-05-28T15:07:53Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/text/9780063387638_Chapter06.xhtml#point(/1/4/2/235:1)" end="OEBPS/text/9780063387638_Chapter06.xhtml#point(/1/4/2/237:0)" progress="0.497006">
+                <text>One difficult conversation at the beginning of a relationship will save you five even more difficult conversations at the end.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:96884ae7-4f0f-41d6-afb8-321b711e9837</dc:identifier>
+        <dc:date>2025-05-28T15:12:41Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/text/9780063387638_Chapter06.xhtml#point(/1/4/2/287:1)" end="OEBPS/text/9780063387638_Chapter06.xhtml#point(/1/4/2/288/3:200)" progress="0.508982">
+                <text>If you’re running a service business, that might mean emphasizing that they could probably find a cheaper option out there somewhere because you focus on quality. It might mean letting them know that you are extremely busy and looking for a certain type of customer.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:4a3669b4-1ad9-4d47-90f5-992fc68e52ab</dc:identifier>
+        <dc:date>2025-05-29T17:59:05Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/text/9780063387638_Chapter06.xhtml#point(/1/4/2/393:1)" end="OEBPS/text/9780063387638_Chapter06.xhtml#point(/1/4/2/395:0)" progress="0.532934">
+                <text>What should you highlight to prove you are an expert and can be trusted? List three potential risks you worry about every time you acquire a customer or do a job. What could go wrong? What do you and your customer need to worry about?</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:035e5a00-6578-4a7a-86d8-c4e6f34aef61</dc:identifier>
+        <dc:date>2025-05-29T18:00:31Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/text/9780063387638_Chapter06.xhtml#point(/1/4/2/413:1)" end="OEBPS/text/9780063387638_Chapter06.xhtml#point(/1/4/2/417:0)" progress="0.538922">
+                <text>You still need to ask for the business. You can’t play hard to get when it’s time for your prospects to sign the deal or move along.
+ If you are too afraid to directly try to close a deal, it won’t happen. This is another huge mistake many salespeople make. You can’t play passive when it comes time for somebody to send you money. Get good at closing and asking for the money.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:22e43a99-2323-46ad-8a31-ad0aa604a2f3</dc:identifier>
+        <dc:date>2025-05-30T08:01:18Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/text/9780063387638_Chapter07.xhtml#point(/1/4/2/61:1)" end="OEBPS/text/9780063387638_Chapter07.xhtml#point(/1/4/2/66:0)" progress="0.568862">
+                <text>They simply do not work on the right things.
+ They focus on what’s urgent and right in front of them instead of taking action on work that is important for the long-term growth of the company. They don’t do the intellectually hard things. They don’t have difficult conversations. They don’t get uncomfortable and make moves on sales and hiring and delegation. They make the same mistakes and decisions over and over again but expect different results. They aren’t good communicators or salespeople. They don’t address fundamental problems when they arise and assume that they will just work out over time.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:1b097e4f-98d8-4f27-9b47-d78463c20a25</dc:identifier>
+        <dc:date>2025-05-30T08:02:40Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/text/9780063387638_Chapter07.xhtml#point(/1/4/2/81:1)" end="OEBPS/text/9780063387638_Chapter07.xhtml#point(/1/4/2/83:0)" progress="0.568862">
+                <text>My friend is stressed to the max and flipping pizzas every weekend because he works on the urgent and important things and not the important things that aren’t urgent.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:d93dc970-99c9-4c97-9562-a8c9b853deed</dc:identifier>
+        <dc:date>2025-06-03T20:30:36Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/text/9780063387638_Chapter08.xhtml#point(/1/4/2/75:1)" end="OEBPS/text/9780063387638_Chapter08.xhtml#point(/1/4/2/76/1:140)" progress="0.634731">
+                <text>If you’re doing anything worth doing, you will encounter situations that lead to fear, anxiety, and a number of other unpleasant emotions.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:2de2f897-0de3-4fe0-9b18-5ad817fb10db</dc:identifier>
+        <dc:date>2025-06-04T20:09:01Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/text/9780063387638_Chapter09.xhtml#point(/1/4/2/245:1)" end="OEBPS/text/9780063387638_Chapter09.xhtml#point(/1/4/2/247:0)" progress="0.730539">
+                <text>Pessimists sound smart. Optimists make money.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:1b21e62f-1f29-41b4-970d-b9e95e040a31</dc:identifier>
+        <dc:date>2025-06-05T23:42:46Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/text/9780063387638_Conclusion.xhtml#point(/1/4/2/23:1)" end="OEBPS/text/9780063387638_Conclusion.xhtml#point(/1/4/2/25:0)" progress="0.952096">
+                <text>There is no textbook with all the answers. You have to figure them out as you go along. You have to stop worrying about qualifications and ignore the people telling you what you can or can’t do. Most problems aren’t straightforward. Life isn’t always logical. You can’t pull up YouTube and watch a how-to guide or look at the little book that came with the pack of Legos.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:530e0d95-7ebb-479a-9f2b-ad703c192e74</dc:identifier>
+        <dc:date>2025-06-05T23:44:32Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/text/9780063387638_Conclusion.xhtml#point(/1/4/2/60/1:16)" end="OEBPS/text/9780063387638_Conclusion.xhtml#point(/1/4/2/73:0)" progress="0.964072">
+                <text>
+ I will not reinvent the wheel.
+ I will copy what works.
+ I will use proven methods to make money in boring ways.
+ I will do common things uncommonly well.
+ If it isn’t broken, I will not try to fix it.
+ I will keep it simple.</text>
+            </fragment>
+        </target>
+    </annotation>
+</annotationSet>

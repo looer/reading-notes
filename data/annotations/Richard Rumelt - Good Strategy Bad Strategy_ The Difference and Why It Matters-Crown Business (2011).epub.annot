@@ -1,0 +1,155 @@
+
+<annotationSet xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://ns.adobe.com/digitaleditions/annotations">
+    <publication>
+        <dc:identifier>db3210bc-44c4-42f2-80f6-05384cbcda13</dc:identifier>
+        <dc:title>Good Strategy/Bad Strategy</dc:title>
+        <dc:creator>Rumelt, Richard</dc:creator>
+        <dc:language>en</dc:language>
+    </publication>
+    <annotation>
+        <dc:identifier>urn:uuid:33c02ae0-4850-4b30-aa5b-0c220f837d47</dc:identifier>
+        <dc:date>2025-04-18T12:36:01Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="dummy_split_005.html#point(/1/4/18/1/1/1/3:744)" end="dummy_split_005.html#point(/1/4/18/1/1/1/3:877)" progress="0.0470588">
+                <text>A good strategy recognizes the nature of the challenge and offers a way of surmounting it. Simply being ambitious is not a strategy. </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:149dac8f-47f6-46da-ae86-419abe75d291</dc:identifier>
+        <dc:date>2025-04-18T12:36:39Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="dummy_split_005.html#point(/1/4/28/1/1/1:194)" end="dummy_split_005.html#point(/1/4/28/1/1/1:377)" progress="0.05">
+                <text>. A good strategy does more than urge us forward toward a goal or vision. A good strategy honestly acknowledges the challenges being faced and provides an approach to overcoming them.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:5bd0be7b-ef8a-4f67-b4ce-c3551705662f</dc:identifier>
+        <dc:date>2025-04-18T12:38:12Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="dummy_split_005.html#point(/1/4/37/1/1/1:432)" end="dummy_split_005.html#point(/1/4/39:0)" progress="0.0529412">
+                <text>Strategy cannot be a useful concept if it is a synonym for success. Nor can it be a useful tool if it is confused with ambition, determination, inspirational leadership, and innovation. Ambition is drive and zeal to excel. Determination is commitment and grit. Innovation is the discovery and engineering of new ways to do things. Inspirational leadership motivates people to sacrifice for their own and the common good.1 And strategy, responsive to innovation and ambition, selects the path, identifying how, why, and where leadership and determination are to be applied.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:f3f7e1b6-9f3f-414f-81f8-fe78970a23c5</dc:identifier>
+        <dc:date>2025-04-18T12:38:33Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="dummy_split_005.html#point(/1/4/39/1/1/1:697)" end="dummy_split_005.html#point(/1/4/40:0)" progress="0.0558824">
+                <text>the term “strategy” should mean a cohesive response to an important challenge. Unlike a stand-alone decision or a goal, a strategy is a coherent set of analyses, concepts, policies, arguments, and actions that respond to a high-stakes challenge.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:18ed4f8c-f43e-40a9-9624-31d635e6cc93</dc:identifier>
+        <dc:date>2025-04-18T12:39:10Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="dummy_split_005.html#point(/1/4/40:1)" end="dummy_split_005.html#point(/1/4/41/1/1/1:244)" progress="0.0558824">
+                <text>Many people assume that a strategy is a big-picture overall direction, divorced from any specific action. But defining strategy as broad concepts, thereby leaving out action, creates a wide chasm between “strategy” and “implementation.”</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:78029404-085f-4289-be66-fc66ad8aca8b</dc:identifier>
+        <dc:date>2025-04-18T12:39:28Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="dummy_split_005.html#point(/1/4/41/1/1/1:662)" end="dummy_split_005.html#point(/1/4/41/1/1/1:716)" progress="0.0558824">
+                <text>. A good strategy includes a set of coherent actions. </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:6551815d-28af-4539-9371-a78362186e07</dc:identifier>
+        <dc:date>2025-04-18T12:39:34Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="dummy_split_005.html#point(/1/4/41/1/1/1:795)" end="dummy_split_005.html#point(/1/4/42:0)" progress="0.0558824">
+                <text>A strategy that fails to define a variety of plausible and feasible immediate actions is missing a critical component.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:6cd83c2e-9782-4cce-880c-4f138ffe8bfb</dc:identifier>
+        <dc:date>2025-04-18T12:40:04Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="dummy_split_005.html#point(/1/4/42:1)" end="dummy_split_005.html#point(/1/4/43/1/1/1:95)" progress="0.0558824">
+                <text>Executives who complain about “execution” problems have usually confused strategy with goal</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:c7bce756-4997-46c7-99be-acb9bd8562ce</dc:identifier>
+        <dc:date>2025-04-18T12:40:19Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="dummy_split_005.html#point(/1/4/43/1/1/1:372)" end="dummy_split_005.html#point(/1/4/43/9/1/1:42)" progress="0.0588235">
+                <text>Strategy is about
+how
+an organization will move forward. Doing strategy is figuring out
+how
+to advance the organization’s interests.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:1d6a0e8e-acae-4e78-95df-d1d59a580471</dc:identifier>
+        <dc:date>2025-04-18T12:40:43Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="dummy_split_005.html#point(/1/4/49:1)" end="dummy_split_005.html#point(/1/4/50/4/1/1:36)" progress="0.0588235">
+                <text>A good strategy has an essential logical structure that I call the
+kernel. The kernel of a strategy contains </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:1ac83316-ff9f-4749-b9c0-24f032b5b3d0</dc:identifier>
+        <dc:date>2025-04-18T12:40:54Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="dummy_split_005.html#point(/1/4/50/4/1/1:36)" end="dummy_split_005.html#point(/1/4/50/4/1/1:103)" progress="0.0588235">
+                <text>three elements: a diagnosis, a guiding policy, and coherent action.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:e1ea4c31-cbed-4e92-ae6a-bce8512d3cab</dc:identifier>
+        <dc:date>2025-04-18T12:43:00Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="dummy_split_006.html#point(/1/4/7:1)" end="dummy_split_006.html#point(/1/4/9/1/1/1:100)" progress="0.0647059">
+                <text>The most basic idea of strategy is the application of strength against weakness. Or, if you prefer, </text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:3adaa6e6-8fc4-4185-b79e-df902fb370ec</dc:identifier>
+        <dc:date>2025-04-18T12:45:27Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="dummy_split_007.html#point(/1/4/7:1)" end="dummy_split_007.html#point(/1/4/8/1/1/1:103)" progress="0.0705882">
+                <text>The first natural advantage of good strategy arises because other organizations often don’t have one.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:3580af63-80e9-4201-b8da-71524aa0d7b5</dc:identifier>
+        <dc:date>2025-04-18T12:45:51Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="dummy_split_007.html#point(/1/4/8/1/1/1:159)" end="dummy_split_007.html#point(/1/4/8/1/1/1:275)" progress="0.0705882">
+                <text>. A good strategy has coherence, coordinating actions, policies, and resources so as to accomplish an important end.</text>
+            </fragment>
+        </target>
+    </annotation>
+</annotationSet>

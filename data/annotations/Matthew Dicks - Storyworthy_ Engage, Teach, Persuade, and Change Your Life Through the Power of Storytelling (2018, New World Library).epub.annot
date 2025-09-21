@@ -1,0 +1,51 @@
+
+<annotationSet xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://ns.adobe.com/digitaleditions/annotations">
+    <publication>
+        <dc:identifier>9781608685493</dc:identifier>
+        <dc:title>Storyworthy</dc:title>
+        <dc:creator>Matthew Dicks</dc:creator>
+        <dc:description>&lt;strong&gt;A five-time Moth GrandSLAM winner and bestselling novelist shows how to tell a great story &amp;#8212; and why doing so matters&lt;/strong&gt;.&lt;br /&gt; &lt;br /&gt; Whether we realize it or not, we are always telling stories. On a first date or job interview, at a sales presentation or therapy appointment, with family or friends, we are constantly narrating events and interpreting emotions and actions. In this compelling book, storyteller extraordinaire Matthew Dicks presents wonderfully straightforward and engaging tips and techniques for constructing, telling, and polishing stories that will hold the attention of your audience (no matter how big or small). He shows that anyone can learn to be an appealing storyteller, that everyone has something &quot;storyworthy&quot; to express, and, perhaps most important, that the act of creating and telling a tale is a powerful way of understanding and enhancing your own life.</dc:description>
+        <dc:language>en</dc:language>
+    </publication>
+    <annotation>
+        <dc:identifier>urn:uuid:4ce2709a-eb15-4090-ba78-4378de5df0a1</dc:identifier>
+        <dc:date>2025-08-08T20:21:33Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/Foreword.html#point(/1/4/8/1:562)" end="OEBPS/xhtml/Foreword.html#point(/1/4/8/1:664)" progress="0.0487805">
+                <text>Storytelling. In case you’re not familiar with it, it’s kind of like a less-funny stand-up comedy.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:89a2c8a1-e6df-4a88-b24d-b60a5751d190</dc:identifier>
+        <dc:date>2025-08-10T20:36:07Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/Chapter02.html#point(/1/4/43:1)" end="OEBPS/xhtml/Chapter02.html#point(/1/4/45:0)" progress="0.118467">
+                <text>We tell stories to express our hardest, best, most authentic truths. This is what brings thousands of people to hear stories at theaters and bars every night in cities all over the world.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:bb0cf0f1-bcfb-4b35-b028-a11f6000daa4</dc:identifier>
+        <dc:date>2025-08-11T20:31:08Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/Chapter03.html#point(/1/4/226/1:17)" end="OEBPS/xhtml/Chapter03.html#point(/1/4/226/1:252)" progress="0.191638">
+                <text>As you start to see importance and meaning in each day, you suddenly understand your importance to this world. You start to see how the meaningful moments that we experience every day contribute to the lives of others and to the world.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:e6381353-1f45-45e4-9f44-f1befa8d9090</dc:identifier>
+        <dc:date>2025-08-18T21:59:06Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/xhtml/Chapter05.html#point(/1/4/8/1:99)" end="OEBPS/xhtml/Chapter05.html#point(/1/4/10:0)" progress="0.264808">
+                <text>finding new stories both fills in and fills out my life. They bring breadth and meaning to my life. Recalling a forgotten moment from your life or suddenly seeing it as more than what you once thought can expand the boundaries of your perceived life, while filling in gaps and connecting disparate memories into a more complete picture. Stories will both fill in the holes in the mental map of your life and help you to see how expansive that map truly is. It’s priceless.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+</annotationSet>

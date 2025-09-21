@@ -1,0 +1,138 @@
+
+<annotationSet xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://ns.adobe.com/digitaleditions/annotations">
+    <publication>
+        <dc:identifier>urn:uuid:961ABF04-9EB7-4971-BEC5-33C48C312555</dc:identifier>
+        <dc:title>The SaaS Playbook</dc:title>
+        <dc:creator>Rob Walling</dc:creator>
+        <dc:description>Stop asking for permission to build your startup. Revenue is flat, you're not sure where to focus your efforts, and—despite what you were promised by flashy tech sites—pitching investors hasn't brought you a dump truck full of easy money. Rob Walling, one of the world's experts in SaaS with nearly two decades of experience as a serial entrepreneur, author, and investor, details little-known strategies battle-tested by some of today’s most successful founders. You’ll learn: How to build a software product people want and are willing to pay for The four SaaS cheat codes and how they can dramatically accelerate growth How to compete against large competitors The ideal way to structure your pricing How much should you really worry about churn Four common mistakes SaaS founders make How to identify the right marketing approaches for your business</dc:description>
+        <dc:language>en-US</dc:language>
+    </publication>
+    <annotation>
+        <dc:identifier>urn:uuid:25fe14e4-ebb8-4c4f-b37b-a104c7acb700</dc:identifier>
+        <dc:date>2025-06-30T11:28:41Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/The-SaaS-Playbook-EPUB.xhtml#point(/1/4/2/220/2:301)" end="OEBPS/The-SaaS-Playbook-EPUB.xhtml#point(/1/4/2/221:0)" progress="0.049505">
+                <text>So, you don’t know marketing, but you do know your customer; it’s better to write clearly and directly to a person you deeply understand than to have a degree in advertising.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:ab8ea674-28c7-4a7e-99dd-786b404623bb</dc:identifier>
+        <dc:date>2025-06-30T11:27:04Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/The-SaaS-Playbook-EPUB.xhtml#point(/1/4/2/209:4)" end="OEBPS/The-SaaS-Playbook-EPUB.xhtml#point(/1/4/2/211:1)" progress="0.049505">
+                <text>The elation the first time a customer gives you money for something that you created, which you can hardly believe they did considering how bad the product is.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:ccb68d27-373a-4287-802a-96e4e604228b</dc:identifier>
+        <dc:date>2025-06-30T11:26:16Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/The-SaaS-Playbook-EPUB.xhtml#point(/1/4/2/200/2:125)" end="OEBPS/The-SaaS-Playbook-EPUB.xhtml#point(/1/4/2/201:0)" progress="0.039604">
+                <text>Is it OK if you want to make a low-chance-of-success career decision mostly because you hate being told what to do and therefore cannot, in your own words, be successful in a “real job?”</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:b59fc9b8-4189-4ffe-b609-44650e285464</dc:identifier>
+        <dc:date>2025-06-30T11:34:00Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/The-SaaS-Playbook-EPUB.xhtml#point(/1/4/2/310/2:128)" end="OEBPS/The-SaaS-Playbook-EPUB.xhtml#point(/1/4/2/311:1)" progress="0.0891089">
+                <text>Another is that your business doesn’t die until you quit. Bootstrappers don’t run out of money; they run out of motivation.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:747d37a4-a3ed-4286-b9a3-519b08b9c45b</dc:identifier>
+        <dc:date>2025-07-27T14:34:06Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/The-SaaS-Playbook-EPUB.xhtml#point(/1/4/2/510/2:25)" end="OEBPS/The-SaaS-Playbook-EPUB.xhtml#point(/1/4/2/510/2:186)" progress="0.168317">
+                <text>for every $1,000 of monthly recurring revenue (MRR) you generate, you generate $60,000 of value in your company (assuming you sell at five times annual revenue).</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:ba7539e1-2088-476e-a139-4a1ee35f9c7a</dc:identifier>
+        <dc:date>2025-07-27T14:36:02Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/The-SaaS-Playbook-EPUB.xhtml#point(/1/4/2/542/2:267)" end="OEBPS/The-SaaS-Playbook-EPUB.xhtml#point(/1/4/2/545:0)" progress="0.178218">
+                <text>Even if you see the value of customer research, how do you find the time to do it?
+			 There’s another reason entrepreneurs don’t talk to customers: fear—fear that they’re bothering them, fear the customer will say something they don’t want to hear, fear that it’s a waste of time.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:20892f41-b296-4cbb-80c9-5d79f5385a7a</dc:identifier>
+        <dc:date>2025-07-28T18:04:14Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/The-SaaS-Playbook-EPUB.xhtml#point(/1/4/2/563:4)" end="OEBPS/The-SaaS-Playbook-EPUB.xhtml#point(/1/4/2/565:0)" progress="0.188119">
+                <text>As a general rule, ask open-ended rather than leading questions. If you say, “We’re thinking about building this. Check out this mock-up,” most people will have a hard time being honest. They don’t want to hurt your feelings, so they go along with it and you don’t get useful data.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:4e10fe9a-3433-42d3-9214-3bfa2fc375bd</dc:identifier>
+        <dc:date>2025-07-28T18:04:31Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/The-SaaS-Playbook-EPUB.xhtml#point(/1/4/2/562/1:5)" end="OEBPS/The-SaaS-Playbook-EPUB.xhtml#point(/1/4/2/562/11:0)" progress="0.188119">
+                <text>Can you walk me through a sample flow?
+				What problem are you trying to solve?
+				What do you currently use to solve this problem?
+				What did you use in the past?
+				What are some of your biggest frustrations about this solution?</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:15c60c1b-1746-4a97-b1fd-20c5bab1a7e9</dc:identifier>
+        <dc:date>2025-07-28T18:07:24Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/The-SaaS-Playbook-EPUB.xhtml#point(/1/4/2/587:4)" end="OEBPS/The-SaaS-Playbook-EPUB.xhtml#point(/1/4/2/589:0)" progress="0.19802">
+                <text>This involves learning how to separate valuable ideas from distractions, and until you hire a product manager (something that typically happens north of $1 million in ARR), you’re the person who needs to decide which features will strengthen your product-market fit.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:36569199-8da4-4950-b3b8-9d42c39caf70</dc:identifier>
+        <dc:date>2025-08-08T20:12:55Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/The-SaaS-Playbook-EPUB.xhtml#point(/1/4/2/624/2/1:3)" end="OEBPS/The-SaaS-Playbook-EPUB.xhtml#point(/1/4/2/624/2/1:220)" progress="0.207921">
+                <text>People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It means saying no to the hundred other good ideas . . . Innovation is saying ‘no’ to 1,000 things.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:9fb295d8-1c04-48f5-9f1f-3aa8f7e4cda7</dc:identifier>
+        <dc:date>2025-08-08T20:14:08Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/The-SaaS-Playbook-EPUB.xhtml#point(/1/4/2/627:4)" end="OEBPS/The-SaaS-Playbook-EPUB.xhtml#point(/1/4/2/629:0)" progress="0.207921">
+                <text>Your job is to figure out the problem your customer is trying to solve, not just build the solution they suggest. Then, figure out whether that solution requires a new feature and whether it’s worth building.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:3b864bed-ed04-4bc4-a2d8-375e6284776f</dc:identifier>
+        <dc:date>2025-08-08T20:14:32Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/The-SaaS-Playbook-EPUB.xhtml#point(/1/4/2/636/2:52)" end="OEBPS/The-SaaS-Playbook-EPUB.xhtml#point(/1/4/2/637:1)" progress="0.207921">
+                <text>What leads you to want that? What problem are you trying to solve with this feature? What are you currently using to get that done?”
+</text>
+            </fragment>
+        </target>
+    </annotation>
+</annotationSet>

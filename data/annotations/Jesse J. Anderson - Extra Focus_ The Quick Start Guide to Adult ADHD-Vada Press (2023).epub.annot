@@ -1,0 +1,146 @@
+
+<annotationSet xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://ns.adobe.com/digitaleditions/annotations">
+    <publication>
+        <dc:identifier>calibre:38303</dc:identifier>
+        <dc:title>Extra Focus: The Quick Start Guide to Adult ADHD</dc:title>
+        <dc:creator>Jesse J. Anderson</dc:creator>
+        <dc:language>en</dc:language>
+    </publication>
+    <annotation>
+        <dc:identifier>urn:uuid:b22da146-1977-49f4-87c9-95730e34112b</dc:identifier>
+        <dc:date>2025-06-18T19:28:19Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/upart-001-what-is-adhd.xhtml#point(/1/4/2/4/13:7)" end="OEBPS/upart-001-what-is-adhd.xhtml#point(/1/4/2/4/15:0)" progress="0.116129">
+                <text>Those of us with ADHD don’t actually have a deficit of attention. It’s the opposite—we have an abundance of it! We’re often paying attention to everything all at once; so much so that we can lose track of what’s important.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:6009271d-9a45-43ed-9bc0-10234c9be775</dc:identifier>
+        <dc:date>2025-06-18T19:50:46Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/upart-002-motivating-the-adhd-brain.xhtml#point(/1/4/2/4/29:7)" end="OEBPS/upart-002-motivating-the-adhd-brain.xhtml#point(/1/4/2/4/31:0)" progress="0.225806">
+                <text>Dr. William Dodson, a board-certified psychiatrist who was one of the first practitioners to specialize in treating adults with ADHD, suggests people with ADHD have a different nervous system than neurotypical people. He theorizes that while most people have an importance-based nervous system, people with ADHD have an interest-based nervous system. They primarily find motivation through interest, novelty, challenge, and urgency.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:1f9d5513-c7fa-419d-8d6d-fb8cf57d1802</dc:identifier>
+        <dc:date>2025-06-18T19:50:58Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/upart-002-motivating-the-adhd-brain.xhtml#point(/1/4/2/4/27:7)" end="OEBPS/upart-002-motivating-the-adhd-brain.xhtml#point(/1/4/2/4/29:0)" progress="0.225806">
+                <text>Specifically, one of the greatest challenges we face is task initiation—actually getting started on a task. Moving thought into action.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:b72960b7-7b63-4081-b550-1a2059f3003b</dc:identifier>
+        <dc:date>2025-06-18T19:55:54Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/upart-002-building-your-motivation-momentum.xhtml#point(/1/4/2/4/13:7)" end="OEBPS/upart-002-building-your-motivation-momentum.xhtml#point(/1/4/2/4/15:0)" progress="0.258065">
+                <text>It might sound logical that if you tackle the hardest problem first, the rest of the day will be easier. But the reality never seems to line up. The difficult task is often too much to confront before building up any momentum, so we end up staring at it all day and get nothing done at all.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:c42c8519-998d-4542-bfa2-67001dcb13a1</dc:identifier>
+        <dc:date>2025-06-18T20:02:05Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/upart-003-strategy-change-your-environment.xhtml#point(/1/4/2/4/1:7)" end="OEBPS/upart-003-strategy-change-your-environment.xhtml#point(/1/4/2/4/5:0)" progress="0.341935">
+                <text>It’s easy to get stuck in a rut where nothing seems to motivate you. Being surrounded by the same old scenery may be part of the problem. Changing your environment can be just the trick for making everything feel fresh again.
+       Try moving to a new room or working from a new desk. If possible, you could try working in a public area like a coffee shop or shared coworking space.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:026a6bb2-bbd3-462f-a917-62b9c475c359</dc:identifier>
+        <dc:date>2025-06-22T00:21:54Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/upart-003-strategy-take-side-quests.xhtml#point(/1/4/2/4/5:7)" end="OEBPS/upart-003-strategy-take-side-quests.xhtml#point(/1/4/2/4/8/1/1:144)" progress="0.503226">
+                <text>Sometimes a large project or assignment might feel too daunting, but then you find an angle or aspect of the project that’s especially interesting and draws you in. Suddenly, the rest of the project begins to flow naturally.
+       For example, I often get excited about new design projects because they give me an excuse to explore a new technique I’ve been meaning to try.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:1569cf65-4ee4-47a0-b6ea-db7f8262d793</dc:identifier>
+        <dc:date>2025-06-22T21:17:25Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/upart-004-the-clockless-mind.xhtml#point(/1/4/2/4/3:7)" end="OEBPS/upart-004-the-clockless-mind.xhtml#point(/1/4/2/4/9:1)" progress="0.535484">
+                <text>It didn’t matter what the subject was. Whether I was interested in it or not, I would put it off and put it off.
+       But at some point—usually past midnight—something in my brain would finally click into urgency mode. The deadline finally felt near, and I would jump into frantic, focused action.
+       I knew it was too late to give the assignment the time it deserved, and my mind raced in desperation to get it complete. And I would! Usually. The urgency of the moment would often give me just the push I needed.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:1bea79f8-1872-4652-b825-ffbda48983b0</dc:identifier>
+        <dc:date>2025-06-24T06:59:24Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/upart-005-out-of-sight-out-of-mind.xhtml#point(/1/4/2/4/27:7)" end="OEBPS/upart-005-out-of-sight-out-of-mind.xhtml#point(/1/4/2/4/29:0)" progress="0.670968">
+                <text>This phenomenon can occur with people, too. If you haven’t seen someone recently, you might forget to invest time in maintaining that relationship and may even forget they exist until you see them again in person. This can add a lot of stress to personal and family relationships. Other people are often offended and fail to understand what’s happening.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:327ba2f4-03ef-4513-a244-ab981077e693</dc:identifier>
+        <dc:date>2025-06-26T06:49:41Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/upart-006-success-amnesia.xhtml#point(/1/4/2/4/1:7)" end="OEBPS/upart-006-success-amnesia.xhtml#point(/1/4/2/4/5:0)" progress="0.774194">
+                <text>For most neurotypical people, past success can serve as motivation and inspiration for future success. But because people with ADHD have a weaker memory, we rarely use—much less benefit from—hindsight.
+       This means we tend to discount or forget our past wins. They fade quickly into the fog of time.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:b7bf425e-d873-4656-b73e-e87447166659</dc:identifier>
+        <dc:date>2025-06-26T06:50:49Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/upart-006-success-amnesia.xhtml#point(/1/4/2/4/24/1/1:108)" end="OEBPS/upart-006-success-amnesia.xhtml#point(/1/4/2/4/24/3/1:71)" progress="0.780645">
+                <text>Even if we do remember them, we often dismiss and discount them by comparing them to our biggest failures. Or you might think, “That was too easy for me, so it doesn’t count.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:f83b38ee-8a79-4da6-84dd-995e578650d2</dc:identifier>
+        <dc:date>2025-06-26T06:51:36Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/upart-006-success-amnesia.xhtml#point(/1/4/2/4/25:7)" end="OEBPS/upart-006-success-amnesia.xhtml#point(/1/4/2/4/29:0)" progress="0.780645">
+                <text>This combination of poor memory, past failures, and sensitivity to negative feedback pulls you down into self-doubt. You can’t remember what you’ve done well, but the memories of when you’ve failed or disappointed people remain strong.
+       If you’re not conscious of it, you can easily get stuck ruminating in this negative headspace. You need to find an escape.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:9bcc9b4f-5c1f-49a6-acb1-2faf97d52653</dc:identifier>
+        <dc:date>2025-06-28T06:15:35Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/upart-006-rejection-sensitivity.xhtml#point(/1/4/2/4/1:7)" end="OEBPS/upart-006-rejection-sensitivity.xhtml#point(/1/4/2/4/3:0)" progress="0.845161">
+                <text>One emotion that strikes people with ADHD deeply is the feeling of rejection or criticism. Our response to it can often be—stop me if you’ve heard this before—quite extreme.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:92e5f168-30e1-4d34-b5b6-6624cdf56af5</dc:identifier>
+        <dc:date>2025-06-29T20:44:25Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="OEBPS/upart-006-rejection-sensitivity.xhtml#point(/1/4/2/4/19:7)" end="OEBPS/upart-006-rejection-sensitivity.xhtml#point(/1/4/2/4/21:0)" progress="0.851613">
+                <text>This leads some to become people-pleasers or overachievers. You are terrified of feeling that rejection again, so you focus all your energy on trying to build up a bulletproof façade that can never be rejected or criticized. Or you may avoid putting yourself in social situations just to avoid any opportunity for you to be seen in a negative light.</text>
+            </fragment>
+        </target>
+    </annotation>
+</annotationSet>

@@ -1,0 +1,82 @@
+
+<annotationSet xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://ns.adobe.com/digitaleditions/annotations">
+    <publication>
+        <dc:identifier>8f8b3d0b-4591-40c2-9862-c1b9b0619867</dc:identifier>
+        <dc:title>Screaming into the void (Zero to $100/month)</dc:title>
+        <dc:creator>Alex West</dc:creator>
+        <dc:language>en</dc:language>
+    </publication>
+    <annotation>
+        <dc:identifier>urn:uuid:64218a51-4aa5-4e8f-81bc-e31846edd6d3</dc:identifier>
+        <dc:date>2025-09-19T12:10:32Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="GoogleDoc/Untitleddocument_split_002.xhtml#point(/1/4/1782/1:7)" end="GoogleDoc/Untitleddocument_split_002.xhtml#point(/1/4/1808/3:0)" progress="0.84">
+                <text>Every single one of my products that made money is kinda controversial.
+    
+     
+      
+    
+     
+      • GitGardener is considered cheeky and a hack.
+    
+     
+      • Telemonetize is basically serving scammers.
+    
+     
+      • EpilepsyBlocker is asking money from disabled people.
+    
+     
+      
+    
+     
+      Is this unique to me, or could you criticize every product if you really wanted to and tried?
+    
+     
+      
+    
+     
+      I decide to:
+    
+     
+      • Make Epilepsy Blocker free.
+    
+     
+      • Kill Telemonetize.
+    
+     
+      • And put GitGardener on the backburner.
+    
+     
+      
+    
+     
+      It felt amazing. GitGardener made me my first dollar. Telemonetize taught me how to code. And Epilepsy Blocker got me a fantastic job. That was enough.</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:f3f971c7-0d70-4a54-930f-c525efa367da</dc:identifier>
+        <dc:date>2025-09-19T12:10:54Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="GoogleDoc/Untitleddocument_split_002.xhtml#point(/1/4/1812/1:7)" end="GoogleDoc/Untitleddocument_split_002.xhtml#point(/1/4/1814/3:1)" progress="0.88">
+                <text>Enough of this shit. Let's sell to businesses.
+    
+     
+      This was my second big realization. I wanted to go B2B.
+</text>
+            </fragment>
+        </target>
+    </annotation>
+    <annotation>
+        <dc:identifier>urn:uuid:4e577a00-3657-47b4-9360-051d24f58e1b</dc:identifier>
+        <dc:date>2025-09-19T12:11:29Z</dc:date>
+        <dc:creator>urn:uuid:acbea043-dcae-4a2f-9505-2dfd12705ad5</dc:creator>
+        <target>
+            <fragment start="GoogleDoc/Untitleddocument_split_002.xhtml#point(/1/4/1828/2/1:2)" end="GoogleDoc/Untitleddocument_split_002.xhtml#point(/1/4/1828/3:0)" progress="0.88">
+                <text> you start thinking, you lose.</text>
+            </fragment>
+        </target>
+    </annotation>
+</annotationSet>
