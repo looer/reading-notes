@@ -32,22 +32,33 @@ export async function parseAnnotationFile(filePath: string): Promise<Book> {
     const result = await parseStringPromise(content);
     const annotationSet = result.annotationSet;
 
-    const title = annotationSet.publication[0]['dc:title'][0];
+    const publication = annotationSet.publication[0];
+    const title = publication['dc:title'][0];
+    const author = publication['dc:creator']?.[0] || 'Unknown Author';
+    const language = publication['dc:language']?.[0] || 'en';
+
     const book: Book = {
         title,
-        author: annotationSet.publication[0]['dc:creator'][0],
-        language: annotationSet.publication[0]['dc:language'][0],
+        author,
+        language,
         annotations: [],
         fileName: path.basename(filePath, '.epub.annot'),
         slug: createSlug(title)
     };
 
     if (annotationSet.annotation) {
-        book.annotations = annotationSet.annotation.map((annotation: any) => ({
-            identifier: annotation['dc:identifier'][0],
-            date: new Date(annotation['dc:date'][0]).toISOString(),
-            text: annotation.target[0].fragment[0].text[0]
-        })).sort((a: Annotation, b: Annotation) => new Date(a.date).getTime() - new Date(b.date).getTime());
+        book.annotations = annotationSet.annotation
+            .filter((annotation: any) =>
+                annotation['dc:identifier']?.[0] &&
+                annotation['dc:date']?.[0] &&
+                annotation.target?.[0]?.fragment?.[0]?.text?.[0]
+            )
+            .map((annotation: any) => ({
+                identifier: annotation['dc:identifier'][0],
+                date: new Date(annotation['dc:date'][0]).toISOString(),
+                text: annotation.target[0].fragment[0].text[0]
+            }))
+            .sort((a: Annotation, b: Annotation) => new Date(a.date).getTime() - new Date(b.date).getTime());
     }
 
     return book;
@@ -59,10 +70,15 @@ export async function getAllBooks(): Promise<Book[]> {
     const annotationFiles = files.filter(file => file.endsWith('.epub.annot'));
 
     const books = await Promise.all(
-        annotationFiles.map(file =>
-            parseAnnotationFile(path.join(annotationsDir, file))
-        )
+        annotationFiles.map(async (file) => {
+            try {
+                return await parseAnnotationFile(path.join(annotationsDir, file));
+            } catch (error) {
+                console.error(`Failed to parse annotation file ${file}:`, error);
+                return null;
+            }
+        })
     );
 
-    return books;
+    return books.filter(book => book !== null) as Book[];
 } 
